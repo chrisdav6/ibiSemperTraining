@@ -1,0 +1,23 @@
+@mixin mq($width: 50em) {
+  @media(max-width: $width) {
+    @content;
+  }
+}
+
+@mixin mq600($width: 600px) {
+  @media(max-width: $width) {
+    @content;
+  }
+}
+
+@mixin mq768($width: 768px) {
+  @media(max-width: $width) {
+    @content;
+  }
+}
+
+@mixin mq1200($width: 1200px) {
+  @media(max-width: $width) {
+    @content;
+  }
+}
