@@ -1,13 +1,17 @@
 .navbar {
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(255, 255, 255, 0.7);
   font-family: "Lato";
   position: relative; //make nav bar on top logo
   z-index: 1002; //make nav bar on top of logo
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .navbar-light .navbar-nav .nav-link,
 .navbar-brand {
-  color: #fff;
+  color: $dark-gray;
   font-weight: 600;
   transition: .3s;
 
@@ -17,7 +21,7 @@
 }
 
 .navbar-light .navbar-toggler {
-  border-color: #fff;
+  border-color: $dark-gray;
   outline: none;
 }
 
@@ -42,7 +46,7 @@
 }
 
 .navbar-nav > li {
-  border-right: 1px solid #fff;
+  border-right: 1px solid $dark-gray;
 }
 
 .navbar-nav > li:last-child {
@@ -92,5 +96,15 @@
   .dropdown-menu>a {
     word-wrap: break-word;
     white-space: normal;
+  }
+}
+
+@media (max-width: 1200px) {
+  .navbar {
+    background-color: rgba(255, 255, 255, 1);
+  }
+
+  .navbar-nav > li {
+    border-right: none;
   }
 }

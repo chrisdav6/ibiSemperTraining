@@ -12,3 +12,10 @@ p {
 .link {
   font-weight: 600;
 }
+
+hr {
+  border: none;
+  height: 2px;
+  background: $dark-gray;
+  width: 40%;
+}

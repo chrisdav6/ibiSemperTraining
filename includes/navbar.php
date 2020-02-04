@@ -4,7 +4,7 @@
       <a class="navbar-brand" href="/"><img src="public/img/logo.png" alt="IBI Semper Training Logo" height="70"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars" style="color:#fff; font-size:28px;"></i>
+        <i class="fas fa-bars" style="color:#303030; font-size:28px;"></i>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
