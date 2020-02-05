@@ -1,5 +1,5 @@
 <header>
-  <nav class="navbar navbar-expand-xl navbar-light py-3">
+  <nav class="navbar navbar-expand-lg navbar-light py-3">
     <div class="container px-3">
       <a class="navbar-brand" href="/"><img src="public/img/logo.png" alt="IBI Semper Training Logo" height="70"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -18,14 +18,16 @@
           <li class="nav-item">
             <a class="nav-link" href="#">PTSD Application Forms</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Volunteer</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Purchase</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Sponsor Opportunities</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Support
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Volunteer</a>
+              <a class="dropdown-item" href="#">Purchase</a>
+              <a class="dropdown-item" href="#">Sponsor Opportunities</a>
+            </div>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Photos</a>
@@ -35,6 +37,12 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">FAQ</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-0 ml-lg-3">
+          <li class="nav-item mr-1">
+            <a class="social-head facebook" href="https://www.facebook.com/ibisempertraining1" target="_blank"><i
+                class="fab fa-facebook-square fa-2x"></i></a>
           </li>
         </ul>
       </div>
