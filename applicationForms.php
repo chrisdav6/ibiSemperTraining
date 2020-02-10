@@ -28,7 +28,18 @@
 <body class="d-flex flex-column">
   <?php include_once "includes/navbar.php"; ?>
 
+  <div class="secondary-heading">
+    <div class="container">
+      <h1>PTSD Application Forms</h1>
+      <hr>
+    </div>
+  </div>
 
+  <div class="secondary-content mt-4">
+    <div class="container">
+      <p>Application form content</p>
+    </div>
+  </div>
 
   <?php include_once "includes/footer.php"; ?>
 

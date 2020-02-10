@@ -9,10 +9,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="#">Staff</a>
+            <a class="nav-link" href="/staff.php">Staff</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Events</a>
+            <a class="nav-link" href="/events.php">Events</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="/applicationForms.php">PTSD Application Forms</a>
@@ -22,19 +22,19 @@
               Support
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Volunteer</a>
-              <a class="dropdown-item" href="#">Purchase</a>
-              <a class="dropdown-item" href="#">Sponsor Opportunities</a>
+              <a class="dropdown-item" href="/volunteer.php">Volunteer</a>
+              <a class="dropdown-item" href="/purchase.php">Purchase</a>
+              <a class="dropdown-item" href="/sponsor.php">Sponsor Opportunities</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Photos</a>
+            <a class="nav-link" href="/photos.php">Photos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">News</a>
+            <a class="nav-link" href="/news.php">News</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">FAQ</a>
+            <a class="nav-link" href="/faqs.php">FAQ's</a>
           </li>
         </ul>
         <ul class="navbar-nav ml-0 ml-lg-3">

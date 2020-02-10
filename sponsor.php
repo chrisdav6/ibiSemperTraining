@@ -1,0 +1,54 @@
+<?php
+  $title = "IBI Semper Training - Sponsor Opportunities";
+  $metaDesc = "Engage Veterans and First Responders with PTSD, improve lives and help dogs in need through PTSD Service
+  Dog training and promoting awareness of PTSD";
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="<?php echo $metaDesc; ?>">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="public/css/style.css">
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
+  <title><?php echo $title; ?></title>
+</head>
+
+<body class="d-flex flex-column">
+  <?php include_once "includes/navbar.php"; ?>
+
+  <div class="secondary-heading">
+    <div class="container">
+      <h1>Sponsor Opportunities</h1>
+      <hr>
+    </div>
+  </div>
+
+  <div class="secondary-content mt-4">
+    <div class="container">
+      <p>Sponsor Opportunities content</p>
+    </div>
+  </div>
+
+  <?php include_once "includes/footer.php"; ?>
+
+  <script src="public/js/jquery.min.js"></script>
+  <script src="public/js/bootstrap.bundle.min.js"></script>
+  <script src="public/js/util.js"></script>
+  <script src="public/js/smooth-scroll.min.js"></script>
+  <script src="public/js/scripts.js"></script>
+
+</body>
+
+</html>

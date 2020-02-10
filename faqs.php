@@ -1,5 +1,5 @@
 <?php
-  $title = "IBI Semper Training - News";
+  $title = "IBI Semper Training - FAQ's";
   $metaDesc = "Engage Veterans and First Responders with PTSD, improve lives and help dogs in need through PTSD Service
   Dog training and promoting awareness of PTSD";
 ?>
@@ -30,14 +30,14 @@
 
   <div class="secondary-heading">
     <div class="container">
-      <h1>News</h1>
+      <h1>FAQ's</h1>
       <hr>
     </div>
   </div>
 
   <div class="secondary-content mt-4">
     <div class="container">
-      <p>News content</p>
+      <p>FAQ's content</p>
     </div>
   </div>
 
