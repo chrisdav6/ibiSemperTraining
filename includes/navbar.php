@@ -2,8 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light py-3">
     <div class="container px-3">
       <a class="navbar-brand" href="/"><img src="public/img/logo.png" alt="IBI Semper Training Logo" height="70"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars" style="color:#303030; font-size:28px;"></i>
       </button>
 
@@ -16,11 +15,10 @@
             <a class="nav-link" href="#">Events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">PTSD Application Forms</a>
+            <a class="nav-link" href="/applicationForms.php">PTSD Application Forms</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Support
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -41,8 +39,7 @@
         </ul>
         <ul class="navbar-nav ml-0 ml-lg-3">
           <li class="nav-item mr-1">
-            <a class="social-head facebook" href="https://www.facebook.com/ibisempertraining1" target="_blank"><i
-                class="fab fa-facebook-square fa-2x"></i></a>
+            <a class="social-head facebook" href="https://www.facebook.com/ibisempertraining1" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
           </li>
         </ul>
       </div>

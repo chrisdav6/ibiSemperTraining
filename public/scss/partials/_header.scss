@@ -45,15 +45,15 @@
   font-size: 1.1rem;
 }
 
-.navbar-nav > li {
+.navbar-nav>li {
   border-right: 1px solid $dark-gray;
 }
 
-.navbar-nav > li:last-child {
+.navbar-nav>li:last-child {
   border-right: none;
 }
 
-.navbar-nav > li {
+.navbar-nav>li {
   padding: 0 5px;
 }
 
@@ -104,7 +104,7 @@
     background-color: rgba(255, 255, 255, 1);
   }
 
-  .navbar-nav > li {
+  .navbar-nav>li {
     border-right: none;
   }
 }
