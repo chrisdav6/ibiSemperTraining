@@ -35,15 +35,59 @@
     </div>
   </div>
 
-  <div class="secondary-content mt-4">
+  <div class="secondary-content mt-4 mb-5">
     <div class="container">
-      <p>News content</p>
+
+      <a class="newsItem" href="https://abc7chicago.com/pets-animals/only-service-dogs-allowed-on-flights-in-new-dot-rules/5871271" target="_blank">
+        Only service dogs allowed on flights in new DOT rules
+      </a>
+
+      <a class="newsItem" href="https://www.npr.org/2020/01/23/798662547/federal-government-may-tighten-restrictions-on-service-animals-on-planes" target="_blank">
+        Federal Government May Tighten Restrictions On Service Animals On Planes
+      </a>
+
+      <a class="newsItem" href="https://vancouversun.com/opinion/columnists/daphne-bramham-before-planes-become-noahs-ark-some-regulation-is-needed" target="_blank">
+        Daphne Bramham: Before planes become Noah's ark, some regulation is needed
+      </a>
+
+      <a class="newsItem" href="https://www.syossetadvance.com/articles/therapy-dogs-visit-syossets-harvest-house" target="_blank">
+        Therapy dogs visit Syosset’s Harvest House
+      </a>
+
+      <a class="newsItem" href="https://www.palmbeachpost.com/news/20200128/cerabino-doggone-it-feds-looking-to-ground-emotional-support-pets" target="_blank">
+        Cerabino: Doggone it, feds looking to ground “emotional support” pets
+      </a>
+
+      <a class="newsItem" href="https://www.distractify.com/p/uber-wheelchair-service-dog" target="_blank">
+        Uber Driver Refuses Rider with Service Animal - for the fourth time in one week
+      </a>
+
+      <a class="newsItem" href="https://www.telegram.com/news/20200112/princetons-neads-supporting-fergusons-efforts-to-fight-service-dog-fraud" target="_blank">
+        Princeton’s NEADS supporting Ferguson’s efforts to fight service dog fraud
+      </a>
+
+      <a class="newsItem" href="https://www.denverpost.com/2020/01/09/snowmass-village-hoa-service-dog" target="_blank">
+        Snowmass Village HOA illegally banned a resident’s service dog, is ordered to pay victim $50,000
+      </a>
+
+      <a class="newsItem" href="https://abcnews4.com/news/local/lowcountry-veteran-says-he-and-his-service-dog-are-being-harassed-because-of-leash-laws" target="_blank">
+        Lowcountry veteran says he and his service dog are being harassed because of leash laws
+      </a>
+
+      <a class="newsItem" href="https://fox17.com/news/local/why-are-pets-everywhere-businesses-airlines-cracking-down-on-service-animal-rules" target="_blank">
+        Why are pets everywhere? Businesses, airlines cracking down on service animal rules
+      </a>
+
+      <a class="newsItem" href="https://www.theexaminernews.com/respect-the-vest-working-canines-and-what-they-do" target="_blank">
+        Respect the Vest: Working Canines and What They Do
+      </a>
+
     </div>
   </div>
 
   <?php include_once "includes/footer.php"; ?>
 
-  <script src="public/js/jquery.min.js"></script>
+  <script src=" public/js/jquery.min.js"> </script>
   <script src="public/js/bootstrap.bundle.min.js"></script>
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>

@@ -1,0 +1,15 @@
+.newsItem {
+  padding: .75em;
+  border: 1px solid black;
+  font-size: 1.3rem;
+  color: #111111;
+  display: block;
+  margin-bottom: 1em;
+  transition: background-color .4s;
+
+  &:hover {
+    background-color: red;
+    text-decoration: none;
+    color: #fff;
+  }
+}
