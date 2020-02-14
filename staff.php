@@ -35,9 +35,31 @@
     </div>
   </div>
 
-  <div class="secondary-content mt-4">
+  <div class="secondary-content mt-4 mb-5">
     <div class="container">
-      <p>Staff content</p>
+
+      <div class="staffMember">
+        <div class="staffImage">
+          <img class="img-fluid" src="./public/img/sonya.png" alt="Sonya Picture">
+        </div>
+        <div class="staffContent">
+          <h3>Sonya Ward</h3>
+          <hr>
+          <p>Board member and fellow trainer. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda asperiores ex excepturi veniam quidem dolore quaerat consectetur iure corporis aperiam aut, earum beatae? Qui dicta excepturi nihil deserunt earum tempore?</p>
+        </div>
+      </div>
+
+      <div class="staffMember">
+        <div class="staffImage">
+          <img class="img-fluid" src="./public/img/shelley.png" alt="Shelly Picture">
+        </div>
+        <div class="staffContent">
+          <h3>Shelley Dame</h3>
+          <hr>
+          <p>Board member and fellow trainer. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus, at vero. Expedita distinctio et dignissimos minus, voluptatum eos optio asperiores?</p>
+        </div>
+      </div>
+
     </div>
   </div>
 

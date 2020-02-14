@@ -1,0 +1,37 @@
+.staffMember {
+  display: flex;
+  margin-bottom: 3em;
+
+  .staffImage {
+    width: 275px;
+    margin-right: 1em;
+  }
+
+  .staffImage img {
+    border: 2px solid #111111;
+  }
+
+  .staffContent {
+    width: 100%;
+
+    hr {
+      margin-top: 0;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .staffMember {
+    flex-direction: column;
+    text-align: center;
+
+    h3 {
+      margin: 1em 0;
+    }
+
+    .staffImage {
+      width: 175px;
+      margin: 0 auto;
+    }
+  }
+}
