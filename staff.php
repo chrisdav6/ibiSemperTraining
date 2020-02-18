@@ -45,7 +45,8 @@
         <div class="staffContent">
           <h3>Sonya Ward</h3>
           <hr>
-          <p>Board member and fellow trainer. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda asperiores ex excepturi veniam quidem dolore quaerat consectetur iure corporis aperiam aut, earum beatae? Qui dicta excepturi nihil deserunt earum tempore?</p>
+          <p>Sonya Ward was born in Germany and raised in Europe. She has traveled extensively, visiting all but one continent and an innate interest in culture and history. She has a German and American college degree majoring in business and marketing. Sonya has a lifelong love for dogs and has been training Veterans with PTSD and their dogs for the past 4 years. She has and is continuing to attend workshops and training classes as well as immersing herself in material pertaining to Veterans, dogs and PTSD. It was due to the support and interest of the Veterans in the area that Sonya decided to start Ibi Semper Training, Inc and she is looking very much forward to working and training Veterans and First Responders in the Capital District.
+          </p>
         </div>
       </div>
 
