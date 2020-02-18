@@ -56,7 +56,8 @@
         <div class="staffContent">
           <h3>Shelley Dame</h3>
           <hr>
-          <p>Board member and fellow trainer. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus, at vero. Expedita distinctio et dignissimos minus, voluptatum eos optio asperiores?</p>
+          <p>Shelley Dame is a Hudson Valley Community College graduate in Business Administration and went on to receive her paralegal degree from National Paralegal Studies Program. She has a lifelong love for dogs and other animals and has been a dog trainer for over three years, training her own Golden Retriever as therapy dog. In 2018 Shelley founded and opened the very successful dog boarding business “All About Dawgs, LLC”. Besides being a Board member, Shelley is an active volunteer at IBI Semper Training and is very excited to be working with veterans and their dogs.”
+          </p>
         </div>
       </div>
 
