@@ -35,7 +35,7 @@
     </div>
   </div>
 
-  <div class="secondary-content mt-4 mb-5">
+  <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
       <a class="newsItem" href="https://abc7chicago.com/pets-animals/only-service-dogs-allowed-on-flights-in-new-dot-rules/5871271" target="_blank">

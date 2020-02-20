@@ -35,9 +35,51 @@
     </div>
   </div>
 
-  <div class="secondary-content mt-4">
+  <div id="events" class="secondary-content mt-4 mb-5">
     <div class="container">
-      <p>Events content</p>
+      <h2>Fundraisers</h2>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="event">
+            <div class="date red">Feb<span>28</span></div>
+            <div class="text">Trivia Night<a class="red" href="https://goo.gl/maps/tK4uHfRwboRJZceq7" target="_blank">Katie O'Byrnes Restaurant</a></div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="event">
+            <div class="date red">Mar<span>29</span></div>
+            <div class="text">Jump4PTSD ServiceDogs<a class="red" href="https://g.page/Airdrenaline?share" target="_blank">Airdrenaline Park</a></div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="event">
+            <div class="date red">May<span>16</span></div>
+            <div class="text">Pet Fest<a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a></div>
+          </div>
+        </div>
+      </div><!-- /row -->
+
+      <h2>Outreach Events</h2>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="event">
+            <div class="date blue">Feb<span>25</span></div>
+            <div class="text">Battlefield 2 Boardroom<a class="blue" href="https://goo.gl/maps/fjPhbndtjDVM8kXy5" target="_blank">Tully Rinckey PLLC</a></div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="event">
+            <div class="date blue">Mar<span>20</span></div>
+            <div class="text">Arts4Vets<a class="blue" href="https://goo.gl/maps/Vh8PhSmSDs6GCRfw9" target="_blank">American Legion Post #1520</a></div>
+          </div>
+        </div>
+      </div><!-- /row -->
+
     </div>
   </div>
 

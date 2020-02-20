@@ -1,0 +1,70 @@
+#events {
+  h2 {
+    display: inline-block;
+    color: white;
+    background: red;
+    padding: .25em .75em;
+    margin-bottom: 1.5em;
+  }
+
+  h2:nth-of-type(2) {
+    margin-top: 1.5em;
+    background: rgb(3, 70, 196);
+  }
+
+  .event {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5em;
+
+    .date {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      font-weight: bold;
+      width: 100px;
+      padding: .5em;
+      line-height: 2.25rem;
+      margin-right: .5em;
+
+      span {
+        font-weight: normal;
+        font-size: 2.5rem;
+      }
+    }
+
+    .date.red {
+      border: 2px solid red;
+    }
+
+    .date.blue {
+      border: 2px solid rgb(3, 70, 196);
+    }
+
+    .text {
+      font-size: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      font-weight: bold;
+
+      a {
+        font-weight: normal;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      a.red {
+        color: red;
+      }
+
+      a.blue {
+        color: rgb(3, 70, 196);
+      }
+    }
+  }
+}
