@@ -49,6 +49,10 @@
       flex-direction: column;
       font-weight: bold;
 
+      .event-link {
+        font-weight: bold;
+      }
+
       a {
         font-weight: normal;
         text-decoration: none;
