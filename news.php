@@ -38,6 +38,10 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.military.com/daily-news/2020/02/07/bill-provide-service-dogs-veterans-ptsd-passes-house-unanimously.html" target="_blank">
+        Bill to Provide Service Dogs for Veterans with PTSD Passes House Unanimously
+      </a>
+
       <a class="newsItem" href="https://abc7chicago.com/pets-animals/only-service-dogs-allowed-on-flights-in-new-dot-rules/5871271" target="_blank">
         Only service dogs allowed on flights in new DOT rules
       </a>
