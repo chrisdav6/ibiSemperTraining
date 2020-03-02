@@ -35,9 +35,54 @@
     </div>
   </div>
 
-  <div class="secondary-content mt-4">
+  <div id="applications" class="secondary-content mt-4 mb-5">
     <div class="container">
-      <p>Application form content</p>
+      <div class="row">
+
+        <div class="col-md-6">
+          <div class="form-item">
+            <h4>IST PTSD Service Dog Application</h4>
+            <a href="./public/pdf/PTSDServiceDogApplication.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-item">
+            <h4>Waiver of Liability & Informed Consent Release</h4>
+            <a href="./public/pdf/waiverOfLiability.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-item">
+            <h4>Volunteer Information</h4>
+            <a href="./public/pdf/volunteerInformation.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-item">
+            <h4>Applicant Intake Form</h4>
+            <a href="./public/pdf/applicantIntakeForm.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-item">
+            <h4>Physician Form Letter</h4>
+            <a href="./public/pdf/physicianFormLetter.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="form-item">
+            <h4>Training Facility Operating Policies</h4>
+            <a href="./public/pdf/trainingFacilityOperatingPolicies.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
+          </div>
+        </div>
+
+      </div><!-- /row -->
     </div>
   </div>
 
