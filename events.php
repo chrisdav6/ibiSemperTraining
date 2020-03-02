@@ -40,7 +40,7 @@
       <h2>Fundraisers</h2>
 
       <div class="row">
-        <div class="col-md-6">
+        <!-- <div class="col-md-6">
           <div class="event">
             <div class="date red">Feb<span>28</span></div>
             <div class="text">
@@ -48,7 +48,7 @@
               <a class="red" href="https://goo.gl/maps/tK4uHfRwboRJZceq7" target="_blank">Katie O'Byrnes Restaurant</a>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-md-6">
           <div class="event">
@@ -72,14 +72,14 @@
       <h2>Outreach Events</h2>
 
       <div class="row">
-        <div class="col-md-6">
+        <!-- <div class="col-md-6">
           <div class="event">
             <div class="date blue">Feb<span>25</span></div>
             <div class="text">
               <a class="text-dark event-link" href="#" target="_blank">Battlefield 2 Boardroom</a>
               <a class="blue" href="https://goo.gl/maps/fjPhbndtjDVM8kXy5" target="_blank">Tully Rinckey PLLC</a></div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-md-6">
           <div class="event">
