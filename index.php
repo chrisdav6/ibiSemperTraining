@@ -31,7 +31,7 @@
   <section id="hero">
     <div class="content">
       <div class="container">
-        <h1>IBI Semper Training</h1>
+        <h1>IBi Semper Training</h1>
         <hr>
         <p class="intro">Engaging Veterans and First Responders with PTSD, improve lives and help dogs in need through
           PTSD Service Dog training and promoting awareness of PTSD</p>
