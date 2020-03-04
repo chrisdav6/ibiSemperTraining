@@ -40,22 +40,15 @@
       <h2>Fundraisers</h2>
 
       <div class="row">
-        <!-- <div class="col-md-6">
-          <div class="event">
-            <div class="date red">Feb<span>28</span></div>
-            <div class="text">
-              <a class="text-dark event-link" href="./public/pdf/triviaNightFeb282020.pdf" target="_blank">Trivia Night</a>
-              <a class="red" href="https://goo.gl/maps/tK4uHfRwboRJZceq7" target="_blank">Katie O'Byrnes Restaurant</a>
-            </div>
-          </div>
-        </div> -->
 
         <div class="col-md-6">
           <div class="event">
             <div class="date red">Mar<span>29</span></div>
             <div class="text">
-              <a class="text-dark event-link" href="./public/pdf/AAPMar292020.pdf" target="_blank">Jump4PTSD ServiceDogs</a>
-              <a class="red" href="https://g.page/Airdrenaline?share" target="_blank">Airdrenaline Park</a></div>
+              <p class="eventTitle">Jump4PTSD ServiceDogs</p>
+              <a class="red" href="https://g.page/Airdrenaline?share" target="_blank">Airdrenaline Park</a>
+              <a class="text-dark event-link" href="./public/pdf/AAPMar292020.pdf" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+            </div>
           </div>
         </div>
 
@@ -63,32 +56,30 @@
           <div class="event">
             <div class="date red">May<span>16</span></div>
             <div class="text">
-              <a class="text-dark event-link" href="https://www.glensfalls.com/event/pet-fest-118896" target="_blank">Pet Fest</a>
-              <a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a></div>
+              <p class="eventTitle">Pet Fest</p>
+              <a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a>
+              <a class="text-dark event-link" href="https://www.glensfalls.com/event/pet-fest-118896" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+            </div>
           </div>
         </div>
+
       </div><!-- /row -->
 
       <h2>Outreach Events</h2>
 
       <div class="row">
-        <!-- <div class="col-md-6">
-          <div class="event">
-            <div class="date blue">Feb<span>25</span></div>
-            <div class="text">
-              <a class="text-dark event-link" href="#" target="_blank">Battlefield 2 Boardroom</a>
-              <a class="blue" href="https://goo.gl/maps/fjPhbndtjDVM8kXy5" target="_blank">Tully Rinckey PLLC</a></div>
-          </div>
-        </div> -->
 
         <div class="col-md-6">
           <div class="event">
             <div class="date blue">Mar<span>20</span></div>
             <div class="text">
-              <a class="text-dark event-link" href="#" target="_blank">Arts4Vets</a>
-              <a class="blue" href="https://goo.gl/maps/Vh8PhSmSDs6GCRfw9" target="_blank">American Legion Post #1520</a></div>
+              <p class="eventTitle">Arts4Vets</p>
+              <a class="red" href="https://goo.gl/maps/Vh8PhSmSDs6GCRfw9" target="_blank">American Legion Post #1520</a>
+              <a class="text-dark event-link" href="http://www.zalogapost1520.org/index.php?id=72" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+            </div>
           </div>
         </div>
+
       </div><!-- /row -->
 
     </div>
