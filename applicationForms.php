@@ -42,7 +42,7 @@
         <div class="col-md-6">
           <div class="form-item">
             <h4>IST PTSD Service Dog Application</h4>
-            <a href="./public/pdf/PTSDServiceDogApplication.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
+            <a href="ptsdApplicationForm.php" class="download-form mr-3"><i class="fas fa-paper-plane"></i> Submit Form Online</a>
             <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
         </div>
