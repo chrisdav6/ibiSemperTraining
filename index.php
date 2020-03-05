@@ -44,7 +44,7 @@
     <div class="container">
       <h2>About Us</h2>
       <hr>
-      <p>Ibi Semper Training (IST) is a charitable non-profit that trains 4 Veterans/1st Responders with PTSD and their
+      <p>Ibi Semper Training (IST) is a charitable non-profit that trains Veterans/1st Responders with PTSD and their
         dogs in a small guided group, usually no more than 4 teams at one time, to become PTSD Service Dog teams in a 8
         months program. The teams will complete 6 months of in-classroom training and will then be tested for the
         American Kennel Club CGC (Canine Good Citizen) and CGCU (Canine Good Citizen Urban) tests by accredited AKC
