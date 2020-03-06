@@ -62,7 +62,6 @@
 
       a {
         margin-top: -5px;
-        margin-bottom: 10px;
         font-weight: normal;
         text-decoration: none;
 
@@ -77,6 +76,13 @@
 
       a.blue {
         color: rgb(3, 70, 196);
+      }
+
+      .event-divider {
+        height: 1px;
+        background: #121416;
+        width: 100%;
+        margin: .3em 0 .5em 0;
       }
     }
   }

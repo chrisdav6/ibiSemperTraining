@@ -47,6 +47,7 @@
             <div class="text">
               <p class="eventTitle">Jump4PTSD ServiceDogs</p>
               <a class="red" href="https://g.page/Airdrenaline?share" target="_blank">Airdrenaline Park</a>
+              <hr class="event-divider">
               <a class="text-dark event-link" href="./public/pdf/AAPMar292020.pdf" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
@@ -64,7 +65,8 @@
             <div class="text">
               <p class="eventTitle">Arts4Vets</p>
               <a class="red" href="https://goo.gl/maps/Vh8PhSmSDs6GCRfw9" target="_blank">American Legion Post #1520</a>
-              <a class="text-dark event-link" href="http://www.zalogapost1520.org/index.php?id=72" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+              <hr class="event-divider">
+              <a class="text-dark event-link" href="https://www.facebook.com/groups/1231782123562194" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
         </div>
@@ -74,7 +76,8 @@
             <div class="date blue">Apr<span>9</span></div>
             <div class="text">
               <p class="eventTitle">NYS Yellow Ribbon</p>
-              <a class="red" href="#" target="_blank">Location TBD</a>
+              <a class="red" href="https://goo.gl/maps/HmCk39bhUfjUd9E66" target="_blank">Halfmoon Town Hall</a>
+              <hr class="event-divider">
               <a class="text-dark event-link" href="#" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
@@ -86,6 +89,7 @@
             <div class="text">
               <p class="eventTitle">Pet Fest</p>
               <a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a>
+              <hr class="event-divider">
               <a class="text-dark event-link" href="https://www.glensfalls.com/event/pet-fest-118896" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
@@ -97,6 +101,7 @@
             <div class="text">
               <p class="eventTitle">Adirondack Woof Stock</p>
               <a class="red" href="https://goo.gl/maps/sbJtbPYHtiQrixwN8" target="_blank">Chester Town Hall</a>
+              <hr class="event-divider">
               <a class="text-dark event-link" href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
@@ -108,7 +113,8 @@
             <div class="text">
               <p class="eventTitle">Wounded Vet Run</p>
               <a class="red" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley Davidson</a>
-              <a class="text-dark event-link" href="#" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+              <hr class="event-divider">
+              <a class="text-dark event-link" href="https://www.facebook.com/UpstateNYWVR" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
         </div>
