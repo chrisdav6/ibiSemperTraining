@@ -55,13 +55,6 @@
         </div>
         <div class="col-md-6">
           <div class="form-item">
-            <h4>Volunteer Information</h4>
-            <a href="./public/pdf/volunteerInformation.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-item">
             <h4>Applicant Intake Form</h4>
             <a href="./public/pdf/applicantIntakeForm.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
             <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
