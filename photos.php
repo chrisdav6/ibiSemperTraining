@@ -18,6 +18,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
   <!-- Bootstrap -->
   <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
+  <!-- Nano Gallery -->
+  <link rel="stylesheet" href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="public/css/style.css">
   <!-- Favicon -->
@@ -35,9 +37,50 @@
     </div>
   </div>
 
-  <div class="secondary-content mt-4">
+  <div id="photos" class="secondary-content mt-4 mb-5">
     <div class="container">
-      <p>Photos content</p>
+
+      <div id="photo-group">
+        <h2 class="mb-3">Training</h2>
+        <p class="mb-4">Service dogs and their humans in training</p>
+        <div id="training" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/ibi/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="duane.jpg" data-ngthumb="duane.jpg" data-ngdesc="Veteran Duane and his Service Dog In Training Panda"></a>
+          <a href="remington1.jpg" data-ngthumb="remington1.jpg" data-ngdesc="Remington and his human Blair"></a>
+          <a href="remington2.jpg" data-ngthumb="remington2.jpg" data-ngdesc="Remington and his human Blair"></a>
+        </div>
+      </div>
+
+      <div id="photo-group">
+        <h2 class="mb-3">Trivia Night at Katie O’Byrnes Pub</h2>
+        <p class="mb-4">Thank you Trivia Teams Scared Shotless, Chicken Little, Fünf Gewinnt, Meatball Joint, The Dameinators and Team Panda!! A HUGE shoutout to John and Tomy at Katie O’Byrnes for hosting the event, the wonderful support we received and the added gift card for the team prize!! Go check them out at <a class="link text-dark" href="https://katieobyrnespub.com" target="_blank">https://katieobyrnespub.com</a> </p>
+        <div id="ngy2p" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/triviaKatie2019/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="trivia0.jpg" data-ngthumb="trivia0.jpg" data-ngdesc="Panda at Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia00.jpg" data-ngthumb="trivia00.jpg" data-ngdesc="Panda at Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia1.jpg" data-ngthumb="trivia1.jpg" data-ngdesc="Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia2.jpg" data-ngthumb="trivia2.jpg" data-ngdesc="Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia3.jpg" data-ngthumb="trivia3.jpg" data-ngdesc="Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia4.jpg" data-ngthumb="trivia4.jpg" data-ngdesc="Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia5.jpg" data-ngthumb="trivia5.jpg" data-ngdesc="Trivia Night at Katie O’Byrnes Pub"></a>
+          <a href="trivia6.jpg" data-ngthumb="trivia6.jpg" data-ngdesc="Trivia Night at Katie O’Byrnes Pub"></a>
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -48,6 +91,7 @@
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>
   <script src="public/js/scripts.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
 
 </body>
 
