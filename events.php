@@ -43,12 +43,12 @@
 
         <div class="col-md-6">
           <div class="event">
-            <div class="date red">Mar<span>29</span></div>
+            <div class="date red">Apr<span>19</span></div>
             <div class="text">
               <p class="eventTitle">Jump4PTSD ServiceDogs</p>
               <a class="red" href="https://g.page/Airdrenaline?share" target="_blank">Airdrenaline Park</a>
               <hr class="event-divider">
-              <a class="text-dark event-link" href="./public/pdf/AAPMar292020.pdf" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+              <a class="text-dark event-link" href="./public/pdf/AAPApr192020.pdf" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@
 
       <div class="row">
 
-        <div class="col-md-6">
+        <!--<div class="col-md-6">
           <div class="event">
             <div class="date blue">Mar<span>20</span></div>
             <div class="text">
@@ -69,9 +69,9 @@
               <a class="text-dark event-link" href="https://www.facebook.com/groups/1231782123562194" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
-        </div>
+        </div>-->
 
-        <div class="col-md-6">
+        <!--<div class="col-md-6">
           <div class="event">
             <div class="date blue">Apr<span>9</span></div>
             <div class="text">
@@ -81,7 +81,7 @@
               <a class="text-dark event-link" href="https://www.townofhalfmoon-ny.gov/town-clerk/events/46494" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
-        </div>
+        </div>-->
 
         <div class="col-md-6">
           <div class="event">
