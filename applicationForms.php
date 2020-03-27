@@ -46,34 +46,30 @@
             <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
         </div>
-        <div class="col-md-6">
+        <!--<div class="col-md-6">
           <div class="form-item">
             <h4>Waiver of Liability & Informed Consent Release</h4>
             <a href="./public/pdf/waiverOfLiability.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
         </div>
         <div class="col-md-6">
           <div class="form-item">
             <h4>Applicant Intake Form</h4>
             <a href="./public/pdf/applicantIntakeForm.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
         </div>
         <div class="col-md-6">
           <div class="form-item">
             <h4>Physician Form Letter</h4>
             <a href="./public/pdf/physicianFormLetter.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
         </div>
         <div class="col-md-6">
           <div class="form-item">
             <h4>Training Facility Operating Policies</h4>
             <a href="./public/pdf/trainingFacilityOperatingPolicies.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
-        </div>
+        </div>-->
 
       </div><!-- /row -->
     </div>
