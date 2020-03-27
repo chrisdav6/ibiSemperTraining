@@ -38,6 +38,10 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://amp.cnn.com/cnn/2020/03/26/health/therapy-dog-er-doctor-trnd-wellness/index.html?fbclid=IwAR2YMEo_GSwFg5QWbIfZ3bT_7WkSkJiElFM7k7iduJeOWLvA7m3PvLYCyzY" target="_blank">
+        A service dog in training brings comfort to ER doctors on the frontlines
+      </a>
+
       <a class="newsItem" href="https://www.military.com/daily-news/2020/02/07/bill-provide-service-dogs-veterans-ptsd-passes-house-unanimously.html" target="_blank">
         Bill to Provide Service Dogs for Veterans with PTSD Passes House Unanimously
       </a>
