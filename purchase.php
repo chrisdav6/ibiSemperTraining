@@ -39,7 +39,7 @@
 
   <div id="purchase" class="secondary-content mt-4 mb-5">
     <div class="container">
-      <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Thank you for your support!</p>
+      <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Shoot us an <a href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Purchase" class="purchaseLink"><i class="far fa-envelope"></i> email</a> to purchase any items below. Thank you for your support!</p>
 
       <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts</h2>
