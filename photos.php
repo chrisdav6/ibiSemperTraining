@@ -40,8 +40,8 @@
   <div id="photos" class="secondary-content mt-4 mb-5">
     <div class="container">
 
-      <div id="photo-group">
-        <h2 class="mb-3">Training</h2>
+      <div class="photo-group">
+        <h2 class="mb-4">Training</h2>
         <p class="mb-4">Service dogs and their humans in training</p>
         <div id="training" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/ibi/",
@@ -58,8 +58,8 @@
         </div>
       </div>
 
-      <div id="photo-group">
-        <h2 class="mb-3">Trivia Night at Katie O’Byrnes Pub</h2>
+      <div class="photo-group">
+        <h2 class="mb-4">Trivia Night at Katie O’Byrnes Pub</h2>
         <p class="mb-4">Thank you Trivia Teams Scared Shotless, Chicken Little, Fünf Gewinnt, Meatball Joint, The Dameinators and Team Panda!! A HUGE shoutout to John and Tomy at Katie O’Byrnes for hosting the event, the wonderful support we received and the added gift card for the team prize!! Go check them out at <a class="link text-dark" href="https://katieobyrnespub.com" target="_blank">https://katieobyrnespub.com</a> </p>
         <div id="ngy2p" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/triviaKatie2019/",
