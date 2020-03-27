@@ -24,7 +24,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="/volunteer.php">Volunteer</a>
               <a class="dropdown-item" href="/purchase.php">Purchase</a>
-              <a class="dropdown-item" href="/sponsor.php">Sponsor Opportunities</a>
+              <!-- <a class="dropdown-item" href="/sponsor.php">Sponsor Opportunities</a> -->
             </div>
           </li>
           <li class="nav-item">
@@ -33,9 +33,9 @@
           <li class="nav-item">
             <a class="nav-link" href="/news.php">News</a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="/faqs.php">FAQ's</a>
-          </li>
+          </li> -->
         </ul>
         <ul class="navbar-nav ml-0 ml-lg-3">
           <li class="nav-item mr-1">
