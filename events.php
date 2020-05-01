@@ -39,9 +39,11 @@
     <div class="container">
       <h2>Fundraisers</h2>
 
+      <p>Currently no funraiser events scheduled, please check back soon.</p>
+
       <div class="row">
 
-        <div class="col-md-6">
+        <!-- <div class="col-md-6">
           <div class="event">
             <div class="date red">Apr<span>19</span></div>
             <div class="text">
@@ -51,7 +53,7 @@
               <a class="text-dark event-link" href="./public/pdf/AAPApr192020.pdf" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div><!-- /row -->
 
@@ -85,18 +87,6 @@
 
         <div class="col-md-6">
           <div class="event">
-            <div class="date blue">May<span>16</span></div>
-            <div class="text">
-              <p class="eventTitle">Pet Fest</p>
-              <a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a>
-              <hr class="event-divider">
-              <a class="text-dark event-link" href="https://www.glensfalls.com/event/pet-fest-118896" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="event">
             <div class="date blue">June<span>6-7</span></div>
             <div class="text">
               <p class="eventTitle">Adirondack Woof Stock</p>
@@ -115,6 +105,18 @@
               <a class="red" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley Davidson</a>
               <hr class="event-divider">
               <a class="text-dark event-link" href="https://www.facebook.com/UpstateNYWVR" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="event">
+            <div class="date blue">Sept<span>20</span></div>
+            <div class="text">
+              <p class="eventTitle">Pet Fest</p>
+              <a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a>
+              <hr class="event-divider">
+              <a class="text-dark event-link" href="https://www.glensfalls.com/event/pet-fest-118896" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
         </div>
