@@ -39,7 +39,7 @@
     <div class="container">
       <h2>Fundraisers</h2>
 
-      <p>Currently no funraiser events scheduled, please check back soon.</p>
+      <p>Currently no fundraiser events scheduled, please check back soon.</p>
 
       <div class="row">
 
