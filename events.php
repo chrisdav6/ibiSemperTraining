@@ -83,7 +83,7 @@
               <a class="text-dark event-link" href="https://www.townofhalfmoon-ny.gov/town-clerk/events/46494" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
-        </div>-->
+        </div>
 
         <div class="col-md-6">
           <div class="event">
@@ -95,7 +95,7 @@
               <a class="text-dark event-link" href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
             </div>
           </div>
-        </div>
+        </div>-->
 
         <div class="col-md-6">
           <div class="event">
