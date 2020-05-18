@@ -1,11 +1,24 @@
+.news-heading {
+  margin-top: 4em;
+}
+
+.mediaNewsItem {
+  h4 {
+    display: inline-block;
+    border-bottom: 1px solid black;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+  }
+}
+
 .newsItem {
-  padding: .75em;
+  padding: 0.75em;
   border: 1px solid black;
   font-size: 1.3rem;
   color: #111111;
   display: block;
   margin-bottom: 1em;
-  transition: background-color .4s;
+  transition: background-color 0.4s;
 
   &:hover {
     background-color: red;

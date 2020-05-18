@@ -18,6 +18,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
   <!-- Bootstrap -->
   <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
+  <!-- Nano Gallery -->
+  <link rel="stylesheet" href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="public/css/style.css">
   <!-- Favicon -->
@@ -29,6 +31,40 @@
   <?php include_once "includes/navbar.php"; ?>
 
   <div class="secondary-heading">
+    <div class="container">
+      <h1>Media News</h1>
+      <hr>
+    </div>
+  </div>
+
+  <div id="mediaNews" class="secondary-content mt-4">
+    <div class="container">
+      <div class="mediaNewsItem">
+        <h4>May 25 (2PM) - ZOOM meeting topic: PTSD Service Dog Training Applications</h4>
+        <p>Niskayuna Rotary’s featured guest speaker on Monday May 25 at 2 PM is from Ibi Semper Training, Inc. Ibi Semper Training is a non-profit that trains Veterans, 1st Responders and Correctional Officers with Post Traumatic Stress Disorder. They in turn learn to train their temperament-tested dogs in a guided small-group-setting to become PTSD Service Dog teams. Temperament-tested shelter or rescue dogs are paired with applicants for the 8-months program; we also accept family dogs if they pass the temperament test. The program includes 3-tests and 4-certificates of completion. Ibi Semper Training is completely funded from donations and fundraisers so that the dogs and training can be provided free of charge. To attend the ZOOM presentation, contact Lon Penna at 518-312-6588 or <a class="link text-dark" href="mailto:NiskyRotary@gmail.com?subject=Ibi Semper Website Inquiry - PTSD Service Dog ZOOM meeting">NiskyRotary@gmail.com</a> for login information. For more information visit the Ibi Semper Training Facebook page at @ibisempertraining1, or contact Sonya Ward at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Inquiry - PTSD Service Dog ZOOM meeting">ibisempertraining@gmail.com</a> or 518-605-3976.</p>
+
+        <div class="mt-4">
+          <div id="training" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/zoomNews/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="remington1.jpg" data-ngthumb="remington1.jpg" data-ngdesc="Remington and his human Blair"></a>
+            <a href="duaneAndPanda.jpg" data-ngthumb="duaneAndPanda.jpg" data-ngdesc="Dauane and Panda! 👍"></a>
+            <a href="looseLeashWalking.jpg" data-ngthumb="looseLeashWalking.jpg" data-ngdesc="Loose leash walking with Blair and Remington 😊"></a>
+            <a href="PTSDServiceDogs.jpg" data-ngthumb="PTSDServiceDogs.jpg" data-ngdesc="PTSD Service Dogs - Blair &amp; Remington and Christine &amp; Pepper at Home Depot"></a>
+            <a href="sitAndStay.jpg" data-ngthumb="sitAndStay.jpg" data-ngdesc="Sit and stay, service dog Panda in training with Dauane"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="news-heading">
     <div class="container">
       <h1>News</h1>
       <hr>
@@ -100,6 +136,7 @@
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>
   <script src="public/js/scripts.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
 
 </body>
 
