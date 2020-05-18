@@ -40,6 +40,13 @@
     </div>
   </section>
 
+  <section id="tax">
+    <div class="container">
+      <p>IST has been approved and is now a registered 501c3 tax exempt organization!</p>
+    </div>
+
+  </section>
+
   <div class="home-sections">
     <div class="container">
       <h2>About Us</h2>

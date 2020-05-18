@@ -1,26 +1,27 @@
-@import "base";
-@import "header";
-@import "footer";
+@import 'base';
+@import 'header';
+@import 'footer';
 
 //Index Page
-@import "index/hero";
-@import "index/content";
-@import "index/home-sections";
+@import 'index/hero';
+@import 'index/content';
+@import 'index/tax';
+@import 'index/home-sections';
 
 //News Page
-@import "news/news";
+@import 'news/news';
 
 //Staff Page
-@import "staff/staff";
+@import 'staff/staff';
 
 //Events Page
-@import "events/events";
+@import 'events/events';
 
 //Application Forms Page
-@import "applicationForms/applicationForms";
+@import 'applicationForms/applicationForms';
 
 //Photos Page
-@import "photos/photos";
+@import 'photos/photos';
 
 //Purchase Page
-@import "purchase/purchase";
+@import 'purchase/purchase';
