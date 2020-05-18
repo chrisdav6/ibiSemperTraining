@@ -152,7 +152,7 @@
       </div>
 
       <div class="purchase-group">
-        <h2 class="mb-4">IST Car Window Decal - 5" x 5” </h2>
+        <h2 class="mb-4">IST Car Window Decal - 5" x 5" </h2>
         <div class="info">
           <p>Proudly display our clear backing window decal</p>
         </div>
