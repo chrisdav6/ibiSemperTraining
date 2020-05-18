@@ -66,7 +66,7 @@
         <h2 class="mb-4">IST Car Window Decal - 5" x 5” </h2>
         <div class="info">
           <p>Proudly display our clear backing window decal</p>
-          <p>Only $5 each</p>
+          <p>Only $5 each - <small class="text-danger">Temporarily out of stock, please check back soon.</small></p>
         </div>
         <div id="decals" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/purchase/",
