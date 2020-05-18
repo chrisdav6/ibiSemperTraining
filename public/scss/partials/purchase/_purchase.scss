@@ -6,15 +6,11 @@
   .purchaseLink {
     color: black;
     font-weight: bold;
-    margin: 0 .20em;
+    margin: 0 0.2em;
   }
 
   .info {
-    margin-bottom: 2em;
-
-    p {
-      margin-bottom: .25em;
-    }
+    margin-bottom: 1em;
   }
 
   .purchase-group {
@@ -24,8 +20,20 @@
       display: inline-block;
       background: rgb(3, 70, 196);
       color: white;
-      padding: .5em 1em;
+      padding: 0.5em 1em;
+    }
+
+    .pricing {
+      margin-top: 1em;
+
+      p {
+        margin-bottom: 0.5em;
+      }
+
+      .paypal {
+        width: 20px;
+        margin-bottom: 1em;
+      }
     }
   }
-
 }
