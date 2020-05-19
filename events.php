@@ -39,9 +39,16 @@
     <div class="container">
       <h2>Fundraisers</h2>
 
-      <p>Currently no fundraiser events scheduled, please check back soon.</p>
+      <!-- <p>Currently no fundraiser events scheduled, please check back soon.</p> -->
 
       <div class="row">
+
+        <div class="col">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/groups/637902870274305/?ref=group_header" target="_blank">Ibi Semper Training, Inc. Fundraiser Pampered Chef Party, Hosted by Sonya W</a></h4>
+            <p>Pampered Chef and IST have partnered up for a online fundraiser. Our goal is to achieve $800 by May 31st. Please message IST on Facebook to be added to the event and support Veterans, 1st Responders, Correctional Officers and shelter dogs. Thank you!</p>
+          </div>
+        </div>
 
         <!-- <div class="col-md-6">
           <div class="event">
