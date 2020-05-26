@@ -37,9 +37,9 @@
     </div>
   </div>
 
-  <div id="mediaNews" class="secondary-content mt-4">
+  <div id="largeNews" class="secondary-content mt-4">
     <div class="container">
-      <div class="mediaNewsItem">
+      <div class="largeNewsItem">
         <h4>May 26 (2PM) - ZOOM meeting topic: PTSD Service Dog Training Applications</h4>
         <p>Niskayuna Rotary’s featured guest speaker on Tuesday May 26 at 2 PM is from Ibi Semper Training, Inc. Ibi Semper Training is a non-profit that trains Veterans, 1st Responders and Correctional Officers with Post Traumatic Stress Disorder. They in turn learn to train their temperament-tested dogs in a guided small-group-setting to become PTSD Service Dog teams. Temperament-tested shelter or rescue dogs are paired with applicants for the 8-months program; we also accept family dogs if they pass the temperament test. The program includes 3-tests and 4-certificates of completion. Ibi Semper Training is completely funded from donations and fundraisers so that the dogs and training can be provided free of charge. To attend the ZOOM presentation, contact Lon Penna at 518-312-6588 or <a class="link text-dark" href="mailto:NiskyRotary@gmail.com?subject=Ibi Semper Website Inquiry - PTSD Service Dog ZOOM meeting">NiskyRotary@gmail.com</a> for login information. For more information visit the Ibi Semper Training Facebook page at @ibisempertraining1, or contact Sonya Ward at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Inquiry - PTSD Service Dog ZOOM meeting">ibisempertraining@gmail.com</a> or 518-605-3976.</p>
 
@@ -73,6 +73,16 @@
 
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
+
+      <div id="largeNews" class="secondary-content mt-2 mb-5">
+        <div class="container">
+          <div class="largeNewsItem">
+            <h4>Traveling with Service Animals</h4>
+            <p class="mb-4">A helpful video for individuals with disabilities who are traveling with a service animal to, from, or within the United States.</p>
+            <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/LbZhruHJKdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+          </div>
+        </div>
+      </div>
 
       <a class="newsItem" href="https://amp.cnn.com/cnn/2020/03/26/health/therapy-dog-er-doctor-trnd-wellness/index.html?fbclid=IwAR2YMEo_GSwFg5QWbIfZ3bT_7WkSkJiElFM7k7iduJeOWLvA7m3PvLYCyzY" target="_blank">
         A service dog in training brings comfort to ER doctors on the frontlines
