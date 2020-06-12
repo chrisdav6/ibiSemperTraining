@@ -56,18 +56,32 @@
           <a href="remington1.jpg" data-ngthumb="remington1.jpg" data-ngdesc="Remington and his human Blair"></a>
           <a href="remington2.jpg" data-ngthumb="remington2.jpg" data-ngdesc="Remington and his human Blair"></a>
           <a href="homeDepot.jpg" data-ngthumb="homeDepot.jpg" data-ngdesc=""></a>
-          <a href="homeDepot2.jpg" data-ngthumb="homeDepot2.jpg" data-ngdesc=""></a>
-          <a href="homeDepot3.jpg" data-ngthumb="homeDepot3.jpg" data-ngdesc=""></a>
-          <a href="homeDepot4.jpg" data-ngthumb="homeDepot4.jpg" data-ngdesc=""></a>
-          <a href="homeDepot5.jpg" data-ngthumb="homeDepot5.jpg" data-ngdesc=""></a>
-          <a href="homeDepot6.jpg" data-ngthumb="homeDepot6.jpg" data-ngdesc=""></a>
-          <a href="homeDepot7.jpg" data-ngthumb="homeDepot7.jpg" data-ngdesc=""></a>
-          <a href="homeDepot8.jpg" data-ngthumb="homeDepot8.jpg" data-ngdesc=""></a>
-          <a href="homeDepot9.jpg" data-ngthumb="homeDepot9.jpg" data-ngdesc=""></a>
-          <a href="homeDepot10.jpg" data-ngthumb="homeDepot10.jpg" data-ngdesc=""></a>
+          <a href="homeDepot2.jpg" data-ngthumb="homeDepot2.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
+          <a href="homeDepot3.jpg" data-ngthumb="homeDepot3.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
+          <a href="homeDepot4.jpg" data-ngthumb="homeDepot4.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
           <a href="albanyAirport1.jpg" data-ngthumb="albanyAirport1.jpg" data-ngdesc=""></a>
           <a href="albanyAirport2.jpg" data-ngthumb="albanyAirport2.jpg" data-ngdesc=""></a>
           <a href="albanyAirport3.jpg" data-ngthumb="albanyAirport3.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+      <div class="photo-group">
+        <h2 class="mb-5">American Kennel Club Canine Good Citizen Training</h2>
+        <div id="kennelClub" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/ibi/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="homeDepot5.jpg" data-ngthumb="homeDepot5.jpg" data-ngdesc="Accepting a friendly stranger – ignoring the dog"></a>
+          <a href="homeDepot6.jpg" data-ngthumb="homeDepot6.jpg" data-ngdesc=""></a>
+          <a href="homeDepot7.jpg" data-ngthumb="homeDepot7.jpg" data-ngdesc="Accepting a friendly stranger – ignoring the dog"></a>
+          <a href="homeDepot8.jpg" data-ngthumb="homeDepot8.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="homeDepot9.jpg" data-ngthumb="homeDepot9.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="homeDepot10.jpg" data-ngthumb="homeDepot10.jpg" data-ngdesc="Sitting politely for petting"></a>
         </div>
       </div>
 
