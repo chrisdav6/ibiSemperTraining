@@ -53,22 +53,19 @@
           "thumbnailGutterHeight": 10
         }'>
           <a href="duane.jpg" data-ngthumb="duane.jpg" data-ngdesc="Veteran Duane and his Service Dog In Training Panda"></a>
-          <a href="remington1.jpg" data-ngthumb="remington1.jpg" data-ngdesc="Remington and his human Blair"></a>
-          <a href="remington2.jpg" data-ngthumb="remington2.jpg" data-ngdesc="Remington and his human Blair"></a>
-          <a href="homeDepot.jpg" data-ngthumb="homeDepot.jpg" data-ngdesc=""></a>
+          <a href="homeDepot.jpg" data-ngthumb="homeDepot.jpg" data-ngdesc="Service dogs in training"></a>
           <a href="homeDepot2.jpg" data-ngthumb="homeDepot2.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
           <a href="homeDepot3.jpg" data-ngthumb="homeDepot3.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
           <a href="homeDepot4.jpg" data-ngthumb="homeDepot4.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
-          <a href="albanyAirport1.jpg" data-ngthumb="albanyAirport1.jpg" data-ngdesc=""></a>
-          <a href="albanyAirport2.jpg" data-ngthumb="albanyAirport2.jpg" data-ngdesc=""></a>
-          <a href="albanyAirport3.jpg" data-ngthumb="albanyAirport3.jpg" data-ngdesc=""></a>
+          <a href="albanyAirport2.jpg" data-ngthumb="albanyAirport2.jpg" data-ngdesc="Service dog in training"></a>
+          <a href="albanyAirport3.jpg" data-ngthumb="albanyAirport3.jpg" data-ngdesc="Loose Leash walking"></a>
         </div>
       </div>
 
       <div class="photo-group">
         <h2 class="mb-5">American Kennel Club Canine Good Citizen Training</h2>
         <div id="kennelClub" data-nanogallery2='{
-          "itemsBaseURL": "./public/img/gallery/ibi/",
+          "itemsBaseURL": "./public/img/gallery/acc/",
           "thumbnailWidth": "200",
           "thumbnailAlignment": "left",
           "thumbnailBorderHorizontal": "1",
@@ -76,12 +73,21 @@
           "thumbnailGutterWidth": 10,
           "thumbnailGutterHeight": 10
         }'>
-          <a href="homeDepot5.jpg" data-ngthumb="homeDepot5.jpg" data-ngdesc="Accepting a friendly stranger – ignoring the dog"></a>
-          <a href="homeDepot6.jpg" data-ngthumb="homeDepot6.jpg" data-ngdesc=""></a>
-          <a href="homeDepot7.jpg" data-ngthumb="homeDepot7.jpg" data-ngdesc="Accepting a friendly stranger – ignoring the dog"></a>
-          <a href="homeDepot8.jpg" data-ngthumb="homeDepot8.jpg" data-ngdesc="Sitting politely for petting"></a>
-          <a href="homeDepot9.jpg" data-ngthumb="homeDepot9.jpg" data-ngdesc="Sitting politely for petting"></a>
-          <a href="homeDepot10.jpg" data-ngthumb="homeDepot10.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="acc1.jpg" data-ngthumb="acc1.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="acc2.jpg" data-ngthumb="acc2.jpg" data-ngdesc="Accepting a friendly stranger – ignoring the dog"></a>
+          <a href="acc3.jpg" data-ngthumb="acc3.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="acc4.jpg" data-ngthumb="acc4.jpg" data-ngdesc="Accepting a friendly stranger – ignoring the dog"></a>
+          <a href="acc5.jpg" data-ngthumb="acc5.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="acc6.jpg" data-ngthumb="acc6.jpg" data-ngdesc="Sitting politely for petting"></a>
+          <a href="acc7.jpg" data-ngthumb="acc7.jpg" data-ngdesc="Loose Leash walking"></a>
+          <a href="acc8.jpg" data-ngthumb="acc8.jpg" data-ngdesc="Loose Leash walking"></a>
+          <a href="acc9.jpg" data-ngthumb="acc9.jpg" data-ngdesc="Loose Leash walking"></a>
+          <a href="acc10.jpg" data-ngthumb="acc10.jpg" data-ngdesc="Sit and Down on command"></a>
+          <a href="acc11.jpg" data-ngthumb="acc11.jpg" data-ngdesc="Sit and Down on command"></a>
+          <a href="acc12.jpg" data-ngthumb="acc12.jpg" data-ngdesc="Sit and Down on command"></a>
+          <a href="acc13.jpg" data-ngthumb="acc13.jpg" data-ngdesc="Sit and Down on command"></a>
+          <a href="acc14.jpg" data-ngthumb="acc14.jpg" data-ngdesc="Staying in place"></a>
+          <a href="acc15.jpg" data-ngthumb="acc15.jpg" data-ngdesc="Staying in place"></a>
         </div>
       </div>
 
