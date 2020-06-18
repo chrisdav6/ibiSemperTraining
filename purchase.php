@@ -168,7 +168,7 @@
           <a href="decal.jpg" data-ngthumb="decal.jpg" data-ngdesc="Ibi Semper Training Car Window Decal"></a>
         </div>
         <div class="pricing">
-          <p>Only $5 each - <small class="text-danger">Temporarily out of stock, please check back soon.</small></p>
+          <p>Only $7 each - <small class="text-danger">Temporarily out of stock, please check back soon.</small></p>
           <!-- Paypal -->
           <!--<div class="paypal" id="paypal-button-container4"></div>
           <script>
@@ -184,7 +184,7 @@
               return actions.order.create({
                 purchase_units: [{
                   amount: {
-                    value: '5'
+                    value: '7'
                   }
                 }]
               });
