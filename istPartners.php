@@ -60,6 +60,9 @@
         <div class="col-6 col-md-3">
           <img class="img-fluid partnerImage" src="./public/img/blueBloodsMC.jpg" alt="Blue Bloods MC">
         </div>
+        <div class="col-6 col-md-3">
+          <img class="img-fluid partnerImage" src="./public/img/stephenWillette.jpg" alt="Stephen Willette">
+        </div>
       </div>
 
     </div>
