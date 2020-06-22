@@ -45,25 +45,76 @@
 
       <p>IST is very grateful to have such excellent partners to work with. If you are visiting our site, please know that we highly recommend these organizations to you.</p>
 
-      <p>Thank you for your continued support! The IST Teams</p>
+      <p><strong>Thank you for your continued support! The IST Teams</strong></p>
 
       <div class="row mt-5">
-        <div class="col-6 col-md-3">
-          <img class="img-fluid partnerImage" src="./public/img/allAboutDogs.jpg" alt="All About Dogs">
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/allAboutDogs.jpg" alt="All About Dogs">
+            <div class="card-body">
+              <h6>All About Dawgs</h6>
+              <hr>
+              <div class="links">
+                <a href="https://www.facebook.com/allaboutdawgs" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="col-6 col-md-3">
-          <img class="img-fluid partnerImage" src="./public/img/luckyPuppyRescue.jpg" alt="Lucky Puppy Rescue">
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/luckyPuppyRescue.jpg" alt="Lucky Puppy Rescue">
+            <div class="card-body">
+              <h6>Lucky Puppy Rescue</h6>
+              <hr>
+              <div class="links">
+                <a href="http://www.theluckypuppy.org/ny-adoption-center" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/TheLuckyPuppy" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="col-6 col-md-3">
-          <img class="img-fluid partnerImage" src="./public/img/tomsBarberShop.jpg" alt="Toms Barber Shop">
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/tomsBarberShop.jpg" alt="Toms Barber Shop">
+            <div class="card-body">
+              <h6>Tom's Barber Shop</h6>
+              <hr>
+              <div class="links">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="col-6 col-md-3">
-          <img class="img-fluid partnerImage" src="./public/img/blueBloodsMC.jpg" alt="Blue Bloods MC">
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/blueBloodsMC.jpg" alt="Blue Bloods MC">
+            <div class="card-body">
+              <h6>Blue Bloods MC</h6>
+              <hr>
+              <div class="links">
+                <a href="https://www.facebook.com/Blue-Bloods-LEMC-104918364539787" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="col-6 col-md-3">
-          <img class="img-fluid partnerImage" src="./public/img/stephenWillette.jpg" alt="Stephen Willette">
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/stephenWillette.jpg" alt="Patriot Images">
+            <div class="card-body">
+              <h6>Patriot Images</h6>
+              <hr>
+              <div class="links">
+                <a href="https://www.patriotimagesny.org" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/patriotimages.org" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
+
+      </div><!-- /row -->
 
     </div>
   </div>

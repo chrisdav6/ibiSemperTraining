@@ -1,6 +1,49 @@
 #istPartners {
-  .partnerImage {
-    border: 2px solid #111111;
+  .card {
     margin-bottom: 2em;
+    text-align: center;
+
+    .card-body {
+      background: rgb(238, 238, 238);
+      border-top: 1px solid rgba(0, 0, 0, 0.125);
+
+      h6 {
+        font-weight: bold;
+      }
+
+      hr {
+        border: 0;
+        height: 1px;
+      }
+    }
+
+    .links {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding-top: 0;
+
+      @media (min-width: 450px) {
+        flex-direction: row;
+      }
+
+      a {
+        color: #111;
+      }
+    }
+
+    .divider {
+      display: inline-block;
+      margin: 0 1em;
+
+      @media (max-width: 450px) {
+        display: none;
+      }
+    }
+  }
+
+  .btn-partner {
+    background: red;
+    color: white;
   }
 }
