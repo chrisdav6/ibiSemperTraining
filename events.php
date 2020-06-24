@@ -45,15 +45,22 @@
 
         <div class="col">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/groups/637902870274305/?ref=group_header" target="_blank">Ibi Semper Training, Inc. Fundraiser Pampered Chef Party, Hosted by Sonya W</a></h4>
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">Changing Lives Trivia Night</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/groups/637902870274305/?ref=group_header" target="_blank">
-                  <img class="img-fluid" src="/public/img/pamperedChefFundraiser.jpg" alt="Pampered Chef Fundraiser">
+                <a href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">
+                  <img class="img-fluid" src="/public/img/katieOburnes.png" alt="KatieOburnes">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <p>Pampered Chef and IST have partnered up for a online fundraiser. Our goal is to achieve $800 by May 31st. Please message IST on Facebook to be added to the event and support Veterans, 1st Responders, Correctional Officers and shelter dogs. Thank you!</p>
+                <h5>Nov 7th from 8-10pm - <a class="link text-dark" href="https://goo.gl/maps/pYLXzFmqFpGNH85CA" target="_blank">121 Wall St, Schenectady, NY</a></h5>
+                <p>Our last Trivia Night was a huge success! Let's continue changing lives and join us for another fun evening!
+                  Only $100 per team of 5 people, $120 for team of 7! We have space for 10 teams total, so make your team reservations now. We need a Team name, # of people and a contact person with contact information when making reservations for your Team. Email <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> for reservation and information.
+                </p>
+                <p>
+                  Enjoy Suspense, laughter, teamwork and go home with a winning team prize. All to benefit Veterans, 1st Responders and Shelter Dogs! What's not to love!
+                  Come early and order your dinner before or during the event. Thank you for your support!
+                </p>
               </div>
             </div>
           </div>
@@ -88,42 +95,6 @@
             </div>
           </div>
         </div>-->
-
-        <!--<div class="col-md-6">
-          <div class="event">
-            <div class="date blue">Apr<span>9</span></div>
-            <div class="text">
-              <p class="eventTitle">NYS Yellow Ribbon</p>
-              <a class="red" href="https://goo.gl/maps/HmCk39bhUfjUd9E66" target="_blank">Halfmoon Town Hall</a>
-              <hr class="event-divider">
-              <a class="text-dark event-link" href="https://www.townofhalfmoon-ny.gov/town-clerk/events/46494" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-6">
-          <div class="event">
-            <div class="date blue">June<span>6-7</span></div>
-            <div class="text">
-              <p class="eventTitle">Adirondack Woof Stock</p>
-              <a class="red" href="https://goo.gl/maps/sbJtbPYHtiQrixwN8" target="_blank">Chester Town Hall</a>
-              <hr class="event-divider">
-              <a class="text-dark event-link" href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
-            </div>
-          </div>
-        </div>-->
-
-        <div class="col-md-6">
-          <div class="event">
-            <div class="date blue">July<span>25</span></div>
-            <div class="text">
-              <p class="eventTitle">Wounded Vet Run</p>
-              <a class="red" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley Davidson</a>
-              <hr class="event-divider">
-              <a class="text-dark event-link" href="https://www.facebook.com/UpstateNYWVR" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
-            </div>
-          </div>
-        </div>
 
         <div class="col-md-6">
           <div class="event">
