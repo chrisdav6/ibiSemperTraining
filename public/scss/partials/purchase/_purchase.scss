@@ -3,6 +3,17 @@
     margin-bottom: 3em;
   }
 
+  .amazon {
+    margin-bottom: 3em;
+
+    h2 {
+      display: inline-block;
+      background: red;
+      color: white;
+      padding: 0.5em 1em;
+    }
+  }
+
   .purchaseLink {
     color: black;
     font-weight: bold;

@@ -43,6 +43,16 @@
     <div class="container">
       <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Shoot us an <a href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Purchase" class="purchaseLink"><i class="far fa-envelope"></i> email</a> to purchase any items below. Thank you for your support!</p>
 
+      <div class="amazon">
+        <h2 class="mb-4">Amazon Smile</h2>
+        <p>You can select us now on Amazon Smile as your charity of choice. IST is ONLY working from donations and fundraisers. Any help is greatly appreciated! <strong>Thank you!</strong></p>
+        <p>To change your charitable organization:</p>
+        <p><strong>1.</strong> Sign in to <a class="link text-dark" href="https://smile.amazon.com" target="_blank">smile.amazon.com</a> on your desktop or mobile phone browser.</p>
+        <p><strong>2.</strong> From your desktop, go to Your Account from the navigation at the top of any page, and then select the option to Change your Charity. Or, from your mobile browser, select Change your Charity from the options at the bottom of the page.</p>
+        <p><strong>3.</strong> Select a new charitable organization to support.</p>
+        <p>For more information about the AmazonSmile program, go to <a class="link text-dark" href="https://smile.amazon.com/gp/chpf/about" target="_blank">smile.amazon.com/about</a>.</p>
+      </div>
+
       <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts</h2>
         <div class="info">

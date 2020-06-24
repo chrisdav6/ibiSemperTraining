@@ -5,6 +5,16 @@
   background: tan;
   border-bottom: 2px solid rgb(121, 103, 79);
 
+  hr {
+    height: 1px;
+    background: rgb(124, 91, 49);
+    margin: 2em 0;
+  }
+
+  .amazonLink {
+    color: rgb(124, 91, 49);
+  }
+
   p {
     font-size: 1.75rem;
     margin-bottom: 0;

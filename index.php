@@ -43,6 +43,8 @@
   <section id="tax">
     <div class="container">
       <p>IST has been approved and is now a registered 501c3 tax exempt organization!</p>
+      <hr>
+      <p>You can select Ibi Semper Training on <a class="amazonLink" href="/purchase.php">Amazon Smile</a> as your charity of choice!</p>
     </div>
 
   </section>
