@@ -178,9 +178,11 @@
           <a href="decal.jpg" data-ngthumb="decal.jpg" data-ngdesc="Ibi Semper Training Car Window Decal"></a>
         </div>
         <div class="pricing">
-          <p>Only $7 each - <small class="text-danger">Temporarily out of stock, please check back soon.</small></p>
+          <p>Only $7 each
+            <!--- <small class="text-danger">Temporarily out of stock, please check back soon.</small>-->
+          </p>
           <!-- Paypal -->
-          <!--<div class="paypal" id="paypal-button-container4"></div>
+          <div class="paypal" id="paypal-button-container4"></div>
           <script>
           paypal.Buttons({
             style: {
@@ -205,7 +207,7 @@
               });
             }
           }).render('#paypal-button-container4');
-          </script>-->
+          </script>
           <!-- /Paypal -->
         </div>
       </div>
