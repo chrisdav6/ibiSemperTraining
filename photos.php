@@ -81,7 +81,7 @@
 
       <div class="photo-group">
         <h2 class="mb-4">IST Shelter Dog Adoption for 1st Responder April</h2>
-        <p class="mb-4">Update on Finn (Finnley), she is living the life with nurse April and her family. She has had a rough start in life, but got adopted in a loving 1st Responder family. Finn already went to work with April enjoyed a cool-off at the lake. Finn and April’s 1st training session went very well indeed! She learned sit, down, stay and leave it. And we used the Gentle Leader, which is not a muzzle. Always end on a positive note and letting dogs be dogs! Engaging, improving lives and helping dogs - that is just what IST does! Thank you <a class="link text-dark" href="https://www.facebook.com/TheLuckyPuppy" target="_blank">The Lucky Puppy Rescue</a> for making this Partnership a reality!</p>
+        <p class="mb-4">Update on Finn (Finnley), she is living the life with nurse April and her family. She has had a rough start in life, but got adopted in a loving 1st Responder family. Finn already went to work with April and enjoyed a cool-off at the lake. Finn and April’s 1st training session went very well indeed! She learned sit, down, stay and leave it. And we used the Gentle Leader, which is not a muzzle. Always end on a positive note and letting dogs be dogs! Engaging, improving lives and helping dogs - that is just what IST does! Thank you <a class="link text-dark" href="https://www.facebook.com/TheLuckyPuppy" target="_blank">The Lucky Puppy Rescue</a> for making this Partnership a reality!</p>
         <div id="1stApril" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/1stApril/",
           "thumbnailWidth": "200",
