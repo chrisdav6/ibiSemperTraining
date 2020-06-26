@@ -41,10 +41,10 @@
     <div class="container">
 
       <div class="photo-group">
-        <h2 class="mb-4">Training</h2>
-        <p class="mb-4">Service dogs and their humans in training</p>
-        <div id="training" data-nanogallery2='{
-          "itemsBaseURL": "./public/img/gallery/ibi/",
+        <h2 class="mb-4">IST Shelter Dog Adoption for 1st Responder April</h2>
+        <p class="mb-4">Update on Finn (Finnley), she is living the life with nurse April and her family. She has had a rough start in life, but got adopted in a loving 1st Responder family. Finn already went to work with April enjoyed a cool-off at the lake. Finn and April’s 1st training session went very well indeed! She learned sit, down, stay and leave it. And we used the Gentle Leader, which is not a muzzle. Always end on a positive note and letting dogs be dogs! Engaging, improving lives and helping dogs - that is just what IST does! Thank you <a class="link text-dark" href="https://www.facebook.com/TheLuckyPuppy" target="_blank">The Lucky Puppy Rescue</a> for making this Partnership a reality!</p>
+        <div id="1stApril" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/1stApril/",
           "thumbnailWidth": "200",
           "thumbnailAlignment": "left",
           "thumbnailBorderHorizontal": "1",
@@ -52,13 +52,20 @@
           "thumbnailGutterWidth": 10,
           "thumbnailGutterHeight": 10
         }'>
-          <a href="duane.jpg" data-ngthumb="duane.jpg" data-ngdesc="Veteran Duane and his Service Dog In Training Panda"></a>
-          <a href="homeDepot.jpg" data-ngthumb="homeDepot.jpg" data-ngdesc="Service dogs in training"></a>
-          <a href="homeDepot2.jpg" data-ngthumb="homeDepot2.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
-          <a href="homeDepot3.jpg" data-ngthumb="homeDepot3.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
-          <a href="homeDepot4.jpg" data-ngthumb="homeDepot4.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
-          <a href="albanyAirport2.jpg" data-ngthumb="albanyAirport2.jpg" data-ngdesc="Service dog in training"></a>
-          <a href="albanyAirport3.jpg" data-ngthumb="albanyAirport3.jpg" data-ngdesc="Loose Leash walking"></a>
+          <a href="april1.jpg" data-ngthumb="april1.jpg" data-ngdesc=""></a>
+          <a href="april2.jpg" data-ngthumb="april2.jpg" data-ngdesc=""></a>
+          <a href="april3.jpg" data-ngthumb="april3.jpg" data-ngdesc=""></a>
+          <a href="april4.jpg" data-ngthumb="april4.jpg" data-ngdesc=""></a>
+          <a href="april5.jpg" data-ngthumb="april5.jpg" data-ngdesc=""></a>
+          <a href="april6.jpg" data-ngthumb="april6.jpg" data-ngdesc=""></a>
+          <a href="april7.jpg" data-ngthumb="april7.jpg" data-ngdesc=""></a>
+          <a href="april8.jpg" data-ngthumb="april8.jpg" data-ngdesc=""></a>
+          <a href="april9.jpg" data-ngthumb="april9.jpg" data-ngdesc=""></a>
+          <a href="april10.jpg" data-ngthumb="april10.jpg" data-ngdesc=""></a>
+          <a href="april11.jpg" data-ngthumb="april11.jpg" data-ngdesc=""></a>
+          <a href="april12.jpg" data-ngthumb="april12.jpg" data-ngdesc=""></a>
+          <a href="april13.jpg" data-ngthumb="april13.jpg" data-ngdesc=""></a>
+          <a href="april14.jpg" data-ngthumb="april14.jpg" data-ngdesc=""></a>
         </div>
       </div>
 
@@ -88,6 +95,28 @@
           <a href="acc13.jpg" data-ngthumb="acc13.jpg" data-ngdesc="Sit and Down on command"></a>
           <a href="acc14.jpg" data-ngthumb="acc14.jpg" data-ngdesc="Staying in place"></a>
           <a href="acc15.jpg" data-ngthumb="acc15.jpg" data-ngdesc="Staying in place"></a>
+        </div>
+      </div>
+
+      <div class="photo-group">
+        <h2 class="mb-4">Training</h2>
+        <p class="mb-4">Service dogs and their humans in training</p>
+        <div id="training" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/ibi/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="duane.jpg" data-ngthumb="duane.jpg" data-ngdesc="Veteran Duane and his Service Dog In Training Panda"></a>
+          <a href="homeDepot.jpg" data-ngthumb="homeDepot.jpg" data-ngdesc="Service dogs in training"></a>
+          <a href="homeDepot2.jpg" data-ngthumb="homeDepot2.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
+          <a href="homeDepot3.jpg" data-ngthumb="homeDepot3.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
+          <a href="homeDepot4.jpg" data-ngthumb="homeDepot4.jpg" data-ngdesc="Down and stay for 10 minutes"></a>
+          <a href="albanyAirport2.jpg" data-ngthumb="albanyAirport2.jpg" data-ngdesc="Service dog in training"></a>
+          <a href="albanyAirport3.jpg" data-ngthumb="albanyAirport3.jpg" data-ngdesc="Loose Leash walking"></a>
         </div>
       </div>
 
