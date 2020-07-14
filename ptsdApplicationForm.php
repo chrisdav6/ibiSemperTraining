@@ -48,6 +48,7 @@
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>
   <script src="public/js/scripts.js"></script>
+  <script src="public/js/facebookPixel.js"></script>
 
 </body>
 

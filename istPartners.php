@@ -127,6 +127,7 @@
   <script src="public/js/smooth-scroll.min.js"></script>
   <script src="public/js/scripts.js"></script>
   <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
+  <script src="public/js/facebookPixel.js"></script>
 </body>
 
 </html>
