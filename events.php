@@ -43,7 +43,31 @@
 
       <div class="row">
 
-        <div class="col">
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/eatForChange.pdf" target="_blank">Eat for Change!</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/eatForChange.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/eatForChange.png" alt="Eat For Change">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Aug 22nd from 4-8pm - <a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank">441 Balltown Rd - Ste 3, Schenectady, NY</a></h5>
+                <p>Support Ibi Semper Training to fund adopting Shelter Dogs to pair with 1st Responders, Veterans and Correctional Officers with PTSD.
+                  We operate completely on Donations and Fundraisers to provide the dogs and training at no charge to our teams.
+                </p>
+                <p>
+                  Head to Chipotle for some good Mexican Grill dinner and then to Sweet Frog next door for a frozen yoghurt desert.
+                  Please either present the flyer or show it on your phone to the cashier at checkout or mention the “Ibi Semper Training - Eat for Change” fundraiser when paying so that we receive the funds from the fundraiser. We appreciate your support! Thank you
+                </p>
+                <h5><a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">Changing Lives Trivia Night</a></h4>
             <div class="row">
