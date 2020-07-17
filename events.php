@@ -54,12 +54,9 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>Aug 22nd from 4 - 8pm - <a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank">441 Balltown Rd - Ste 3, Schenectady, NY</a></h5>
-                <p>Please stop by and mention this fundraiser to the cashier when purchasing a refreshing frozen yogurt treat to
-                  support adopting shelter dogs to pair with Veterans, Correctional Officers and 1st Responders with PTSD to train them to become
-                  Service Dog teams. We operate solely on donations and Fundraisers to provide our services free of charge to the teams. Be the
-                  change you want to see. Eat for change. Thank you for your support!
-
+                <p>Please stop by and mention this fundraiser (or present the flyer on your phone) to the cashier when purchasing Mexican dinner at Chipotle’s and a refreshing frozen yogurt treat at Sweet Frog to support adopting shelter dogs to pair with Veterans, Correctional Officers and 1st Responders with PTSD to train them to become Service Dog teams.
                 </p>
+                <p>We operate solely on donations and Fundraisers to provide our services free of charge to the teams. Be the change you want to see. Eat for change. Thank you for your support</p>
                 <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatForChange.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
                 <h5><a class="link text-dark" href="/public/pdf/eatForChangeSweetFrog.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download SweetFrog Flyer</a></h5>
               </div>
@@ -78,13 +75,32 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>Sept 26th from 11:30am - 8pm - <a class="link text-dark" href="https://goo.gl/maps/Z37SsyaGj3fdZbaUA" target="_blank">579 Troy Schenectady Rd, Latham, NY</a></h5>
-                <p>Go to the Core and live the Life you were meant to be living. Support Ibi Semper Training to fund adopting Shelter Dogs to pair with 1st Responders, Veterans and Correctional Officers with PTSD. We operate completely on Donations and Fundraisers to provide the dogs and training at no charge to our teams.”
+                <p>Go to the Core and live the Life you were meant to be living. Support Ibi Semper Training to fund adopting Shelter Dogs to pair with 1st Responders, Veterans and Correctional Officers with PTSD. We operate completely on Donations and Fundraisers to provide the dogs and training at no charge to our teams.
                 </p>
                 <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/coreFlyer.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download CoreLife Flyer</a></h5>
               </div>
             </div>
           </div>
         </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">Cuts Benefiting Pups</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
+                  <img class="img-fluid" src="/public/img/cutsPups.png" alt="Cuts Benefiting Pups">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Oct 4th from 10:00am - 2pm - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <p>Sons, Brothers, Fathers, Uncles, Dads and Grandads: Answer the call to transform your COVID locks to benefit PTSD Service Dogs and their Veteran and 1st Responder handlers. We operate solely on donations and Fundraisers! Your support is much appreciated!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
