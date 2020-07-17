@@ -61,7 +61,8 @@
                   Head to Chipotle for some good Mexican Grill dinner and then to Sweet Frog next door for a frozen yoghurt desert.
                   Please either present the flyer or show it on your phone to the cashier at checkout or mention the “Ibi Semper Training - Eat for Change” fundraiser when paying so that we receive the funds from the fundraiser. We appreciate your support! Thank you
                 </p>
-                <h5><a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
+                <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatForChange.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
+                <h5><a class="link text-dark" href="/public/pdf/eatForChangeSweetFrog.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download SweetFrog Flyer</a></h5>
               </div>
             </div>
           </div>
