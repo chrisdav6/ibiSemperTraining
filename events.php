@@ -53,16 +53,34 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>Aug 22nd from 4-8pm - <a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank">441 Balltown Rd - Ste 3, Schenectady, NY</a></h5>
-                <p>Support Ibi Semper Training to fund adopting Shelter Dogs to pair with 1st Responders, Veterans and Correctional Officers with PTSD.
-                  We operate completely on Donations and Fundraisers to provide the dogs and training at no charge to our teams.
-                </p>
-                <p>
-                  Head to Chipotle for some good Mexican Grill dinner and then to Sweet Frog next door for a frozen yoghurt desert.
-                  Please either present the flyer or show it on your phone to the cashier at checkout or mention the “Ibi Semper Training - Eat for Change” fundraiser when paying so that we receive the funds from the fundraiser. We appreciate your support! Thank you
+                <h5>Aug 22nd from 4 - 8pm - <a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank">441 Balltown Rd - Ste 3, Schenectady, NY</a></h5>
+                <p>Please stop by and mention this fundraiser to the cashier when purchasing a refreshing frozen yogurt treat to
+                  support adopting shelter dogs to pair with Veterans, Correctional Officers and 1st Responders with PTSD to train them to become
+                  Service Dog teams. We operate solely on donations and Fundraisers to provide our services free of charge to the teams. Be the
+                  change you want to see. Eat for change. Thank you for your support!
+
                 </p>
                 <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatForChange.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
                 <h5><a class="link text-dark" href="/public/pdf/eatForChangeSweetFrog.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download SweetFrog Flyer</a></h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/coreFlyer.pdf" target="_blank">Core to the Rescue</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/coreFlyer.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/coreLife.png" alt="Great food for good">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Sept 26th from 11:30am - 8pm - <a class="link text-dark" href="https://goo.gl/maps/Z37SsyaGj3fdZbaUA" target="_blank">579 Troy Schenectady Rd, Latham, NY</a></h5>
+                <p>Go to the Core and live the Life you were meant to be living. Support Ibi Semper Training to fund adopting Shelter Dogs to pair with 1st Responders, Veterans and Correctional Officers with PTSD. We operate completely on Donations and Fundraisers to provide the dogs and training at no charge to our teams.”
+                </p>
+                <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/coreFlyer.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download CoreLife Flyer</a></h5>
               </div>
             </div>
           </div>
@@ -78,7 +96,7 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>Nov 7th from 8-10pm - <a class="link text-dark" href="https://goo.gl/maps/pYLXzFmqFpGNH85CA" target="_blank">121 Wall St, Schenectady, NY</a></h5>
+                <h5>Nov 7th from 8 - 10pm - <a class="link text-dark" href="https://goo.gl/maps/pYLXzFmqFpGNH85CA" target="_blank">121 Wall St, Schenectady, NY</a></h5>
                 <p>Our last Trivia Night was a huge success! Let's continue changing lives and join us for another fun evening!
                   Only $100 per team of 5 people, $120 for team of 7! We have space for 10 teams total, so make your team reservations now. We need a Team name, # of people and a contact person with contact information when making reservations for your Team. Email <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> for reservation and information.
                 </p>
