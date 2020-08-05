@@ -57,7 +57,10 @@
                 <p>Please stop by and mention this fundraiser (or present the flyer on your phone) to the cashier when purchasing Mexican dinner at Chipotle’s and a refreshing frozen yogurt treat at Sweet Frog to support adopting shelter dogs to pair with Veterans, Correctional Officers and 1st Responders with PTSD to train them to become Service Dog teams.
                 </p>
                 <p>We operate solely on donations and Fundraisers to provide our services free of charge to the teams. Be the change you want to see. Eat for change. Thank you for your support</p>
+
+                <p><strong><u>FANTASTIC NEWS!</u></strong> Online orders for Chipotle are now included in our August 22nd Fundraiser! Please see the instructions below. Please consider this fundraiser to help shelter dogs, Veterans and 1st Responders! Your online code: 49WT62H</p>
                 <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatForChange.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
+                <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/ChipotleFundraiserInstructions.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Fundraiser Instructions</a></h5>
                 <h5><a class="link text-dark" href="/public/pdf/eatForChangeSweetFrog.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download SweetFrog Flyer</a></h5>
               </div>
             </div>
