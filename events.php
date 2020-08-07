@@ -69,6 +69,25 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank">General Trivia Fundraiser</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank">
+                  <img class="img-fluid" src="/public/img/generalTrivia.png" alt="General Trivia Fundraiser">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Sept 12th, 7:15pm - Virtual Event</h5>
+                <p>Join us for a fun evening of online trivia in the comfort of your home with winning prizes, laughs, suspense and teamwork! Only $25 per team with proceeds going directly to Ibi Semper Training PTSD Service Dog teams! Thank you for supporting Shelter dogs and our PTSD Service Dog teams!
+                </p>
+                <h5 class='mb-2'><a class="link text-dark" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank"><i class="fas fa-cloud-download-alt"></i> Sign-Up and Register</a></h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="/public/pdf/coreFlyer.pdf" target="_blank">Core to the Rescue</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
