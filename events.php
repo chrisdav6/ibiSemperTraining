@@ -177,17 +177,25 @@
           </div>
         </div>-->
 
-        <div class="col-md-6">
-          <div class="event">
-            <div class="date blue">Sept<span>20</span></div>
-            <div class="text">
-              <p class="eventTitle">Pet Fest</p>
-              <a class="red" href="https://goo.gl/maps/D34P5XwqwpardCDs9" target="_blank">Glens Falls City Park</a>
-              <hr class="event-divider">
-              <a class="text-dark event-link" href="https://www.glensfalls.com/event/pet-fest-118896" target="_blank"><i class="fas fa-info-circle"></i> View Event Info</a>
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/events/190540208884561" target="_blank">Military Family Foundation – 2nd Annual 22 a Day Virtual Walk/Run</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/events/190540208884561" target="_blank">
+                  <img class="img-fluid" src="/public/img/militaryFamilyFoundation.png" alt="Military Family Foundation">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Sept 20th from 1:30 - 3:30pm - Virtual Event</h5>
+                <p>This year the 2nd Annual 22 a Day Walk/Run will be hosted virtually due to COVID-19. Because the event will be online, the Zoom App will be used to walk virtually together for 22 min. If you register, a donation of $5 would be appreciated. All proceeds go to benefit Military Family Foundation's Peer to Peer Support Program. To register, please go to the <a class="link text-dark" href='https://www.facebook.com/MFFAlbany' target='_blank'>Military Family Foundation page</a>. Online event will start at 1:30pm to give Vendors (such as Ibi Semper Training) a chance to share their information. Walk will begin at exactly 2:22pm, The link to register will be up soon.
+                </p>
+                <p>This year various local, County, State and National organizations that help with Veteran Services and Mental Health programs will be hosted.</p>
+              </div>
             </div>
           </div>
         </div>
+
 
       </div><!-- /row -->
 
