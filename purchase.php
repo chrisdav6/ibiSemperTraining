@@ -24,8 +24,6 @@
   <link rel="stylesheet" href="public/css/style.css">
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
-  <!-- Paypal Button Script -->
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
   <title><?php echo $title; ?></title>
 </head>
 
@@ -72,92 +70,8 @@
         </div>
         <div class="pricing">
           <p>$20 each for shirts size S through XL</p>
-          <!-- Paypal -->
-          <div class="paypal" id="paypal-button-container1"></div>
-          <script>
-          paypal.Buttons({
-            style: {
-              shape: 'rect',
-              color: 'gold',
-              layout: 'horizontal',
-              label: 'paypal',
-
-            },
-            createOrder: function(data, actions) {
-              return actions.order.create({
-                purchase_units: [{
-                  amount: {
-                    value: '20'
-                  }
-                }]
-              });
-            },
-            onApprove: function(data, actions) {
-              return actions.order.capture().then(function(details) {
-                alert('Transaction completed by ' + details.payer.name.given_name + '!');
-              });
-            }
-          }).render('#paypal-button-container1');
-          </script>
-          <!-- /Paypal -->
           <p>$30 for 2 shirts size S through XL</p>
-          <!-- Paypal -->
-          <div class="paypal" id="paypal-button-container2"></div>
-          <script>
-          paypal.Buttons({
-            style: {
-              shape: 'rect',
-              color: 'gold',
-              layout: 'horizontal',
-              label: 'paypal',
-
-            },
-            createOrder: function(data, actions) {
-              return actions.order.create({
-                purchase_units: [{
-                  amount: {
-                    value: '30'
-                  }
-                }]
-              });
-            },
-            onApprove: function(data, actions) {
-              return actions.order.capture().then(function(details) {
-                alert('Transaction completed by ' + details.payer.name.given_name + '!');
-              });
-            }
-          }).render('#paypal-button-container2');
-          </script>
-          <!-- /Paypal -->
           <p>$25 each for size 2XL</p>
-          <!-- Paypal -->
-          <div class="paypal" id="paypal-button-container3"></div>
-          <script>
-          paypal.Buttons({
-            style: {
-              shape: 'rect',
-              color: 'gold',
-              layout: 'horizontal',
-              label: 'paypal',
-
-            },
-            createOrder: function(data, actions) {
-              return actions.order.create({
-                purchase_units: [{
-                  amount: {
-                    value: '25'
-                  }
-                }]
-              });
-            },
-            onApprove: function(data, actions) {
-              return actions.order.capture().then(function(details) {
-                alert('Transaction completed by ' + details.payer.name.given_name + '!');
-              });
-            }
-          }).render('#paypal-button-container3');
-          </script>
-          <!-- /Paypal -->
         </div>
       </div>
 
@@ -181,34 +95,6 @@
           <p>Only $7 each
             <!--- <small class="text-danger">Temporarily out of stock, please check back soon.</small>-->
           </p>
-          <!-- Paypal -->
-          <div class="paypal" id="paypal-button-container4"></div>
-          <script>
-          paypal.Buttons({
-            style: {
-              shape: 'rect',
-              color: 'gold',
-              layout: 'horizontal',
-              label: 'paypal',
-
-            },
-            createOrder: function(data, actions) {
-              return actions.order.create({
-                purchase_units: [{
-                  amount: {
-                    value: '7'
-                  }
-                }]
-              });
-            },
-            onApprove: function(data, actions) {
-              return actions.order.capture().then(function(details) {
-                alert('Transaction completed by ' + details.payer.name.given_name + '!');
-              });
-            }
-          }).render('#paypal-button-container4');
-          </script>
-          <!-- /Paypal -->
         </div>
       </div>
 

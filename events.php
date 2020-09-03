@@ -22,8 +22,6 @@
   <link rel="stylesheet" href="public/css/style.css">
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
-  <!-- Paypal Button Script -->
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
   <title><?php echo $title; ?></title>
 </head>
 
@@ -45,25 +43,6 @@
 
       <div class="row">
 
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank">General Trivia Fundraiser</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank">
-                  <img class="img-fluid" src="/public/img/generalTrivia.png" alt="General Trivia Fundraiser">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Sept 12th, 7:15pm - Virtual Event</h5>
-                <p>Join us for a fun evening of online trivia in the comfort of your home with winning prizes, laughs, suspense and teamwork! Only $25 per team with proceeds going directly to Ibi Semper Training PTSD Service Dog teams! Thank you for supporting Shelter dogs and our PTSD Service Dog teams!
-                </p>
-                <h5 class='mb-2'><a class="link text-dark" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank"><i class="fas fa-cloud-download-alt"></i> Sign-Up and Register</a></h5>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4>
@@ -79,34 +58,6 @@
                 <p>Please join us for a fun evening of online trivia in the convenience of your own home with winning prizes, laughs, suspense and teamwork! Thank you for supporting shelter dog adoption, Veterans and 1st Responders.
                 </p>
                 <p><strong>You will need to register and pay for this event by 9/11 to participate!</strong> Please make payment via Paypal, then contact Sonya at <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> with your team details (team name, contact person, email address). Once you register and we receive payment, you will receive an email with the link and code you need to enter the game day of the Trivia.</p>
-                <!-- Paypal -->
-                <div class="paypal" id="paypal-button-container4"></div>
-                <script>
-                paypal.Buttons({
-                  style: {
-                    shape: 'rect',
-                    color: 'gold',
-                    layout: 'horizontal',
-                    label: 'paypal',
-
-                  },
-                  createOrder: function(data, actions) {
-                    return actions.order.create({
-                      purchase_units: [{
-                        amount: {
-                          value: '20'
-                        }
-                      }]
-                    });
-                  },
-                  onApprove: function(data, actions) {
-                    return actions.order.capture().then(function(details) {
-                      alert('Transaction completed by ' + details.payer.name.given_name + '!');
-                    });
-                  }
-                }).render('#paypal-button-container4');
-                </script>
-                <!-- /Paypal -->
               </div>
             </div>
           </div>
