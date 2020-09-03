@@ -43,7 +43,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="/public/pdf/eatForChange.pdf" target="_blank">Eat for Change!</a></h4>
             <div class="row">
@@ -65,7 +65,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
