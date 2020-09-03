@@ -22,6 +22,8 @@
   <link rel="stylesheet" href="public/css/style.css">
   <!-- Favicon -->
   <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
+  <!-- Paypal Button Script -->
+  <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
   <title><?php echo $title; ?></title>
 </head>
 
@@ -43,30 +45,6 @@
 
       <div class="row">
 
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="/public/pdf/eatForChange.pdf" target="_blank">Eat for Change!</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="/public/pdf/eatForChange.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/eatForChange.png" alt="Eat For Change">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Aug 22nd from 4 - 8pm - <a class="link text-dark" href="https://goo.gl/maps/fDJAXpHCM3aL2jTcA" target="_blank">441 Balltown Rd - Ste 3, Schenectady, NY</a></h5>
-                <p>Please stop by and mention this fundraiser (or present the flyer on your phone) to the cashier when purchasing Mexican dinner at Chipotle’s and a refreshing frozen yogurt treat at Sweet Frog to support adopting shelter dogs to pair with Veterans, Correctional Officers and 1st Responders with PTSD to train them to become Service Dog teams.
-                </p>
-                <p>We operate solely on donations and Fundraisers to provide our services free of charge to the teams. Be the change you want to see. Eat for change. Thank you for your support</p>
-
-                <p><strong><u>FANTASTIC NEWS!</u></strong> Online orders for Chipotle are now included in our August 22nd Fundraiser! Please see the instructions below. Please consider this fundraiser to help shelter dogs, Veterans and 1st Responders! Your online code: 49WT62H</p>
-                <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatForChange.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Flyer</a></h5>
-                <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/ChipotleFundraiserInstructions.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Chipotle Fundraiser Instructions</a></h5>
-                <h5><a class="link text-dark" href="/public/pdf/eatForChangeSweetFrog.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download SweetFrog Flyer</a></h5>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank">General Trivia Fundraiser</a></h4>
@@ -81,6 +59,54 @@
                 <p>Join us for a fun evening of online trivia in the comfort of your home with winning prizes, laughs, suspense and teamwork! Only $25 per team with proceeds going directly to Ibi Semper Training PTSD Service Dog teams! Thank you for supporting Shelter dogs and our PTSD Service Dog teams!
                 </p>
                 <h5 class='mb-2'><a class="link text-dark" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank"><i class="fas fa-cloud-download-alt"></i> Sign-Up and Register</a></h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4>
+              <strong>Operation Dream Team Trivia Fundraiser</strong>
+            </h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/dreamTeamTrivia.png" alt="Dream Team Trivia Fundraiser">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-0'>Sept 13th, 7:00pm - 8:30pm - Virtual Event</h5>
+                <h5 class='mt-2'>Cost: $20 per Sign-Up</h5>
+                <p>Please join us for a fun evening of online trivia in the convenience of your own home with winning prizes, laughs, suspense and teamwork! Thank you for supporting shelter dog adoption, Veterans and 1st Responders.
+                </p>
+                <p><strong>You will need to register and pay for this event by 9/11 to participate!</strong> Please make payment via Paypal, then contact Sonya at <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> with your team details. Once you register and we receive payment, you will receive an email with the link and code to you need to enter the game day of the Trivia.</p>
+                <!-- Paypal -->
+                <div class="paypal" id="paypal-button-container4"></div>
+                <script>
+                paypal.Buttons({
+                  style: {
+                    shape: 'rect',
+                    color: 'gold',
+                    layout: 'horizontal',
+                    label: 'paypal',
+
+                  },
+                  createOrder: function(data, actions) {
+                    return actions.order.create({
+                      purchase_units: [{
+                        amount: {
+                          value: '20'
+                        }
+                      }]
+                    });
+                  },
+                  onApprove: function(data, actions) {
+                    return actions.order.capture().then(function(details) {
+                      alert('Transaction completed by ' + details.payer.name.given_name + '!');
+                    });
+                  }
+                }).render('#paypal-button-container4');
+                </script>
+                <!-- /Paypal -->
               </div>
             </div>
           </div>
