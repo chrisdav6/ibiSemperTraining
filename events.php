@@ -45,7 +45,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.familytrivialive.com/event-details/fundraiser-ibi-semper-training-ptsd-service-dog-teams" target="_blank">General Trivia Fundraiser</a></h4>
             <div class="row">
@@ -62,7 +62,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
