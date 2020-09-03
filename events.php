@@ -78,7 +78,7 @@
                 <h5 class='mt-2'>Cost: $20 per Sign-Up</h5>
                 <p>Please join us for a fun evening of online trivia in the convenience of your own home with winning prizes, laughs, suspense and teamwork! Thank you for supporting shelter dog adoption, Veterans and 1st Responders.
                 </p>
-                <p><strong>You will need to register and pay for this event by 9/11 to participate!</strong> Please make payment via Paypal, then contact Sonya at <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> with your team details. Once you register and we receive payment, you will receive an email with the link and code to you need to enter the game day of the Trivia.</p>
+                <p><strong>You will need to register and pay for this event by 9/11 to participate!</strong> Please make payment via Paypal, then contact Sonya at <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> with your team details (team name, contact person, email address). Once you register and we receive payment, you will receive an email with the link and code you need to enter the game day of the Trivia.</p>
                 <!-- Paypal -->
                 <div class="paypal" id="paypal-button-container4"></div>
                 <script>
