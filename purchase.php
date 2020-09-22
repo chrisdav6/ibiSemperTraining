@@ -41,6 +41,25 @@
     <div class="container">
       <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Shoot us an <a href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Purchase" class="purchaseLink"><i class="far fa-envelope"></i> email</a> to purchase any items below. Thank you for your support!</p>
 
+      <div class="purchase-group">
+        <h2 class="mb-4">Donate</h2>
+        <div class="info">
+          <p>Thank you for your support for and contribution to our Veterans and First Responder Service Dog teams!
+            By clicking on the donation button, your contribution benefits directly the training of Service Dog teams and if needed, adopting dogs from shelters for our teams.
+            Ibi Semper Training solely exist of donations and fundraising funds to provide our services free of charge to our teams.
+          </p>
+        </div>
+        <div class='mt-4'>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick" />
+            <input type="hidden" name="hosted_button_id" value="RVMY4GVNUKVTE" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+          </form>
+
+        </div>
+      </div>
+
       <div class="amazon">
         <h2 class="mb-4">Amazon Smile</h2>
         <p>You can select us now on Amazon Smile as your charity of choice. IST is ONLY working from donations and fundraisers. Any help is greatly appreciated! <strong>Thank you!</strong></p>
