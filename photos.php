@@ -41,6 +41,28 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">Cuts Benefiting Pups</h2>
+        <p class="mb-4"><a class="link text-dark" href="https://www.facebook.com/tomsburnthills" target="_blank">Tom's Old Fashioned Barber Shop</a> was the site of IST’s fundraiser on the day of St. Francis Assisi – the Saint of the animals. In attendance was SPCA and DJ Jamminman Productions kept the music flowing. Thank you for the Gazette to feature the event on Monday.</p>
+        <div id="tomsBarber" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/tomsBarber/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="tomsBarber1.jpg" data-ngthumb="tomsBarber1.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber2.jpg" data-ngthumb="tomsBarber2.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber3.jpg" data-ngthumb="tomsBarber3.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber4.jpg" data-ngthumb="tomsBarber4.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber5.jpg" data-ngthumb="tomsBarber5.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber6.jpg" data-ngthumb="tomsBarber6.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber7.jpg" data-ngthumb="tomsBarber7.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+      <div class="photo-group">
         <h2 class="mb-4">Outreach - 7th Annual Suicide Prevention Run</h2>
         <p class="mb-4">Thank you <a class="link text-dark" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Crazytrain RC</a> for hosting the 7th Annual Suicide Prevention Run. IST was honored to have been able to attend as a vendor and introduce our program to your riders. We look forward to attend next year’s ride. Thank you for all you do for the prevention of Suicide!</p>
         <div id="preventionRun" data-nanogallery2='{
