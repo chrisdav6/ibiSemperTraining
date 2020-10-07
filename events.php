@@ -59,9 +59,6 @@
                   <p>Feeling patriotic and tired of the same old meals, then please join us and support local Veterans &amp; First Responders with PTSD and their Service Dogs by ordering your dinner out at The Cask &amp; Rasher.
                   </p>
                   <p><strong>Pre-order by 10/15 required, curbside pickup.</strong></p>
-                  <p>
-                    This program is free of charge for Veterans & First Responders with PTSD! The Cask &amp; Rasher does not have a military or K-9 breed restriction.
-                  </p>
                   <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatAndHelpHerosFlyer.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Flyer</a></h5>
                 </div>
               </div>
