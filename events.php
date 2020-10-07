@@ -58,6 +58,7 @@
                   <h5>Oct 17th from 4 - 6pm - <a class="link text-dark" href="https://goo.gl/maps/FkeyswAKM8na8qDk8" target="_blank">245 Mansion St, Coxsackie, NY</a></h5>
                   <p>Feeling patriotic and tired of the same old meals, then please join us and support local Veterans &amp; First Responders with PTSD and their Service Dogs by ordering your dinner out at The Cask &amp; Rasher.
                   </p>
+                  <p><strong>Pre-order by 10/15 required, curbside pickup.</strong></p>
                   <p>
                     This program is free of charge for Veterans & First Responders with PTSD! The Cask &amp; Rasher does not have a military or K-9 breed restriction.
                   </p>
