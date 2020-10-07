@@ -59,6 +59,8 @@
           <a href="tomsBarber5.jpg" data-ngthumb="tomsBarber5.jpg" data-ngdesc=""></a>
           <a href="tomsBarber6.jpg" data-ngthumb="tomsBarber6.jpg" data-ngdesc=""></a>
           <a href="tomsBarber7.jpg" data-ngthumb="tomsBarber7.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber8.jpg" data-ngthumb="tomsBarber8.jpg" data-ngdesc=""></a>
+          <a href="tomsBarber9.jpg" data-ngthumb="tomsBarber9.jpg" data-ngdesc=""></a>
         </div>
       </div>
 
