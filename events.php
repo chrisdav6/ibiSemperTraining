@@ -56,9 +56,8 @@
                 </div>
                 <div class="col-lg-9 col-md-8">
                   <h5>Oct 17th from 4 - 6pm - <a class="link text-dark" href="https://goo.gl/maps/FkeyswAKM8na8qDk8" target="_blank">245 Mansion St, Coxsackie, NY</a></h5>
-                  <p>Feeling patriotic and tired of the same old meals, then please join us and support local Veterans &amp; First Responders with PTSD and their Service Dogs by ordering your dinner out at The Cask &amp; Rasher.
+                  <p>Feeling patriotic and tired of the same old meals, then please join us and support local Veterans &amp; First Responders with PTSD and their Service Dogs by ordering your dinner out at The Cask &amp; Rasher. <strong>Pre-order by 10/15 required, curbside pickup.</strong>
                   </p>
-                  <p><strong>Pre-order by 10/15 required, curbside pickup.</strong></p>
                   <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatAndHelpHerosFlyer.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Flyer</a></h5>
                 </div>
               </div>
