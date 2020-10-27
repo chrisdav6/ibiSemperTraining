@@ -44,69 +44,48 @@
       <div class="row">
 
         <div class="col-12 mb-5">
-
-          <div class="col-12 mb-5">
-            <div class="longFundraiser">
-              <h4><a class="text-dark fund-link" href="https://www.facebook.com/thecaskandrasher" target="_blank">Eat &amp; Help Heroes</a></h4>
-              <div class="row">
-                <div class="col-lg-3 col-md-4 mb-4">
-                  <a href="https://www.facebook.com/thecaskandrasher" target="_blank">
-                    <img class="img-fluid" src="/public/img/eatAndHelpHeros.png" alt="Cask and Rasher Logo">
-                  </a>
-                </div>
-                <div class="col-lg-9 col-md-8">
-                  <h5>Oct 17th from 4 - 6pm - <a class="link text-dark" href="https://goo.gl/maps/FkeyswAKM8na8qDk8" target="_blank">245 Mansion St, Coxsackie, NY</a></h5>
-                  <p>Feeling patriotic and tired of the same old meals, then please join us and support local Veterans &amp; First Responders with PTSD and their Service Dogs by ordering your dinner out at The Cask &amp; Rasher. <strong>Pre-order by 10/15 required, curbside pickup.</strong>
-                  </p>
-                  <h5 class='mb-2'><a class="link text-dark" href="/public/pdf/eatAndHelpHerosFlyer.pdf" target="_blank"><i class="fas fa-cloud-download-alt"></i> Download Flyer</a></h5>
-                </div>
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">Changing Lives Trivia Night</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">
+                  <img class="img-fluid" src="/public/img/katieOburnes.png" alt="KatieOburnes">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Dec 19th from 8 - 10pm - <a class="link text-dark" href="https://goo.gl/maps/pYLXzFmqFpGNH85CA" target="_blank">121 Wall St, Schenectady, NY</a></h5>
+                <p>Our last Trivia Night was a huge success! Let's continue changing lives and join us for another fun evening!
+                  Only $100 per team of 5 people, $120 for team of 7! We have space for 10 teams total, so make your team reservations now. We need a Team name, # of people and a contact person with contact information when making reservations for your Team. Email <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> for reservation and information.
+                </p>
+                <p>
+                  Enjoy Suspense, laughter, teamwork and go home with a winning team prize. All to benefit Veterans, 1st Responders and Shelter Dogs! What's not to love!
+                  Come early and order your dinner before or during the event. Thank you for your support!
+                </p>
               </div>
             </div>
           </div>
+        </div>
 
-          <div class="col-12 mb-5">
-            <div class="longFundraiser">
-              <h4><a class="text-dark fund-link" href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">Changing Lives Trivia Night</a></h4>
-              <div class="row">
-                <div class="col-lg-3 col-md-4 mb-4">
-                  <a href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">
-                    <img class="img-fluid" src="/public/img/katieOburnes.png" alt="KatieOburnes">
-                  </a>
-                </div>
-                <div class="col-lg-9 col-md-8">
-                  <h5>Nov 7th from 8 - 10pm - <a class="link text-dark" href="https://goo.gl/maps/pYLXzFmqFpGNH85CA" target="_blank">121 Wall St, Schenectady, NY</a></h5>
-                  <p>Our last Trivia Night was a huge success! Let's continue changing lives and join us for another fun evening!
-                    Only $100 per team of 5 people, $120 for team of 7! We have space for 10 teams total, so make your team reservations now. We need a Team name, # of people and a contact person with contact information when making reservations for your Team. Email <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> for reservation and information.
-                  </p>
-                  <p>
-                    Enjoy Suspense, laughter, teamwork and go home with a winning team prize. All to benefit Veterans, 1st Responders and Shelter Dogs! What's not to love!
-                    Come early and order your dinner before or during the event. Thank you for your support!
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
+      </div><!-- /row -->
 
-        </div><!-- /row -->
-
-        <!--<h2>Outreach Events</h2>
+      <!--<h2>Outreach Events</h2>
 
         <div class="row">
 
         </div>-->
-        <!-- /row -->
+      <!-- /row -->
 
-      </div>
     </div>
+  </div>
 
-    <?php include_once "includes/footer.php"; ?>
+  <?php include_once "includes/footer.php"; ?>
 
-    <script src="public/js/jquery.min.js"></script>
-    <script src="public/js/bootstrap.bundle.min.js"></script>
-    <script src="public/js/util.js"></script>
-    <script src="public/js/smooth-scroll.min.js"></script>
-    <script src="public/js/scripts.js"></script>
-    <script src="public/js/facebookPixel.js"></script>
+  <script src="public/js/jquery.min.js"></script>
+  <script src="public/js/bootstrap.bundle.min.js"></script>
+  <script src="public/js/util.js"></script>
+  <script src="public/js/smooth-scroll.min.js"></script>
+  <script src="public/js/scripts.js"></script>
+  <script src="public/js/facebookPixel.js"></script>
 
 </body>
 

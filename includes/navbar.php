@@ -40,11 +40,6 @@
             <a class="nav-link" href="/faqs.php">FAQ's</a>
           </li> -->
         </ul>
-        <ul class="navbar-nav ml-0 ml-lg-2">
-          <li class="nav-item mr-1">
-            <a class="social-head facebook" href="https://www.facebook.com/ibisempertraining1" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
-          </li>
-        </ul>
       </div>
     </div>
   </nav>
