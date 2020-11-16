@@ -140,6 +140,19 @@
           </div>
         </div>
 
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/art4Vets.jpg" alt="Arts 4 Vets">
+            <div class="card-body">
+              <h6>Arts4Vets</h6>
+              <hr>
+              <div class="links">
+                <a href="http://www.artsforvets.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/groups/1231782123562194" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div><!-- /row -->
 
     </div>
