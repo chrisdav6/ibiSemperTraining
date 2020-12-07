@@ -37,9 +37,10 @@
 
   <div id="events" class="secondary-content mt-4">
     <div class="container">
-      <h2>Fundraisers</h2>
 
-      <!-- <p>Currently no fundraiser events scheduled, please check back soon.</p> -->
+      <p>Currently no events scheduled, please check back soon.</p>
+
+      <!-- <h2>Fundraisers</h2>
 
       <div class="row">
 
@@ -66,14 +67,14 @@
           </div>
         </div>
 
-      </div><!-- /row -->
+      </div>
 
-      <!--<h2>Outreach Events</h2>
+      <h2>Outreach Events</h2>
 
-        <div class="row">
+      <div class="row">
 
-        </div>-->
-      <!-- /row -->
+      </div> -->
+
 
     </div>
   </div>
