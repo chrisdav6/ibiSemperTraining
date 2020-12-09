@@ -38,30 +38,31 @@
   <div id="events" class="secondary-content mt-4">
     <div class="container">
 
-      <p>Currently no events scheduled, please check back soon.</p>
+      <!-- <p>Currently no events scheduled, please check back soon.</p> -->
 
-      <!-- <h2>Fundraisers</h2>
+      <h2>Fundraisers</h2>
 
       <div class="row">
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">Changing Lives Trivia Night</a></h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/blazePizza12142020.pdf" target="_blank">Cause a scene for a good cause</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/Katie-OByrnes-Irish-Pub-Restaurant-39088387227" target="_blank">
-                  <img class="img-fluid" src="/public/img/katieOburnes.png" alt="KatieOburnes">
+                <a href="public/pdf/blazePizza12142020.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>Dec 19th from 8 - 10pm - <a class="link text-dark" href="https://goo.gl/maps/pYLXzFmqFpGNH85CA" target="_blank">121 Wall St, Schenectady, NY</a></h5>
-                <p>Our last Trivia Night was a huge success! Let's continue changing lives and join us for another fun evening!
-                  Only $100 per team of 5 people, $120 for team of 7! We have space for 10 teams total, so make your team reservations now. We need a Team name, # of people and a contact person with contact information when making reservations for your Team. Email <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Changing Lives Trivia Night">sonya@ibisempertraining.org</a> for reservation and information.
+                <h5>Dec 14th from 4:30pm - 7:30pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohwak Commons 400 Balltown Rd</a></h5>
+                <p>Come and eat some delicious pizza at Blaze Pizza while supporting IBI. Blaze Pizza will donate 20% of proceeds from your meal back to our organization. </p>
+                <p class='mb-1'>
+                  <strong>Two ways to support</strong>
                 </p>
-                <p>
-                  Enjoy Suspense, laughter, teamwork and go home with a winning team prize. All to benefit Veterans, 1st Responders and Shelter Dogs! What's not to love!
-                  Come early and order your dinner before or during the event. Thank you for your support!
-                </p>
+                <p>1. Bring in <a class='link text-dark' href='public/pdf/blazePizza12142020.pdf' target='_blank'>this flyer</a> or show it on your phone before paying.</p>
+                <p>2. Order Online - Orders must be placed on line via the Blaze Pizza App or blazepizza.com. Enter the code below into the 'Promo Code' field at checkout to have your transaction count toward the fund raiser. If entered
+                  correctly, you'll see a $.01 discount applied to your check which confirms that 20% of your transaction will be
+                  counted into the total donation. <strong>Promo Code: 1103A</strong></p>
               </div>
             </div>
           </div>
@@ -69,11 +70,11 @@
 
       </div>
 
-      <h2>Outreach Events</h2>
+      <!--<h2>Outreach Events</h2>
 
       <div class="row">
 
-      </div> -->
+      </div>-->
 
 
     </div>
