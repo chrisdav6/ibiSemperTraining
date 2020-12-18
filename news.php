@@ -74,6 +74,10 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://pawsforpurplehearts.org/wearing-a-service-dog-vest-isnt-an-all-access-pass/" target="_blank">
+        Wearing A Service Dog Vest Isn't An All-Access Pass
+      </a>
+
       <div id="largeNews" class="secondary-content mt-2 mb-5">
         <div class="container">
           <div class="largeNewsItem">
