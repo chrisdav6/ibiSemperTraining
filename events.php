@@ -44,7 +44,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/blazePizza12142020.pdf" target="_blank">Cause a scene for a good cause</a></h4>
             <div class="row">
@@ -63,6 +63,25 @@
                 <p>2. Order Online - Orders must be placed on line via the Blaze Pizza App or blazepizza.com. Enter the code below into the 'Promo Code' field at checkout to have your transaction count toward the fund raiser. If entered
                   correctly, you'll see a $.01 discount applied to your check which confirms that 20% of your transaction will be
                   counted into the total donation. <strong>Promo Code: 1103A</strong></p>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/flyerIST.pdf" target="_blank">PTSD & Service Dog Awareness Ride</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/flyerIST.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/flyerIST.jpg" alt="PTSD & Service Dog Awareness Ride">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Aug 28th at 10:00am - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
+                <p>Please join us for our first PTSD & Service Dog Awareness Ride! Enjoy a great ride, ceremony, food, vendors and raffle items. All proceeds directly benefit Veterans and First Responders with PTSD as well as Rescue/Shelter dogs.
+                </p>
+                <p>Our Training Program is free to Veterans and First Responders with PTSD! We are funded solely though Fundraisers & Donations!! Only $20 per bike & rider. $10 for passengers. Dogs are free!</p>
               </div>
             </div>
           </div>
