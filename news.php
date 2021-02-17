@@ -74,11 +74,15 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.wsj.com/amp/articles/emotional-support-animals-are-banned-on-airplanes-but-service-dogs-can-still-fly-free-11613570234" target="_blank">
+        Emotional-Support Animals Are Banned on Airplanes, But Service Dogs Can Still Fly Free
+      </a>
+
       <a class="newsItem" href="https://pawsforpurplehearts.org/wearing-a-service-dog-vest-isnt-an-all-access-pass/" target="_blank">
         Wearing A Service Dog Vest Isn't An All-Access Pass
       </a>
 
-      <div id="largeNews" class="secondary-content mt-2 mb-5">
+      <div id="largeNews" class="secondary-content mt-5 mb-5">
         <div class="container">
           <div class="largeNewsItem">
             <h4>Traveling with Service Animals</h4>
