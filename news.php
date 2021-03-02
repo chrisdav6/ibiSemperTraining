@@ -74,12 +74,19 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://medicalmutts.org/emotional-support-dog-therapy-dog-facility-dog-or-psychiatric-service-dog-whats-the-difference" target="_blank">
+        Emotional Support Dog, Therapy Dog, Facility Dog, or Psychiatric Service Dog. What’s the difference?
+        <p>It’s almost impossible to find any other creature as loving and comforting as a dog. Their ability to empathize and their natural desire to be close to us makes them remarkably predisposed to helping get through emotional... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.wsj.com/amp/articles/emotional-support-animals-are-banned-on-airplanes-but-service-dogs-can-still-fly-free-11613570234" target="_blank">
         Emotional-Support Animals Are Banned on Airplanes, But Service Dogs Can Still Fly Free
+        <p>Given a green light from the Transportation Department, airlines have banned so-called emotional-support animals from cabins, making it more complicated—and more expensive—for pets to fly with their owners... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://pawsforpurplehearts.org/wearing-a-service-dog-vest-isnt-an-all-access-pass/" target="_blank">
         Wearing A Service Dog Vest Isn't An All-Access Pass
+        <p>When you think of a service dog, you might imagine a fluffy golden retriever, a sleek black lab, or perhaps a strong shepherd — but no matter what breed comes to mind, you probably picture them wearing a brightly colored vest... (read more)</p>
       </a>
 
       <div id="largeNews" class="secondary-content mt-5 mb-5">
@@ -94,54 +101,67 @@
 
       <a class="newsItem" href="https://amp.cnn.com/cnn/2020/03/26/health/therapy-dog-er-doctor-trnd-wellness/index.html?fbclid=IwAR2YMEo_GSwFg5QWbIfZ3bT_7WkSkJiElFM7k7iduJeOWLvA7m3PvLYCyzY" target="_blank">
         A service dog in training brings comfort to ER doctors on the frontlines
+        <p>Heroes come in all shapes and sizes -- this one just happens to have four legs and a furry coat... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.military.com/daily-news/2020/02/07/bill-provide-service-dogs-veterans-ptsd-passes-house-unanimously.html" target="_blank">
         Bill to Provide Service Dogs for Veterans with PTSD Passes House Unanimously
+        <p>A decade-long effort to have the Department of Veterans Affairs provide service dogs to veterans with mental health issues passed a major hurdle with House passage Wednesday... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://abc7chicago.com/pets-animals/only-service-dogs-allowed-on-flights-in-new-dot-rules/5871271" target="_blank">
         Only service dogs allowed on flights in new DOT rules
+        <p>The days of passengers bringing rabbits, turtles and birds on planes as emotional-support animals could be ending... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.npr.org/2020/01/23/798662547/federal-government-may-tighten-restrictions-on-service-animals-on-planes" target="_blank">
         Federal Government May Tighten Restrictions On Service Animals On Planes
+        <p>The U.S. Department of Transportation is considering tightening the rules for taking service animals on planes after increased customer complaints and lobbying from the airlines who think current regulations are too lenient... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://vancouversun.com/opinion/columnists/daphne-bramham-before-planes-become-noahs-ark-some-regulation-is-needed" target="_blank">
         Daphne Bramham: Before planes become Noah's ark, some regulation is needed
+        <p>Images of a “comfort turkey,” a duck with shoes and a kangaroo on airline flights have all gone viral on the internet. So, too, did the photo of a pheasant at Newark airport and a story about Wally, an emotional support alligator... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.syossetadvance.com/articles/therapy-dogs-visit-syossets-harvest-house" target="_blank">
         Therapy dogs visit Syosset’s Harvest House
+        <p>On the brisk winter afternoon of January 22 in Syosset, over two dozen local residents greeted two spirited therapy dogs, golden retrievers Bella and Riley, at the nonprofit... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.palmbeachpost.com/news/20200128/cerabino-doggone-it-feds-looking-to-ground-emotional-support-pets" target="_blank">
         Cerabino: Doggone it, feds looking to ground “emotional support” pets
+        <p>There are too many of them to consider. There were more than 10,000 when I started reading, and it just kept growing. People from all over the country with lots of strong opinions... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.distractify.com/p/uber-wheelchair-service-dog" target="_blank">
         Uber Driver Refuses Rider with Service Animal - for the fourth time in one week
+        <p>Ride-sharing apps like Uber and Lyft have made the world much more accessible for many people who can't drive or don't own cars. However, despite federal and state laws demanding these services provide equal access for passengers with disabilities, many customers with service animals experience frequent denial of service once driver-partners see they are accompanied by a worker-companion animal... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.telegram.com/news/20200112/princetons-neads-supporting-fergusons-efforts-to-fight-service-dog-fraud" target="_blank">
         Princeton’s NEADS supporting Ferguson’s efforts to fight service dog fraud
+        <p>The service dog organization NEADS Inc., formerly from West Boylston, is working with state Rep. Kimberly Ferguson (R-Holden) to pass a bill that would make misrepresenting a service animal illegal... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.denverpost.com/2020/01/09/snowmass-village-hoa-service-dog" target="_blank">
         Snowmass Village HOA illegally banned a resident’s service dog, is ordered to pay victim $50,000
+        <p>A condominium association in Snowmass Village violated federal law — the Fair Housing Act — when it banned the service dog of a resident with disabilities from her home... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://abcnews4.com/news/local/lowcountry-veteran-says-he-and-his-service-dog-are-being-harassed-because-of-leash-laws" target="_blank">
         Lowcountry veteran says he and his service dog are being harassed because of leash laws
+        <p>A Lowcountry veteran says he and his service dog are being harassed because he doesn't walk her on a leash... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://fox17.com/news/local/why-are-pets-everywhere-businesses-airlines-cracking-down-on-service-animal-rules" target="_blank">
         Why are pets everywhere? Businesses, airlines cracking down on service animal rules
+        <p>No doubt you've noticed, pet lovers seem to be taking their animals everywhere these days. Some are performing a true service for their owners, but many are not. Now, several states, airlines and businesses are being forced to crack down on the abuse... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.theexaminernews.com/respect-the-vest-working-canines-and-what-they-do" target="_blank">
         Respect the Vest: Working Canines and What They Do
+        <p>Kaitlin’s life was saved by her service dog, Chester, Flaherty said about the recent incident, and the dog has changed the lives of the entire family in many other ways... (read more)</p>
       </a>
 
     </div>
