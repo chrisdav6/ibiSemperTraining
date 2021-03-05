@@ -2,6 +2,22 @@ footer {
   background: #111;
   padding: 2em 0;
 
+  .chamber {
+    a {
+      font-size: .85rem;
+      color: #6C757D;
+      text-decoration: none;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+
+    img {
+      width: 100px;
+    }
+  }
+
   .social {
     display: flex;
     flex-direction: row;
