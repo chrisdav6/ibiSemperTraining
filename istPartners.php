@@ -153,6 +153,19 @@
           </div>
         </div>
 
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/HicksStrong.jpg" alt="Hicks Strong">
+            <div class="card-body">
+              <h6>Hicks Strong</h6>
+              <hr>
+              <div class="links">
+                <a href="https://hicksstrong.org" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/HicksStrong" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div><!-- /row -->
 
     </div>
