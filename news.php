@@ -74,6 +74,11 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.military.com/off-duty/veterans-german-shepherd-first-ever-service-dog-machu-picchu.html/amp" target="_blank">
+        This Veteran's German Shepherd Is the First-Ever Service Dog at Machu Picchu
+        <p>For veterans traveling abroad, the use of service animals can be difficult. Where there’s a will, there are at least possibilities, as Air Force veteran Melanie Boling showed on a recent trip to Peru. Regulations for visiting Machu Picchu prohibited dogs, but Peruvian law allowed it.... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://medicalmutts.org/emotional-support-dog-therapy-dog-facility-dog-or-psychiatric-service-dog-whats-the-difference" target="_blank">
         Emotional Support Dog, Therapy Dog, Facility Dog, or Psychiatric Service Dog. What’s the difference?
         <p>It’s almost impossible to find any other creature as loving and comforting as a dog. Their ability to empathize and their natural desire to be close to us makes them remarkably predisposed to helping get through emotional... (read more)</p>
