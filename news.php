@@ -74,9 +74,14 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://thebark.com/content/disrupting-anxiety-most-vital-task-ptsd-service-dogs#:~:text=Research%20suggests%20that%20psychiatric%20service,veterans%20with%20PTSD%2C%20research%20finds" target="_blank">
+        Disrupting Anxiety: The Most Vital Task For PTSD Service Dogs
+        <p>It’s been found that disrupting episodes of anxiety ranks among the most important tasks a service dog can provide to veterans with PTSD... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.military.com/off-duty/veterans-german-shepherd-first-ever-service-dog-machu-picchu.html/amp" target="_blank">
         This Veteran's German Shepherd Is the First-Ever Service Dog at Machu Picchu
-        <p>For veterans traveling abroad, the use of service animals can be difficult. Where there’s a will, there are at least possibilities, as Air Force veteran Melanie Boling showed on a recent trip to Peru. Regulations for visiting Machu Picchu prohibited dogs, but Peruvian law allowed it.... (read more)</p>
+        <p>For veterans traveling abroad, the use of service animals can be difficult. Where there’s a will, there are at least possibilities, as Air Force veteran Melanie Boling showed on a recent trip to Peru. Regulations for visiting Machu Picchu prohibited dogs, but Peruvian law allowed it... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://medicalmutts.org/emotional-support-dog-therapy-dog-facility-dog-or-psychiatric-service-dog-whats-the-difference" target="_blank">
