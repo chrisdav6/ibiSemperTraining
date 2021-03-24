@@ -70,6 +70,24 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/blazePizza03312021.pdf" target="_blank">Blazing 4 PTSD Paws</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/blazePizza03312021.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Mar 31st from 5pm - 8pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohwak Commons 400 Balltown Rd</a></h5>
+                <p>Come and eat some delicious pizza at Blaze Pizza while supporting IBI. Blaze Pizza will donate 20% of proceeds from your meal back to our organization. </p>
+                <p>Use <a class='link text-dark' href='public/pdf/blazePizza12142020.pdf' target='_blank'>this flyer</a> at checkout to support Veterans & First Responders to train their dogs as PTSD Service Dogs, at no charge to the teams. Our fundraisers pays for their training and dog adoption fees. Thank you for your support!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/flyerIST.pdf" target="_blank">PTSD & Service Dog Awareness Ride</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
