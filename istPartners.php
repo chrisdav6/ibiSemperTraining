@@ -166,6 +166,32 @@
           </div>
         </div>
 
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/BrunswickHarley.jpg" alt="Brunswick Harley Davidson">
+            <div class="card-body">
+              <h6>Brunswick Harley Davidson</h6>
+              <hr>
+              <div class="links">
+                <a href="https://brunswickharley.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/BrunswickHarley" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/BrunswickBrew.jpg" alt="Brunswick Barbeque & Brew">
+            <div class="card-body">
+              <h6>Brunswick Barbeque & Brew</h6>
+              <hr>
+              <div class="links">
+                <a href="https://brunswickbbq.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/Brunswick-BBQ-and-Brew-450766911702358" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div><!-- /row -->
 
     </div>
