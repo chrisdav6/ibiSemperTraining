@@ -88,10 +88,10 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/flyerIST.pdf" target="_blank">PTSD & Service Dog Awareness Ride</a></h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/flyerRideIS.pdf" target="_blank">PTSD & Service Dog Awareness Ride</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/flyerIST.pdf" target="_blank">
+                <a href="public/pdf/flyerRideIS.pdf" target="_blank">
                   <img class="img-fluid" src="/public/img/flyerIST.jpg" alt="PTSD & Service Dog Awareness Ride">
                 </a>
               </div>
