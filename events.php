@@ -105,7 +105,7 @@
           </div>
         </div>
 
-      </div>
+      </div><!-- /row -->
 
       <h2>Outreach Events</h2>
 
@@ -113,24 +113,39 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/blazePizza03312021.pdf" target="_blank">Blazing 4 PTSD Paws</a></h4>
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">8th Annual Suicide Prevention Run</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/blazePizza03312021.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
+                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
+                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>Mar 31st from 5pm - 8pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohwak Commons 400 Balltown Rd</a></h5>
-                <p>Come and eat some delicious pizza at Blaze Pizza while supporting IBI. Blaze Pizza will donate 20% of proceeds from your meal back to our organization. </p>
-                <p>Use <a class='link text-dark' href='public/pdf/blazePizza12142020.pdf' target='_blank'>this flyer</a> at checkout to support Veterans & First Responders to train their dogs as PTSD Service Dogs, at no charge to the teams. Our fundraisers pays for their training and dog adoption fees. Thank you for your support!</p>
+                <h5>May 1st at 11:00am - <a class="link text-dark" href="https://goo.gl/maps/4LhSaEVLgKCkpMvd8" target="_blank">1263 Patten Mills Road, Fort Ann</a></h5>
+                <p>Please join this Suicide Prevention Motorcycle Run at Boar’s Nest Bar & Grill and say hi to the IST Vendor team. Support this worthy cause to prevent suicide in our Community.</p>
               </div>
             </div>
           </div>
         </div>
 
-      </div>
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/3863633077007487" target="_blank">Eat For Change</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/eatForChange2021.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/eatForChange.png" alt="Eat For Change">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 7th from 4pm - 8pm - <a class="link text-dark" href="https://goo.gl/maps/cDwqWmwYu5revAya8" target="_blank">441 Balltown Rd, Schenectady</a></h5>
+                <p>Eat for Change and show your Patriotism by supporting our local Veterans and First Responders and their PTSD Service Dogs! Our program for PTSD Service Dogs is completely free to the applicants and we operate solely on Fundraisers and Donations. Thank you!</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
+      </div><!-- /row -->
 
     </div>
   </div>
