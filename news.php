@@ -74,6 +74,11 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.timesunion.com/news/article/Art-program-aims-to-help-psychological-effects-of-16084975.php?fbclid=IwAR0W0512mDfI2-pjA32YIyAYJ0m_nctCWtBN41KdQwa8vJbS_AmZKxrPvLo" target="_blank">
+        Ibi Semper Training IN THE NEWS
+        <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you.</p>
+      </a>
+
       <a class="newsItem" href="https://thebark.com/content/disrupting-anxiety-most-vital-task-ptsd-service-dogs#:~:text=Research%20suggests%20that%20psychiatric%20service,veterans%20with%20PTSD%2C%20research%20finds" target="_blank">
         Disrupting Anxiety: The Most Vital Task For PTSD Service Dogs
         <p>It’s been found that disrupting episodes of anxiety ranks among the most important tasks a service dog can provide to veterans with PTSD... (read more)</p>
