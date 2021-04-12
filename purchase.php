@@ -71,6 +71,26 @@
       </div>
 
       <div class="purchase-group">
+        <h2 class="mb-4">IST T-Shirts - Limited Time Offer</h2>
+        <div class="info">
+          <p class="mb-1">High quality cotton t-shirts that show IST logo on front and message on back</p>
+          <p class="mt-0">Sale ends May 10th, get yours today! <i class="fas fa-arrow-right"></i> <a class="link text-dark" href="https://www.bonfire.com/ibi-semper-training/" target="_blank">Place Order</a>
+          <div id="tshirts" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/purchase/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="limitedShirtF.jpg" data-ngthumb="limitedShirtF.jpg" data-ngdesc="Ibi Semper Training Limited T-Shirt"></a>
+            <a href="limitedShirt.jpg" data-ngthumb="limitedShirt.jpg" data-ngdesc="Ibi Semper Training Limited T-Shirt"></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts</h2>
         <div class="info">
           <p>High quality cotton t-shirts that show IST logo on front</p>
