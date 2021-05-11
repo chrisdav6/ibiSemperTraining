@@ -43,11 +43,31 @@
         We would like to thank these organizations and persons for their continued support.
       </p>
 
-      <p>IST is very grateful to have such excellent partners to work with. If you are visiting our site, please know that we highly recommend these organizations to you.</p>
+      <p>IST is very grateful to have such excellent partners to work with. If you are visiting our site, please know that we highly recommend these organizations to you. <strong>Thank you for your continued support! The IST Teams</strong></p>
 
-      <p><strong>Thank you for your continued support! The IST Teams</strong></p>
+      <h3 class='mt-5 mb-4'>Main Training Facility</h3>
 
-      <div class="row mt-5">
+      <div class="row">
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/schenectadyArmory.jpg" alt="Schenectady Armory Center">
+            <div class="card-body">
+              <h6 class='mb-1'>Schenectady Armory Center</h6>
+              <p class='small'>125 Washington Ave, Schenectady</p>
+              <hr>
+              <div class="links">
+                <a href="http://www.SchenectadyArmoryCenter.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/SchenectadyArmoryCenter" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <h3 class='mt-5 mb-4'>Our Partners</h3>
+
+      <div class="row">
 
         <div class="col-6 col-md-4 col-lg-3">
           <div class="card">
