@@ -161,7 +161,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div> 
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -180,7 +180,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>-->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
