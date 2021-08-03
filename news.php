@@ -74,9 +74,14 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.facebook.com/watch/?v=1240990623012425&extid=NS-UNK-UNK-UNK-IOS_GK0T-GK1C" target="_blank">
+        Ibi Semper Training on Spectrum News 1!
+        <p>Highlighting the importance of service dogs. (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.timesunion.com/news/article/Art-program-aims-to-help-psychological-effects-of-16084975.php" target="_blank">
         Ibi Semper Training IN THE NEWS
-        <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you.</p>
+        <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you. (read more)</p>
       </a>
 
       <a class="newsItem" href="https://thebark.com/content/disrupting-anxiety-most-vital-task-ptsd-service-dogs#:~:text=Research%20suggests%20that%20psychiatric%20service,veterans%20with%20PTSD%2C%20research%20finds" target="_blank">
