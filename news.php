@@ -74,7 +74,7 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
-      <a class="newsItem" href="https://www.facebook.com/watch/?v=1240990623012425&extid=NS-UNK-UNK-UNK-IOS_GK0T-GK1C" target="_blank">
+      <a class="newsItem" href="https://fb.watch/79oP1Rghiu" target="_blank">
         Ibi Semper Training on Spectrum News 1!
         <p>Highlighting the importance of service dogs. (read more)</p>
       </a>
