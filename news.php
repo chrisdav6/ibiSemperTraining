@@ -66,12 +66,12 @@
 
   <div class="news-heading">
     <div class="container">
-      <h1>News</h1>
+      <h1>IST In the News</h1>
       <hr>
     </div>
   </div>
 
-  <div id="news" class="secondary-content mt-4 mb-5">
+  <div id="news" class="secondary-content mt-4 mb-2">
     <div class="container">
 
       <a class="newsItem" href="https://fb.watch/79oP1Rghiu" target="_blank">
@@ -83,6 +83,19 @@
         Ibi Semper Training IN THE NEWS
         <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you. (read more)</p>
       </a>
+
+    </div>
+  </div>
+
+  <div class="news-heading">
+    <div class="container">
+      <h1>News</h1>
+      <hr>
+    </div>
+  </div>
+
+  <div id="news" class="secondary-content mt-4 mb-5">
+    <div class="container">
 
       <a class="newsItem" href="https://thebark.com/content/disrupting-anxiety-most-vital-task-ptsd-service-dogs#:~:text=Research%20suggests%20that%20psychiatric%20service,veterans%20with%20PTSD%2C%20research%20finds" target="_blank">
         Disrupting Anxiety: The Most Vital Task For PTSD Service Dogs
@@ -109,7 +122,7 @@
         <p>When you think of a service dog, you might imagine a fluffy golden retriever, a sleek black lab, or perhaps a strong shepherd — but no matter what breed comes to mind, you probably picture them wearing a brightly colored vest... (read more)</p>
       </a>
 
-      <div id="largeNews" class="secondary-content mt-5 mb-5">
+      <!-- <div id="largeNews" class="secondary-content mt-5 mb-5">
         <div class="container">
           <div class="largeNewsItem">
             <h4>Traveling with Service Animals</h4>
@@ -117,7 +130,7 @@
             <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/LbZhruHJKdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <a class="newsItem" href="https://amp.cnn.com/cnn/2020/03/26/health/therapy-dog-er-doctor-trnd-wellness/index.html?fbclid=IwAR2YMEo_GSwFg5QWbIfZ3bT_7WkSkJiElFM7k7iduJeOWLvA7m3PvLYCyzY" target="_blank">
         A service dog in training brings comfort to ER doctors on the frontlines
