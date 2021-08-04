@@ -41,12 +41,12 @@
     <div class="container">
 
       <a class="newsItem" href="https://fb.watch/79oP1Rghiu" target="_blank">
-        <span>August 2021</span>Ibi Semper Training on Spectrum News 1!
+        <span>August 2, 2021</span>Ibi Semper Training on Spectrum News 1!
         <p>Highlighting the importance of service dogs. (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.timesunion.com/news/article/Art-program-aims-to-help-psychological-effects-of-16084975.php" target="_blank">
-        <span>April 2021</span>Ibi Semper Training IN THE NEWS
+        <span>April 7, 2021</span>Ibi Semper Training IN THE NEWS
         <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you. (read more)</p>
       </a>
 
