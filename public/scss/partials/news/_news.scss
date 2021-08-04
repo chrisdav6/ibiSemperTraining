@@ -35,6 +35,13 @@
   margin-bottom: 1em;
   transition: background-color 0.4s;
 
+  span {
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
+
   &:hover {
     background-color: red;
     text-decoration: none;
