@@ -40,9 +40,14 @@
   <div id="news" class="secondary-content mt-4 mb-2">
     <div class="container">
 
+      <a class="newsItem" href="https://www.youtube.com/watch?v=DGex0-C3Mww" target="_blank">
+        <span>August 4, 2021</span>Ibi Semper Training on Capital Region Today
+        <p>Interview with Ann Parillo about Ibi and PTSD Service Dog training</p>
+      </a>
+
       <a class="newsItem" href="https://fb.watch/79oP1Rghiu" target="_blank">
         <span>August 2, 2021</span>Ibi Semper Training on Spectrum News 1!
-        <p>Highlighting the importance of service dogs. (read more)</p>
+        <p>Highlighting the importance of service dogs.</p>
       </a>
 
       <a class="newsItem" href="https://www.timesunion.com/news/article/Your-Best-Shot-Service-Dogs-16343398.php" target="_blank">
