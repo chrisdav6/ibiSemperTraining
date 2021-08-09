@@ -108,7 +108,7 @@
     <div class="container">
 
       <a class="newsItem" href="https://www.tillis.senate.gov/2021/8/tillis-sinema-cramer-and-feinstein-s-bipartisan-paws-for-veterans-therapy-act-to-be-signed-into-law" target="_blank">
-        <span>August 6, 2021</span>Tillis, Sinema, Cramer, and Feinstein’s Bipartisan PAWS for Veterans Therapy Act To Be Signed Into Law (read more)<p>Today, the U.S. Senate unanimously passed the Puppies Assisting Wounded Servicemembers (PAWS) for Veterans Therapy Act, bipartisan legislation introduced by U.S. Senators Thom Tillis (R-NC), Kyrsten Sinema (D-AZ), Kevin Cramer (R-ND), and Dianne Feinstein (D-CA)... (read more)</p>
+        <span>August 6, 2021</span>Tillis, Sinema, Cramer, and Feinstein’s Bipartisan PAWS for Veterans Therapy Act To Be Signed Into Law<p>Today, the U.S. Senate unanimously passed the Puppies Assisting Wounded Servicemembers (PAWS) for Veterans Therapy Act, bipartisan legislation introduced by U.S. Senators Thom Tillis (R-NC), Kyrsten Sinema (D-AZ), Kevin Cramer (R-ND), and Dianne Feinstein (D-CA)... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://medicalmutts.org/emotional-support-dog-therapy-dog-facility-dog-or-psychiatric-service-dog-whats-the-difference" target="_blank">
