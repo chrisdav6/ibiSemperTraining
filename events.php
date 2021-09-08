@@ -54,7 +54,7 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>November 6th - <a class="link text-dark" href="https://goo.gl/maps/g4coCTWG8BSkRsAp7" target="_blank">Brunswick BBQ & Brew</a></h5>
+                <h5>November 6th - <a class="link text-dark" href="https://goo.gl/maps/g4coCTWG8BSkRsAp7" target="_blank">Brunswick BBQ & Brew - 3925 NY-2, Troy, NY</a></h5>
                 <p>PRE-REGISTRATION REQUIRED! Please join us for our 2nd annual Trivia Night at Brunswick BBQ & Brew in Troy! Build a team of 6 people, come up with a fun team name, register and enjoy suspense, laughter and teamwork during a fun night of Trivia questions. Enjoy a great meal and a cash bar. We will have a gift card Raffle and team prizes. Last year was a huge success and you want to make sure you reserve your spot this year! Proceeds from this event are used to adopt rescue dogs and training of PTSD Service Dogs. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Please Reserve My Spot for Trivia Night" target="_blank">sonya@ibisempertraining.org</a> to register or sponsor this event. More information and flyer to follow.
                 </p>
               </div>
