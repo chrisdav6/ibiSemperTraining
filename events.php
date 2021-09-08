@@ -140,7 +140,7 @@
           </div>
         </div> -->
 
-        <!--<div class="col-12 mb-5">
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">2nd Annual Cuts4Pups</a></h4>
             <div class="row">
@@ -150,13 +150,47 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <h5>October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
                 <p>Sons, Brothers, Fathers, Uncles, Dads and Grandads: Get a haircut and benefit PTSD Service Dogs and their Veteran and 1st Responder handlers. We operate solely on donations and Fundraisers! Your support is much appreciated!
                 </p>
               </div>
             </div>
           </div>
-        </div>-->
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">Patriotic Painted Jean Jacket Silent Auction</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
+                  <img class="img-fluid" src="/public/img/patrioticJacket.png" alt="Patriotic Jacket Auction">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Open Now Until October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <p>Here is a wonderfully painted jean jacket by a local Artist! Size XXL and brand new! The arms are turned back to show the whole painting. You can contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Patriotic Painted Jean Jacket Silent Auction" target="_blank">sonya@ibisempertraining.org</a> or stop at Tom's Barbershop for your entry to the Silent Auction! The winner will be revealed October 3rd at the Cuts4Pups event.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST Cookbook</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peak Here</a></h5>
+                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
 
       </div><!-- /row -->
 
@@ -217,7 +251,7 @@
           </div>
         </div>-->
 
-        <!--<div class="col-12 mb-5">
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://albany-saratogaspeedway.com/2021-friday-night-schedule" target="_blank">Military Night at the Saratoga Speedway</a></h4>
             <div class="row">
@@ -227,12 +261,15 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>September 10th - <a class="link text-dark" href="https://goo.gl/maps/cvgEYJpGewmbxHGm8" target="_blank">2671 U.S. 9, Ballston Spa, NY 12020</a></h5>
-                <p>We are a vendor at PetFest! Stop by and say Hi! 👋 Pet Fest, held in Glens Falls City Park, brings pets and their owners together to showcase the pets and animal sector of the Glens Falls Collaborative. This event was created to show just how pet-friendly Glens Falls can be!</p>
+                <h5>September 10th - <a class="link text-dark" href="https://goo.gl/maps/cvgEYJpGewmbxHGm8" target="_blank">Albany Saratoga Speedway - 2671 U.S. 9, Ballston Spa, NY 12020</a></h5>
+                <p>Please join us on Friday, September 10th at the Saratoga Speedway for Military, Law Enforcement, Fire & Rescue Night. We will be there as a Vendor, so please support your local heroes and say hi 👋 to us at our table!</p>
+                <a class='btn btn-primary btn-sm' href="/public/pdf/militaryNight2021Flyer.pdf" target="_blank">
+                  Download Flyer
+                </a>
               </div>
             </div>
           </div>
-        </div>-->
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -244,7 +281,7 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>November 30th - December 1st - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel</a></h5>
+                <h5>November 30th - December 1st - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
                 <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
               </div>
             </div>
