@@ -44,6 +44,24 @@
 
       <div class="row">
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://brunswickbbq.com" target="_blank">2nd Annual Trivia Night</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://brunswickbbq.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/triviaNight2021.png" alt="Trivia Night">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 6th - <a class="link text-dark" href="https://goo.gl/maps/g4coCTWG8BSkRsAp7" target="_blank">Brunswick BBQ & Brew</a></h5>
+                <p>PRE-REGISTRATION REQUIRED! Please join us for our 2nd annual Trivia Night at Brunswick BBQ & Brew in Troy! Build a team of 6 people, come up with a fun team name, register and enjoy suspense, laughter and teamwork during a fun night of Trivia questions. Enjoy a great meal and a cash bar. We will have a gift card Raffle and team prizes. Last year was a huge success and you want to make sure you reserve your spot this year! Proceeds from this event are used to adopt rescue dogs and training of PTSD Service Dogs. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Please Reserve My Spot for Trivia Night" target="_blank">sonya@ibisempertraining.org</a> to register or sponsor this event. More information and flyer to follow.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/blazePizza12142020.pdf" target="_blank">Cause a scene for a good cause</a></h4>
@@ -101,7 +119,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -120,9 +138,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!--<div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">2nd Annual Cuts4Pups</a></h4>
             <div class="row">
@@ -138,7 +156,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>-->
 
       </div><!-- /row -->
 
@@ -180,7 +198,7 @@
               </div>
             </div>
           </div>
-        </div>-->
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -194,6 +212,40 @@
               <div class="col-lg-9 col-md-8">
                 <h5>September 18th at 11:00am - <a class="link text-dark" href="https://goo.gl/maps/nAhak4UcgY5tS7JbA" target="_blank">Maple Street, Glens Falls, NY 12801</a></h5>
                 <p>We are a vendor at PetFest! Stop by and say Hi! 👋 Pet Fest, held in Glens Falls City Park, brings pets and their owners together to showcase the pets and animal sector of the Glens Falls Collaborative. This event was created to show just how pet-friendly Glens Falls can be!</p>
+              </div>
+            </div>
+          </div>
+        </div>-->
+
+        <!--<div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://albany-saratogaspeedway.com/2021-friday-night-schedule" target="_blank">Military Night at the Saratoga Speedway</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://albany-saratogaspeedway.com/2021-friday-night-schedule" target="_blank">
+                  <img class="img-fluid" src="/public/img/militaryNight2021.png" alt="Military Night 2021">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 10th - <a class="link text-dark" href="https://goo.gl/maps/cvgEYJpGewmbxHGm8" target="_blank">2671 U.S. 9, Ballston Spa, NY 12020</a></h5>
+                <p>We are a vendor at PetFest! Stop by and say Hi! 👋 Pet Fest, held in Glens Falls City Park, brings pets and their owners together to showcase the pets and animal sector of the Glens Falls Collaborative. This event was created to show just how pet-friendly Glens Falls can be!</p>
+              </div>
+            </div>
+          </div>
+        </div>-->
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.vetconny.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/vetcon.png" alt="VETCON 2021">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 30th - December 1st - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel</a></h5>
+                <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
               </div>
             </div>
           </div>
