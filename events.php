@@ -46,6 +46,61 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">2nd Annual Cuts4Pups</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
+                  <img class="img-fluid" src="/public/img/cutsPups.png" alt="Cuts Benefiting Pups">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <p>Sons, Brothers, Fathers, Uncles, Dads and Grandads: Get a haircut and benefit PTSD Service Dogs and their Veteran and 1st Responder handlers. We operate solely on donations and Fundraisers! Your support is much appreciated!
+                </p>
+                <a class='btn btn-primary btn-sm' href="/public/pdf/Cuts4Pups-flyer.pdf" target="_blank">
+                  Download Flyer
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">Patriotic Painted Jean Jacket Silent Auction</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
+                  <img class="img-fluid" src="/public/img/patrioticJacket.png" alt="Patriotic Jacket Auction">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Open Now Until October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <p>Here is a wonderfully painted jean jacket by a local Artist! Size XXL and brand new! The arms are turned back to show the whole painting. You can contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Patriotic Painted Jean Jacket Silent Auction" target="_blank">sonya@ibisempertraining.org</a> or stop at Tom's Barbershop for your entry to the Silent Auction! The winner will be revealed October 3rd at the Cuts4Pups event.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST Cookbook</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
+                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://brunswickbbq.com" target="_blank">2nd Annual Trivia Night</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -139,58 +194,6 @@
             </div>
           </div>
         </div> -->
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">2nd Annual Cuts4Pups</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
-                  <img class="img-fluid" src="/public/img/cutsPups.png" alt="Cuts Benefiting Pups">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
-                <p>Sons, Brothers, Fathers, Uncles, Dads and Grandads: Get a haircut and benefit PTSD Service Dogs and their Veteran and 1st Responder handlers. We operate solely on donations and Fundraisers! Your support is much appreciated!
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">Patriotic Painted Jean Jacket Silent Auction</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
-                  <img class="img-fluid" src="/public/img/patrioticJacket.png" alt="Patriotic Jacket Auction">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Open Now Until October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
-                <p>Here is a wonderfully painted jean jacket by a local Artist! Size XXL and brand new! The arms are turned back to show the whole painting. You can contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Patriotic Painted Jean Jacket Silent Auction" target="_blank">sonya@ibisempertraining.org</a> or stop at Tom's Barbershop for your entry to the Silent Auction! The winner will be revealed October 3rd at the Cuts4Pups event.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>IST Cookbook</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
 
       </div><!-- /row -->
 
