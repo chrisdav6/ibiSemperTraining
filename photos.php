@@ -41,6 +41,57 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">PTSD & Service Dog Awareness Ride</h2>
+        <p class="mb-4"><a class="link text-dark" href="https://brunswickharley.com" target="_blank">Brunswick Harley Davidson</a> in Troy was the starting point of our inaugural PTSD & Service Dog Awareness Ride. We thank the Brunswick Harley family and staff as well as all the Vendors, Riders and Brunswick BBQ & Brew for welcoming us and supporting our program and local Veterans & First Responders with PTSD! We look forward to an even bigger and better Ride in the Summer 2022! Stay safe.</p>
+        <p class='mb-4'><a class="link text-dark" href="https://www.spsphotography.com/Events/Other/IBI-Semper-Training-Rally" target="_blank">Sean Sullivan Photography</a></p>
+        <div id="tomsBarber" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/ptsdRide2021/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="0.jpg" data-ngthumb="0.jpg" data-ngdesc=""></a>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+          <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+          <a href="7.jpg" data-ngthumb="7.jpg" data-ngdesc=""></a>
+          <a href="8.jpg" data-ngthumb="8.jpg" data-ngdesc=""></a>
+          <a href="9.jpg" data-ngthumb="9.jpg" data-ngdesc=""></a>
+          <a href="10.jpg" data-ngthumb="10.jpg" data-ngdesc=""></a>
+          <a href="11.jpg" data-ngthumb="11.jpg" data-ngdesc=""></a>
+          <a href="12.jpg" data-ngthumb="12.jpg" data-ngdesc=""></a>
+          <a href="13.jpg" data-ngthumb="13.jpg" data-ngdesc=""></a>
+          <a href="14.jpg" data-ngthumb="14.jpg" data-ngdesc=""></a>
+          <a href="15.jpg" data-ngthumb="15.jpg" data-ngdesc=""></a>
+          <a href="16.jpg" data-ngthumb="16.jpg" data-ngdesc=""></a>
+          <a href="17.jpg" data-ngthumb="17.jpg" data-ngdesc=""></a>
+          <a href="18.jpg" data-ngthumb="18.jpg" data-ngdesc=""></a>
+          <a href="19.jpg" data-ngthumb="19.jpg" data-ngdesc=""></a>
+          <a href="20.jpg" data-ngthumb="20.jpg" data-ngdesc=""></a>
+          <a href="21.jpg" data-ngthumb="21.jpg" data-ngdesc=""></a>
+          <a href="22.jpg" data-ngthumb="22.jpg" data-ngdesc=""></a>
+          <a href="23.jpg" data-ngthumb="23.jpg" data-ngdesc=""></a>
+          <a href="24.jpg" data-ngthumb="24.jpg" data-ngdesc=""></a>
+          <a href="25.jpg" data-ngthumb="25.jpg" data-ngdesc=""></a>
+          <a href="26.jpg" data-ngthumb="26.jpg" data-ngdesc=""></a>
+          <a href="27.jpg" data-ngthumb="27.jpg" data-ngdesc=""></a>
+          <a href="28.jpg" data-ngthumb="28.jpg" data-ngdesc=""></a>
+          <a href="29.jpg" data-ngthumb="29.jpg" data-ngdesc=""></a>
+          <a href="30.jpg" data-ngthumb="30.jpg" data-ngdesc=""></a>
+          <a href="31.jpg" data-ngthumb="31.jpg" data-ngdesc=""></a>
+          <a href="32.jpg" data-ngthumb="32.jpg" data-ngdesc=""></a>
+          <a href="33.jpg" data-ngthumb="33.jpg" data-ngdesc=""></a>
+          <a href="34.jpg" data-ngthumb="34.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+      <div class="photo-group">
         <h2 class="mb-4">Cuts Benefiting Pups</h2>
         <p class="mb-4"><a class="link text-dark" href="https://www.facebook.com/tomsburnthills" target="_blank">Tom's Old Fashioned Barber Shop</a> was the site of IST’s fundraiser on the day of St. Francis Assisi – the Saint of the animals. In attendance was SPCA and DJ Jamminman Productions kept the music flowing. Thank you for the Gazette to feature the event on Monday.</p>
         <div id="tomsBarber" data-nanogallery2='{
