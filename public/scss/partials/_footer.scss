@@ -43,7 +43,15 @@ footer {
         &:hover {
           color: lighten(#7C00BC, 20%);
         }
+      }
 
+      &.youtube {
+        color: #FF0000;
+        transition: .2s;
+
+        &:hover {
+          color: lighten(#FF0000, 20%);
+        }
       }
     }
   }

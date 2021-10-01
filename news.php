@@ -40,6 +40,16 @@
   <div id="news" class="secondary-content mt-4 mb-2">
     <div class="container">
 
+      <div id="largeNews" class="secondary-content mb-5">
+        <div class="container">
+          <div class="largeNewsItem">
+            <h4>August 2021 - IST PTSD Service Dog Ride - Spectrum Interview</h4>
+            <p class="mb-4">Spectrum News Tamani Wooley, an Emmy-nominated television anchor, host, reporter, and producer interviews Sonya Ward with Ibi Semper Training and Stuart Ginsburg at the Brunswick Harley Davidson dealership and Gary Gosselin at the Brunswick BBQ & Brew, the two local businesses hosting the fundraiser event on August 28th, 2021 supporting our local Veterans & First Responders with PTSD and the adoption of rescue dogs.</p>
+            <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/aotUoAwOuGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+          </div>
+        </div>
+      </div>
+
       <a class="newsItem" href="https://www.youtube.com/watch?v=DGex0-C3Mww" target="_blank">
         <span>August 4, 2021</span>Ibi Semper Training on Capital Region Today
         <p>Interview with Ann Parillo about Ibi and PTSD Service Dog training</p>

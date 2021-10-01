@@ -10,6 +10,7 @@
         <p class='text-secondary mb-0 social flex-lg-row justify-content-center justify-content-lg-end'>Find us on:
           <a class="icon facebook" href="https://www.facebook.com/ibisempertraining1" target="_blank"><i class="fab fa-facebook-square"></i></a>
           <a class="icon instagram" href="https://www.instagram.com/ibi_semper_training" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a class="icon youtube" href="https://www.youtube.com/channel/UCUKKdV1YUf1md_kh1LJmXlQ/featured" target="_blank"><i class="fab fa-youtube"></i></a>
         </p>
       </div>
     </div>
