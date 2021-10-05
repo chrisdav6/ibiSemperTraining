@@ -42,7 +42,7 @@
 
       <div class="photo-group">
         <h2 class="mb-4">Channel 13 Interviews Ibi Semper Training Teams</h2>
-        <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them.</p>
+        <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them. <a class="link text-dark" href="https://youtu.be/BtOJ1HjGXzw" target="_blank">See the full interview here</a></p>
         <div id="channel13Interview2021" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/channel13Interview2021/",
           "thumbnailWidth": "200",
