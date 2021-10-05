@@ -43,6 +43,16 @@
       <div id="largeNews" class="secondary-content mb-5">
         <div class="container">
           <div class="largeNewsItem">
+            <h4>September 2021 - WYNT Channel 13 News Interviews IST Service Dog Teams </h4>
+            <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them.</p>
+            <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/BtOJ1HjGXzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="largeNews" class="secondary-content mb-5">
+        <div class="container">
+          <div class="largeNewsItem">
             <h4>August 2021 - IST PTSD Service Dog Ride - Spectrum Interview</h4>
             <p class="mb-4">Spectrum News Tamani Wooley, an Emmy-nominated television anchor, host, reporter, and producer interviews Sonya Ward with Ibi Semper Training and Stuart Ginsburg at the Brunswick Harley Davidson dealership and Gary Gosselin at the Brunswick BBQ & Brew, the two local businesses hosting the fundraiser event on August 28th, 2021 supporting our local Veterans & First Responders with PTSD and the adoption of rescue dogs.</p>
             <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/aotUoAwOuGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
