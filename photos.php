@@ -41,8 +41,28 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">Channel 13 Interviews Ibi Semper Training Teams</h2>
+        <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them.</p>
+        <div id="channel13Interview2021" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/channel13Interview2021/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+          <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+      <div class="photo-group">
         <h2 class="mb-4">IST Among Honorees at Saratoga Speedway</h2>
-        <p class="mb-4">Saratoga Speedway celebrates Military Night annually to honor the men and women defending our liberties and way of life. This year and due to the global pandemic, Military Night included every branch of the Military, First Responders, Fire Fighters, Law Enforcement and Gold Star Mothers! IST was honored and grateful to be among the honorees this year.”</p>
+        <p class="mb-4">Saratoga Speedway celebrates Military Night annually to honor the men and women defending our liberties and way of life. This year and due to the global pandemic, Military Night included every branch of the Military, First Responders, Fire Fighters, Law Enforcement and Gold Star Mothers! IST was honored and grateful to be among the honorees this year.</p>
         <div id="saratogaSpeedway2021" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/saratogaSpeedway2021/",
           "thumbnailWidth": "200",
