@@ -50,13 +50,12 @@
           </p>
         </div>
         <div class='mt-4'>
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
             <input type="hidden" name="cmd" value="_s-xclick" />
             <input type="hidden" name="hosted_button_id" value="RVMY4GVNUKVTE" />
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
             <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
           </form>
-
         </div>
       </div>
 
@@ -92,6 +91,30 @@
       </div>
 
       <div class="purchase-group">
+        <h2 class="mb-4 bonfire">Bonfire Merchandise</h2>
+        <div class="info">
+          <p class="mb-3">All proceeds directly benefit rescue dogs and Service Dog training. <i class="fas fa-arrow-right"></i> <a class="link text-dark" href="https://www.bonfire.com/store/ibi-semper-training/" target="_blank">Place Your Order Today!</a></p>
+
+          <div id="bonfire" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/bonfire/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+            <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+            <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+            <a href="4.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+            <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+            <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts - Limited Time Offer</h2>
         <div class="info">
           <p class="mb-1">High quality cotton t-shirts that show IST logo on front and message on back</p>
@@ -116,7 +139,7 @@
         <div class="info">
           <p>High quality cotton t-shirts that show IST logo on front</p>
         </div>
-        <div id="tshirts" data-nanogallery2='{
+        <div id="tshirts2" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/purchase/",
           "thumbnailWidth": "200",
           "thumbnailAlignment": "left",

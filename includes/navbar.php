@@ -24,6 +24,8 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="/volunteer.php">Volunteer</a>
               <a class="dropdown-item" href="/purchase.php">Purchase</a>
+              <a class="dropdown-item" href="https://www.bonfire.com/store/ibi-semper-training" target="_blank">Bonfire Merchandise</a>
+
               <!-- <a class="dropdown-item" href="/sponsor.php">Sponsor Opportunities</a> -->
             </div>
           </li>
