@@ -114,7 +114,7 @@
         </div>
       </div>
 
-      <div class="purchase-group">
+      <!-- <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts - Limited Time Offer</h2>
         <div class="info">
           <p class="mb-1">High quality cotton t-shirts that show IST logo on front and message on back</p>
@@ -132,7 +132,7 @@
             <a href="limitedShirt.jpg" data-ngthumb="limitedShirt.jpg" data-ngdesc="Ibi Semper Training Limited T-Shirt"></a>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts</h2>
