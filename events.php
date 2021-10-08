@@ -30,7 +30,7 @@
 
   <div class="secondary-heading">
     <div class="container">
-      <h1>Events</h1>
+      <h1>Fundraisers & Events</h1>
       <hr>
     </div>
   </div>
@@ -43,45 +43,6 @@
       <h2>Fundraisers</h2>
 
       <div class="row">
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">2nd Annual Cuts4Pups</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
-                  <img class="img-fluid" src="/public/img/cutsPups.png" alt="Cuts Benefiting Pups">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
-                <p>Sons, Brothers, Fathers, Uncles, Dads and Grandads: Get a haircut and benefit PTSD Service Dogs and their Veteran and 1st Responder handlers. We operate solely on donations and Fundraisers! Your support is much appreciated!
-                </p>
-                <a class='btn btn-primary btn-sm' href="/public/pdf/Cuts4Pups-flyer.pdf" target="_blank">
-                  Download Flyer
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">Patriotic Painted Jean Jacket Silent Auction</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
-                  <img class="img-fluid" src="/public/img/patrioticJacket.png" alt="Patriotic Jacket Auction">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Open Now Until October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
-                <p>Here is a wonderfully painted jean jacket by a local Artist! Size XXL and brand new! The arms are turned back to show the whole painting. You can contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Patriotic Painted Jean Jacket Silent Auction" target="_blank">sonya@ibisempertraining.org</a> or stop at Tom's Barbershop for your entry to the Silent Auction! The winner will be revealed October 3rd at the Cuts4Pups event.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -119,6 +80,45 @@
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">2nd Annual Cuts4Pups</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
+                  <img class="img-fluid" src="/public/img/cutsPups.png" alt="Cuts Benefiting Pups">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <p>Sons, Brothers, Fathers, Uncles, Dads and Grandads: Get a haircut and benefit PTSD Service Dogs and their Veteran and 1st Responder handlers. We operate solely on donations and Fundraisers! Your support is much appreciated!
+                </p>
+                <a class='btn btn-primary btn-sm' href="/public/pdf/Cuts4Pups-flyer.pdf" target="_blank">
+                  Download Flyer
+                </a>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+        <!-- <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'><a class="text-dark fund-link" href="https://www.facebook.com/tomsburnthills" target="_blank">Patriotic Painted Jean Jacket Silent Auction</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/tomsburnthills" target="_blank">
+                  <img class="img-fluid" src="/public/img/patrioticJacket.png" alt="Patriotic Jacket Auction">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Open Now Until October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
+                <p>Here is a wonderfully painted jean jacket by a local Artist! Size XXL and brand new! The arms are turned back to show the whole painting. You can contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Patriotic Painted Jean Jacket Silent Auction" target="_blank">sonya@ibisempertraining.org</a> or stop at Tom's Barbershop for your entry to the Silent Auction! The winner will be revealed October 3rd at the Cuts4Pups event.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+        <!-- <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/blazePizza12142020.pdf" target="_blank">Cause a scene for a good cause</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -139,9 +139,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/blazePizza03312021.pdf" target="_blank">Blazing 4 PTSD Paws</a></h4>
             <div class="row">
@@ -157,9 +157,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/3863633077007487" target="_blank">Eat For Change</a></h4>
             <div class="row">
@@ -174,9 +174,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/flyerRideIS.pdf" target="_blank">PTSD & Service Dog Awareness Ride</a></h4>
             <div class="row">
@@ -201,6 +201,23 @@
 
       <div class="row">
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.vetconny.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/vetcon.png" alt="VETCON 2021">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 30th - December 1st - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
+                <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">8th Annual Suicide Prevention Run</a></h4>
@@ -216,9 +233,9 @@
               </div>
             </div>
           </div>
-        </div> 
+        </div>  -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://albany-saratogaspeedway.com" target="_blank">Military Appreciation Night at the Albany-Saratoga Speedway</a></h4>
             <div class="row">
@@ -235,9 +252,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.visitlakegeorge.com/events/pet-fest" target="_blank">Pet Fest</a></h4>
             <div class="row">
@@ -252,9 +269,9 @@
               </div>
             </div>
           </div>
-        </div>-->
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://albany-saratogaspeedway.com/2021-friday-night-schedule" target="_blank">Military Night at the Saratoga Speedway</a></h4>
             <div class="row">
@@ -272,24 +289,7 @@
               </div>
             </div>
           </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.vetconny.com" target="_blank">
-                  <img class="img-fluid" src="/public/img/vetcon.png" alt="VETCON 2021">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>November 30th - December 1st - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
-                <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
-              </div>
-            </div>
-          </div>
-        </div>
+        </div> -->
 
       </div><!-- /row -->
 
