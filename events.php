@@ -62,16 +62,16 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://brunswickbbq.com" target="_blank">2nd Annual Trivia Night</a></h4>
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/3326128614296313?ref=newsfeed" target="_blank">2nd Annual Trivia Night</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://brunswickbbq.com" target="_blank">
-                  <img class="img-fluid" src="/public/img/triviaNight2021.png" alt="Trivia Night">
+                <a href="https://www.facebook.com/events/3326128614296313?ref=newsfeed" target="_blank">
+                  <img class="img-fluid" src="/public/img/triviaNight2021-2.png" alt="Trivia Night">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>November 6th - <a class="link text-dark" href="https://goo.gl/maps/g4coCTWG8BSkRsAp7" target="_blank">Brunswick BBQ & Brew - 3925 NY-2, Troy, NY</a></h5>
-                <p>PRE-REGISTRATION REQUIRED! Please join us for our 2nd annual Trivia Night at Brunswick BBQ & Brew in Troy! Build a team of 6 people, come up with a fun team name, register and enjoy suspense, laughter and teamwork during a fun night of Trivia questions. Enjoy a great meal and a cash bar. We will have a gift card Raffle and team prizes. Last year was a huge success and you want to make sure you reserve your spot this year! Proceeds from this event are used to adopt rescue dogs and training of PTSD Service Dogs. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Please Reserve My Spot for Trivia Night" target="_blank">sonya@ibisempertraining.org</a> to register or sponsor this event. More information and flyer to follow.
+                <p>PRE-REGISTRATION REQUIRED! Please join us for our 2nd annual Trivia Night at Brunswick BBQ & Brew in Troy! Build a team of 6 people, come up with a fun team name, register and enjoy suspense, laughter and teamwork during a fun night of Trivia questions. Enjoy a great meal and a cash bar. We will have a gift card Raffle and team prizes. Last year was a huge success and you want to make sure you reserve your spot this year! Proceeds from this event are used to adopt rescue dogs and training of PTSD Service Dogs. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Please Reserve My Spot for Trivia Night" target="_blank">sonya@ibisempertraining.org</a> to register or sponsor this event.
                 </p>
               </div>
             </div>
@@ -200,6 +200,23 @@
       <h2>Outreach Events</h2>
 
       <div class="row">
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/The2LadiesMarket" target="_blank">Fall Festival at The Two Ladies Market</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/The2LadiesMarket" target="_blank">
+                  <img class="img-fluid" src="/public/img/fallFestival2021.png" alt="Fall Festival 2021">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 16th from 10am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/ckLfYyX4e3MLD3Y38" target="_blank">The Greenville Drive-In - 10700 NY-32, Greenville, NY</a></h5>
+                <p>Please visit us at the last Vendor Market event for the Season! Over 30 vendors, Raffles, Fire Trucks, Face Painting, kid activities and the educational wildlife guy Mr. Laraway will be there. If you are hungry, visit enjoy great food from the Food Trucks. IST will be there as a vendor with at least one Service Dog team and we hope to meet and greet you.</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
