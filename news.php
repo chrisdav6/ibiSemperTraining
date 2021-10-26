@@ -127,6 +127,10 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001" target="_blank">
+        <span>August 25, 2021</span>Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law<p>Veterans could have greater access to therapy dogs and service dogs now, thanks to the passage of U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act.... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.tillis.senate.gov/2021/8/tillis-sinema-cramer-and-feinstein-s-bipartisan-paws-for-veterans-therapy-act-to-be-signed-into-law" target="_blank">
         <span>August 6, 2021</span>Tillis, Sinema, Cramer, and Feinstein’s Bipartisan PAWS for Veterans Therapy Act To Be Signed Into Law<p>Today, the U.S. Senate unanimously passed the Puppies Assisting Wounded Servicemembers (PAWS) for Veterans Therapy Act, bipartisan legislation introduced by U.S. Senators Thom Tillis (R-NC), Kyrsten Sinema (D-AZ), Kevin Cramer (R-ND), and Dianne Feinstein (D-CA)... (read more)</p>
       </a>
