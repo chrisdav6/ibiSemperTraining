@@ -173,7 +173,7 @@
           </div>
         </div>
 
-        <div class="col-6 col-md-4 col-lg-3">
+        <!-- <div class="col-6 col-md-4 col-lg-3">
           <div class="card">
             <img class="card-img-top" src="./public/img/HicksStrong.jpg" alt="Hicks Strong">
             <div class="card-body">
@@ -184,7 +184,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-6 col-md-4 col-lg-3">
           <div class="card">
@@ -214,6 +214,19 @@
 
         <div class="col-6 col-md-4 col-lg-3">
           <div class="card">
+            <img class="card-img-top" src="./public/img/yNotDogCookies.png" alt="Y-Not-Dog-Cookies">
+            <div class="card-body">
+              <h6>Y-Not-Dog-Cookies</h6>
+              <hr>
+              <div class="links">
+                <a href="https://ynotdogcookies.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/Y-Not-Dog-Cookies-105221345002458" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
             <img class="card-img-top" src="./public/img/NCM.jpg" alt="National CineMedia">
             <div class="card-body">
               <h6>National CineMedia</h6>
@@ -223,7 +236,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div><!-- /row -->
 

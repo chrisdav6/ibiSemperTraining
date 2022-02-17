@@ -60,7 +60,7 @@
           </div>
         </div>
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/3326128614296313?ref=newsfeed" target="_blank">2nd Annual Trivia Night</a></h4>
             <div class="row">
@@ -76,7 +76,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -201,7 +201,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/The2LadiesMarket" target="_blank">Fall Festival at The Two Ladies Market</a></h4>
             <div class="row">
@@ -213,6 +213,57 @@
               <div class="col-lg-9 col-md-8">
                 <h5>October 16th from 10am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/ckLfYyX4e3MLD3Y38" target="_blank">The Greenville Drive-In - 10700 NY-32, Greenville, NY</a></h5>
                 <p>Please visit us at the last Vendor Market event for the Season! Over 30 vendors, Raffles, Fire Trucks, Face Painting, kid activities and the educational wildlife guy Mr. Laraway will be there. If you are hungry, visit enjoy great food from the Food Trucks. IST will be there as a vendor with at least one Service Dog team and we hope to meet and greet you.</p>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">9th Annual Suicide Prevention Run</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
+                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 7th at 11:00am - <a class="link text-dark" href="https://goo.gl/maps/4LhSaEVLgKCkpMvd8" target="_blank">1263 Patten Mills Road, Fort Ann, NY</a></h5>
+                <p>Please join this Suicide Prevention Motorcycle Run at Boar’s Nest Bar & Grill and say hi to the IST Vendor team. Support this worthy cause to prevent suicide in our Community.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.operationadoptasoldier.org" target="_blank">Operation Adopt A Soldier</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.operationadoptasoldier.org" target="_blank">
+                  <img class="img-fluid" src="/public/img/adoptASoldier.png" alt="Adopt A Soldier">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 4th - <a class="link text-dark" href="https://g.page/OperationAdoptASoldier?share" target="_blank">4281 NY-50, Saratoga Springs, NY</a></h5>
+                <p>Operation Adopt A Soldier's main goal is to provide a sense of home to our soldiers and make them feel as comfortable as possible through care packages, gifts, letters, phone card, and more. Their motto is clear and simple "YOU WILL NEVER BE FORGOTTEN." Let's help out!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank">Woof Stock!</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofStock.png" alt="Woof Stock">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 4th - 5th - <a class="link text-dark" href="https://goo.gl/maps/HNDjin1JNsk15v1d6" target="_blank">6307 Rt 9, Chestertown, NY</a></h5>
+                <p>A weekend of peace, paws, and music! Put on your tie-dye t-shirts and travel back to 1969 with your dog at An Adirondack Woof Stock with entertainment, food, vendors and live music all day long - It'll be the best day of your dog's life!</p>
               </div>
             </div>
           </div>
@@ -228,29 +279,12 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>November 30th - December 1st - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
+                <h5>November 29th - 30th - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
                 <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
               </div>
             </div>
           </div>
         </div>
-
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">8th Annual Suicide Prevention Run</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
-                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>May 1st at 11:00am - <a class="link text-dark" href="https://goo.gl/maps/4LhSaEVLgKCkpMvd8" target="_blank">1263 Patten Mills Road, Fort Ann</a></h5>
-                <p>Please join this Suicide Prevention Motorcycle Run at Boar’s Nest Bar & Grill and say hi to the IST Vendor team. Support this worthy cause to prevent suicide in our Community.</p>
-              </div>
-            </div>
-          </div>
-        </div>  -->
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
