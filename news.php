@@ -40,7 +40,12 @@
   <div id="news" class="secondary-content mt-4 mb-2">
     <div class="container">
 
-      <div id="largeNews" class="secondary-content mb-5">
+      <a class="newsItem" href="https://www.silverpenproductions.com/wp-content/uploads/2022/03/NiskayunaNeighbors_Mar22_SonyaWard.pdf?fbclid=IwAR2IeljI2q9mWCA8EUnrLiu2b1KHirdcQxSDVv8-rG4Uq5FVndazaUsD61I" target="_blank">
+        <span>March 2022</span>March 2022 edition of Niskayuna News
+        <p>IST Founder Sonya Ward was featured in the March edition of Niskayuna Neighbors, a local magazine for Niskayuna residents</p>
+      </a>
+
+      <div id="largeNews" class="secondary-content mb-5 mt-5">
         <div class="container">
           <div class="largeNewsItem">
             <h4>September 2021 - WYNT Channel 13 News Interviews IST Service Dog Teams </h4>
