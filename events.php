@@ -62,6 +62,25 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class="link">Cause A Scene for a Good Cause</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>March 25th from 4:00pm - 8:00pm</h5>
+                <p>We have our first Restaurant fundraiser for 2022! Two locations – <a class="link text-dark" href="https://goo.gl/maps/TFgpk9S6EVn225Vu9" target="_blank">Clifton Park</a> and <a class="link text-dark" href="https://goo.gl/maps/mumJPvrnsbaY1Jhs7" target="_blank">Schenectady</a>. Share the flyer with your family and friends, which is now also able to be used for pickup, curbside and carry out orders.Please join us THIS FRIDAY and support our local Veterans and First Responders and shelter/rescue dogs. All proceeds go directly toward our program of training and rescuing shelter dogs.
+                </p>
+                <p class='mb-1'>
+                  <a class="btn btn-primary btn-sm" href="/public/pdf/blazePizza03252022Clifton.pdf" target="_blank">Clifton Park Flyer</a> <a class="btn btn-primary btn-sm" href="/public/pdf/blazePizza03252022Schen.pdf" target="_blank">Schenectady Flyer</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>PTSD AWARENESS RIDE</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -93,6 +112,30 @@
                 <h5>November 6th - <a class="link text-dark" href="https://goo.gl/maps/g4coCTWG8BSkRsAp7" target="_blank">Brunswick BBQ & Brew - 3925 NY-2, Troy, NY</a></h5>
                 <p>PRE-REGISTRATION REQUIRED! Please join us for our 2nd annual Trivia Night at Brunswick BBQ & Brew in Troy! Build a team of 6 people, come up with a fun team name, register and enjoy suspense, laughter and teamwork during a fun night of Trivia questions. Enjoy a great meal and a cash bar. We will have a gift card Raffle and team prizes. Last year was a huge success and you want to make sure you reserve your spot this year! Proceeds from this event are used to adopt rescue dogs and training of PTSD Service Dogs. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Please Reserve My Spot for Trivia Night" target="_blank">sonya@ibisempertraining.org</a> to register or sponsor this event.
                 </p>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+        <!-- <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/blazePizza12142020.pdf" target="_blank">Cause a scene for a good cause</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/blazePizza12142020.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>December 14th from 4:30pm - 7:30pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohwak Commons 400 Balltown Rd</a></h5>
+                <p>Come and eat some delicious pizza at Blaze Pizza while supporting IBI. Blaze Pizza will donate 20% of proceeds from your meal back to our organization. </p>
+                <p class='mb-1'>
+                  <strong>Two ways to support</strong>
+                </p>
+                <p>1. Bring in <a class='link text-dark' href='public/pdf/blazePizza12142020.pdf' target='_blank'>this flyer</a> or show it on your phone before paying.</p>
+                <p>2. Order Online - Orders must be placed on line via the Blaze Pizza App or blazepizza.com. Enter the code below into the 'Promo Code' field at checkout to have your transaction count toward the fund raiser. If entered
+                  correctly, you'll see a $.01 discount applied to your check which confirms that 20% of your transaction will be
+                  counted into the total donation. <strong>Promo Code: 1103A</strong></p>
               </div>
             </div>
           </div>
@@ -132,30 +175,6 @@
                 <h5>Open Now Until October 3rd - <a class="link text-dark" href="https://goo.gl/maps/JD1L93HtDMLojfH88" target="_blank">Tom's Barber Shop - 795 Saratoga Rd, Burnt Hills, NY</a></h5>
                 <p>Here is a wonderfully painted jean jacket by a local Artist! Size XXL and brand new! The arms are turned back to show the whole painting. You can contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=Patriotic Painted Jean Jacket Silent Auction" target="_blank">sonya@ibisempertraining.org</a> or stop at Tom's Barbershop for your entry to the Silent Auction! The winner will be revealed October 3rd at the Cuts4Pups event.
                 </p>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/blazePizza12142020.pdf" target="_blank">Cause a scene for a good cause</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/blazePizza12142020.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>December 14th from 4:30pm - 7:30pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohwak Commons 400 Balltown Rd</a></h5>
-                <p>Come and eat some delicious pizza at Blaze Pizza while supporting IBI. Blaze Pizza will donate 20% of proceeds from your meal back to our organization. </p>
-                <p class='mb-1'>
-                  <strong>Two ways to support</strong>
-                </p>
-                <p>1. Bring in <a class='link text-dark' href='public/pdf/blazePizza12142020.pdf' target='_blank'>this flyer</a> or show it on your phone before paying.</p>
-                <p>2. Order Online - Orders must be placed on line via the Blaze Pizza App or blazepizza.com. Enter the code below into the 'Promo Code' field at checkout to have your transaction count toward the fund raiser. If entered
-                  correctly, you'll see a $.01 discount applied to your check which confirms that 20% of your transaction will be
-                  counted into the total donation. <strong>Promo Code: 1103A</strong></p>
               </div>
             </div>
           </div>
