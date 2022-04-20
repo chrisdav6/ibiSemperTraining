@@ -46,41 +46,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>IST Cookbook</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class="link">Cause A Scene for a Good Cause</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>March 25th from 4:00pm - 8:00pm</h5>
-                <p>We have our first Restaurant fundraiser for 2022! Two locations – <a class="link text-dark" href="https://goo.gl/maps/TFgpk9S6EVn225Vu9" target="_blank">Clifton Park</a> and <a class="link text-dark" href="https://goo.gl/maps/mumJPvrnsbaY1Jhs7" target="_blank">Schenectady</a>. Share the flyer with your family and friends, which is now also able to be used for pickup, curbside and carry out orders.Please join us THIS FRIDAY and support our local Veterans and First Responders and shelter/rescue dogs. All proceeds go directly toward our program of training and rescuing shelter dogs.
-                </p>
-                <p class='mb-1'>
-                  <a class="btn btn-primary btn-sm" href="/public/pdf/blazePizza03252022Clifton.pdf" target="_blank">Clifton Park Flyer</a> <a class="btn btn-primary btn-sm" href="/public/pdf/blazePizza03252022Schen.pdf" target="_blank">Schenectady Flyer</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4 class='link'>PTSD AWARENESS RIDE</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -98,6 +63,41 @@
             </div>
           </div>
         </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST Cookbook</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
+                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class="link">Cause A Scene for a Good Cause</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/blaze.png" alt="Blaze Pizza">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>March 25th from 4:00pm - 8:00pm</h5>
+                <p>We have our first Restaurant fundraiser for 2022! Two locations – <a class="link text-dark" href="https://goo.gl/maps/TFgpk9S6EVn225Vu9" target="_blank">Clifton Park</a> and <a class="link text-dark" href="https://goo.gl/maps/mumJPvrnsbaY1Jhs7" target="_blank">Schenectady</a>. Share the flyer with your family and friends, which is now also able to be used for pickup, curbside and carry out orders.Please join us THIS FRIDAY and support our local Veterans and First Responders and shelter/rescue dogs. All proceeds go directly toward our program of training and rescuing shelter dogs.
+                </p>
+                <p class='mb-1'>
+                  <a class="btn btn-primary btn-sm" href="/public/pdf/blazePizza03252022Clifton.pdf" target="_blank">Clifton Park Flyer</a> <a class="btn btn-primary btn-sm" href="/public/pdf/blazePizza03252022Schen.pdf" target="_blank">Schenectady Flyer</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> -->
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
