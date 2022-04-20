@@ -46,6 +46,27 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">2nd Annual DYLAN EDER Memorial Ride</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/dylanEderMemorialRide2022.jpg" alt="DYLAN EDER Memorial Ride 2022">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-1'>June 25th at 9am Rain or Shine - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
+                <h5>11am KSU - 1pm - Ending at Valley Falls VFW</h5>
+                <p>Hosted by the IRON INFANTRY VMC/ First Platoon. Please join us at the 2nd annual DYLAN EDER Memorial Ride and enjoy good company, a great ride, Food, Music and Raffles.
+                  100% of proceeds will be donated in Dylan’s name to IST to train Veteran, FR and shelter dogs to become PTSD Service Dog teams. Dylan was an avid animal lover and honored Marine Veteran.
+                </p>
+                <p>For questions, please contact: <a class="link text-dark" href="mailto:edermemorialride@gmail.com?subject=DYLAN EDER Memorial Ride">edermemorialride@gmail.com</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2022.pdf" target="_blank">PTSD AWARENESS RIDE</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -54,8 +75,8 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>August 6th - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
-                <p>Please join us for our 2nd annual PTSD & Service Dog Awareness motorcycle ride starting at noon at Brunswick Harley Davidson, ending at Brunswick BBQ & Brew for lunch, vendors and entertainment. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.”</p>
+                <h5>August 6th at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
+                <p>Please join us for our 2nd annual PTSD & Service Dog Awareness motorcycle ride starting at noon at Brunswick Harley Davidson, ending at Brunswick BBQ & Brew for lunch, vendors and entertainment. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
                 <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
                   Register Here
                 </a>
