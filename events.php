@@ -57,7 +57,7 @@
                 <h5 class='mb-1'>June 25th at 9am Rain or Shine - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
                 <h5>11am KSU - 1pm - Ending at Valley Falls VFW</h5>
                 <p>Hosted by the IRON INFANTRY VMC/ First Platoon. Please join us at the 2nd annual DYLAN EDER Memorial Ride and enjoy good company, a great ride, Food, Music and Raffles.
-                  100% of proceeds will be donated in Dylan’s name to IST to train Veteran, FR and shelter dogs to become PTSD Service Dog teams. Dylan was an avid animal lover and honored Marine Veteran.
+                  100% of proceeds will be donated in Dylan’s name to IST to train Veterans, FR and shelter dogs to become PTSD Service Dog teams. Dylan was an avid animal lover and honored Marine Veteran.
                 </p>
                 <p>For questions, please contact: <a class="link text-dark" href="mailto:edermemorialride@gmail.com?subject=DYLAN EDER Memorial Ride">edermemorialride@gmail.com</a></p>
               </div>
