@@ -46,7 +46,17 @@
       <hr>
       <p>You can select Ibi Semper Training on <a class="amazonLink" href="/purchase.php">Amazon Smile</a> as your charity of choice!</p>
     </div>
+  </section>
 
+  <section id="silverSeal">
+    <div class="container">
+      <p class='silverImage'>
+        <a href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target="_blank">
+          <img src="https://widgets.guidestar.org/TransparencySeal/9882055" />
+        </a>
+      </p>
+      <p>We’re excited to share that our organization has earned a 2022 Silver Seal of Transparency with Candid! Now, you can support our work with trust and confidence by viewing our <a class="silverLink" href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target='_blank'>#NonprofitProfile</a></p>
+    </div>
   </section>
 
   <div class="home-sections">
