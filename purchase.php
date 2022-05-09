@@ -41,6 +41,17 @@
     <div class="container">
       <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Shoot us an <a href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Purchase" class="purchaseLink"><i class="far fa-envelope"></i> email</a> to purchase any items below. Thank you for your support!</p>
 
+      <div class="silver">
+        <h2 class="mb-4">Silver Seal of Transparency</h2>
+        <div class="silverBody">
+          <p>
+            <a href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/9882055" /></a>
+          </p>
+          <p class='silverText'>We’re excited to share that our organization has earned a 2022 Silver Seal of Transparency with Candid! Now, you can support our work with trust and confidence by viewing our #NonprofitProfile
+          </p>
+        </div>
+      </div>
+
       <div class="purchase-group">
         <h2 class="mb-4">Donate</h2>
         <div class="info">

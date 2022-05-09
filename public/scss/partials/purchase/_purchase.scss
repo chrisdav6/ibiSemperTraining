@@ -3,6 +3,27 @@
     margin-bottom: 3em;
   }
 
+  .silver {
+    margin-bottom: 4em;
+
+    h2 {
+      display: inline-block;
+      background: rgb(167, 167, 167);
+      color: #000;
+      padding: 0.5em 1em;
+    }
+
+    .silverBody {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .silverText {
+        margin-left: 1em;
+      }
+    }
+  }
+
   .amazon {
     margin-bottom: 4em;
 
