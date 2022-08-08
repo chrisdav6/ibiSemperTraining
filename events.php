@@ -44,7 +44,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">2nd Annual DYLAN EDER Memorial Ride</a></h4>
             <div class="row">
@@ -63,7 +63,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -259,7 +259,7 @@
           </div>
         </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">9th Annual Suicide Prevention Run</a></h4>
             <div class="row">
@@ -274,9 +274,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.operationadoptasoldier.org" target="_blank">Operation Adopt A Soldier</a></h4>
             <div class="row">
@@ -291,9 +291,9 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank">Woof Stock!</a></h4>
             <div class="row">
@@ -308,7 +308,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
