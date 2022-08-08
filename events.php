@@ -310,23 +310,6 @@
           </div>
         </div> -->
 
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.vetconny.com" target="_blank">
-                  <img class="img-fluid" src="/public/img/vetcon.png" alt="VETCON 2021">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>November 29th - 30th - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
-                <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://albany-saratogaspeedway.com" target="_blank">Military Appreciation Night at the Albany-Saratoga Speedway</a></h4>
@@ -382,6 +365,38 @@
             </div>
           </div>
         </div> -->
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Camp Captain Cares 2022</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/captainCaresCamp2022.png" alt="Camp Captain Cares 2022">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>August 10th - Clifton Park, NY</h5>
+                <p>We are going to Camp! Introducing IST’s Service Dog program to Middle Schoolers in summer camp and talk about volunteering, team work and Community.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.vetconny.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/vetcon.png" alt="VETCON 2021">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 29th - 30th - <a class="link text-dark" href="https://g.page/crowneplazaalbanydesmond?share" target="_blank">Desmond Hotel - 660 Albany Shaker Rd, Albany, NY</a></h5>
+                <p>VETCON is the premier annual conference dedicated to the education and professional growth of veterans through networking with entrepreneurs, state agencies, and industry leaders.</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
       </div><!-- /row -->
 
