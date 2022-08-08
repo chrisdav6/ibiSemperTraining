@@ -295,23 +295,6 @@
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank">Woof Stock!</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.visitlakegeorge.com/events/adirondack-woof-stock" target="_blank">
-                  <img class="img-fluid" src="/public/img/woofStock.png" alt="Woof Stock">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>June 4th - 5th - <a class="link text-dark" href="https://goo.gl/maps/HNDjin1JNsk15v1d6" target="_blank">6307 Rt 9, Chestertown, NY</a></h5>
-                <p>A weekend of peace, paws, and music! Put on your tie-dye t-shirts and travel back to 1969 with your dog at An Adirondack Woof Stock with entertainment, food, vendors and live music all day long - It'll be the best day of your dog's life!</p>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://albany-saratogaspeedway.com" target="_blank">Military Appreciation Night at the Albany-Saratoga Speedway</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -393,6 +376,24 @@
               <div class="col-lg-9 col-md-8">
                 <h5>September 17th - 10am to 3pm - <a class="link text-dark" href="https://goo.gl/maps/ceLGTRVfaUSubAcR9" target="_blank">Walker’s Farm, Home & Tack - Fort Ann, NY</a></h5>
                 <p>Rescue organizations will be on hand, plus pet trainers & vendors with pet related products.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">10th Annual Woof Stock!</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofStock2022.png" alt="Woof Stock 2022">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 24th - <a class="link text-dark" href="https://goo.gl/maps/3Go6KdsdX2gT61WX7" target="_blank">138 Concordia Club Rd, Gloversville, NY</a></h5>
+                <p>Peace, Love and Drool – benefiting the Fulton County Regional SPCA. Animal or pet themed preferred, but not limited to vendor event with live music by Cleen
+                  Street, Raffles and Billy Bing “The Magic Man”. Food and Beverages available for purchase.</p>
               </div>
             </div>
           </div>
