@@ -40,6 +40,16 @@
   <div id="news" class="secondary-content mt-4 mb-2">
     <div class="container">
 
+      <a class="newsItem" href="https://cbs6albany.com/news/local/annual-ride-benefits-ptsd-and-service-dog-awareness" target="_blank">
+        <span>August 2022</span>Annual ride benefits PTSD and service dog awareness
+        <p>The second annual PTSD & Service Dog Awareness motorcycle ride took place in Troy Saturday morning!</p>
+      </a>
+
+      <a class="newsItem" href="https://spectrumlocalnews.com/nys/capital-region/news/2022/08/07/ptsd-and-service-dog-awareness-ride-held-in-troy?cid=share_sms&fbclid=IwAR1fUJZndyMz9YHG7jQ85LENGv6WMpAgEcWQ6qxETHYATKi0dJhQCAK1DhE?cid=share_clip" target="_blank">
+        <span>August 2022</span>PTSD and service dog awareness ride held in Troy
+        <p>Ibi Semper Training, Inc. held their second-annual PTSD and awareness ride at the Brunswick Harley Davidson in Troy.</p>
+      </a>
+
       <a class="newsItem" href="https://www.silverpenproductions.com/wp-content/uploads/2022/03/NiskayunaNeighbors_Mar22_SonyaWard.pdf?fbclid=IwAR2IeljI2q9mWCA8EUnrLiu2b1KHirdcQxSDVv8-rG4Uq5FVndazaUsD61I" target="_blank">
         <span>March 2022</span>March 2022 edition of Niskayuna News
         <p>IST Founder Sonya Ward was featured in the March edition of Niskayuna Neighbors, a local magazine for Niskayuna residents</p>
