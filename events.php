@@ -401,6 +401,24 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org/events" target="_blank">Bark, Brew & Tattoo</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.barkbrewtattoo.org/events" target="_blank">
+                  <img class="img-fluid" src="/public/img/barkBrew2022.png" alt="Bark, Brew & Tattoo">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 25th - 12pm to 6pm - <a class="link text-dark" href="https://goo.gl/maps/fijx1hRVHMLQe65Y7" target="_blank">Saratoga Springs City Center</a></h5>
+                <p>This Community Charity Fundraising event is dedicated to ending the negative stigma attached to Bully breed dogs, such as American Pit Bull Terriers, Staffordshire Terriers, American Bulldogs and the like.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
