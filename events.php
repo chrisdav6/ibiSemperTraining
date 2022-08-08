@@ -383,6 +383,23 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.walkersfarmhomeandtack.com/event/pet-day-adoption-clinic" target="_blank">Pet Adoption Day</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.walkersfarmhomeandtack.com/event/pet-day-adoption-clinic" target="_blank">
+                  <img class="img-fluid" src="/public/img/petAdoptionDay2022.png" alt="Pet Adoption Day">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 17th - 10am to 3pm - <a class="link text-dark" href="https://goo.gl/maps/ceLGTRVfaUSubAcR9" target="_blank">Walker’s Farm, Home & Tack - Fort Ann, NY</a></h5>
+                <p>Rescue organizations will be on hand, plus pet trainers & vendors with pet related products.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.vetconny.com" target="_blank">VETCON</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
