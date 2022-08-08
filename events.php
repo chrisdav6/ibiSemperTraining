@@ -383,7 +383,7 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">10th Annual Woof Stock!</a></h4>
+            <h4><a class="text-dark fund-link" href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">10th Annual Woofstock!</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
                 <a href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">
