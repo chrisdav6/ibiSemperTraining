@@ -102,6 +102,32 @@
       </div>
 
       <div class="purchase-group">
+        <h2 class="mb-4">IST Cookbook</h2>
+        <div class="info">
+          <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
+          <p class="mb-3">Collection of recipes from our Service Dog teams, partners and friends, with team photos.<br />Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.</p>
+
+          <div class="pricing">
+            <p>$15 each</p>
+          </div>
+
+
+          <div id="cookbook" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/cookbook/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="purchase-group">
         <h2 class="mb-4 bonfire">Bonfire Merchandise</h2>
         <div class="info">
           <p class="mb-3">All proceeds directly benefit rescue dogs and Service Dog training. <i class="fas fa-arrow-right"></i> <a class="link text-dark" href="https://www.bonfire.com/store/ibi-semper-training/" target="_blank">Place Your Order Today!</a></p>
@@ -148,7 +174,7 @@
       <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts</h2>
         <div class="info">
-          <p>High quality cotton t-shirts that show IST logo on front</p>
+          <p>High quality 2022 PTSD Awareness Ride shirts</p>
         </div>
         <div id="tshirts2" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/purchase/",
@@ -159,8 +185,9 @@
           "thumbnailGutterWidth": 10,
           "thumbnailGutterHeight": 10
         }'>
-          <a href="tshirt1.jpg" data-ngthumb="tshirt1.jpg" data-ngdesc="Ibi Semper Training T-Shirt"></a>
-          <a href="tshirt2.jpg" data-ngthumb="tshirt2.jpg" data-ngdesc="Ibi Semper Training T-Shirt"></a>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
         </div>
         <div class="pricing">
           <p>$20 each for shirts size S through XL</p>
