@@ -46,7 +46,7 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">Annual Pig Roast hosted by Leathernecks MC Revolution Chapter</a></h4>
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">Annual Pig Roast - hosted by Leathernecks MC Revolution Chapter</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
                 <a href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">
@@ -56,6 +56,28 @@
               <div class="col-lg-9 col-md-8">
                 <h5>October 8th at 2pm - <a class="link text-dark" href="https://goo.gl/maps/GU1rcNwz9eWV4Qyz5" target="_blank">22 Hudson Falls Rd, Unit 42, South Glens Falls, NY </a></h5>
                 <p>Please join us and the Marines “Leathernecks MC – Revolution Chapter” for their annual Pig Roast event. The Leatherneck Revolution Chapter has and continues to support events such as the Eddie Ryan Benefit Run and Toys for Tots events.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.eventbrite.com/e/symposium-on-military-health-challenges-tickets-430280810487" target="_blank">Symposium on Military Health Challenges - hosted by the Ladies Ancient Order of Hibernians, Inc. </a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.eventbrite.com/e/symposium-on-military-health-challenges-tickets-430280810487" target="_blank">
+                  <img class="img-fluid" src="/public/img/militaryHealth.png" alt="Symposium on Military Health">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 16th at 1pm - 4pm - <a class="link text-dark" href="https://goo.gl/maps/pRCon2C3mqD3T7B77" target="_blank">Elks Lodge 300 Park Avenue Mechanicville, NY </a></h5>
+                <p>Speakers such as Vietnam Combat Veteran Mr. Walter Rockenstire and Mr. Andrew “Doc” Berry Ph.D., Psy. D., ABPP will speak about Military Health, and Mr.
+                  Martin Muller, photographer, will be displaying his collection of the Twin Towers and more. Community Representatives such as The Ladies Ancient Order of
+                  Hibernians; The Mechanicville-Stillwater Elks Lodge; Enlisted Association of the NY National Guard; American Foundation for Suicide Prevention; Patriot Hills NY,
+                  Inc and AMVETS Post 35; Ibi Semper Training, Inc; Arts4Vets and Capital Region Veterans Memorial will be attending. IST will present and discuss our program
+                  during the intermission.
                 </p>
               </div>
             </div>
