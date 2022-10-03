@@ -44,6 +44,40 @@
 
       <div class="row">
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">Annual Pig Roast hosted by Leathernecks MC Revolution Chapter</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">
+                  <img class="img-fluid" src="/public/img/leathernecksPigRoast.png" alt="Annual Pig Roast hosted by Leathernecks MC">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 8th at 2pm - <a class="link text-dark" href="https://goo.gl/maps/GU1rcNwz9eWV4Qyz5" target="_blank">22 Hudson Falls Rd, Unit 42, South Glens Falls, NY </a></h5>
+                <p>Please join us and the Marines “Leathernecks MC – Revolution Chapter” for their annual Pig Roast event. The Leatherneck Revolution Chapter has and continues to support events such as the Eddie Ryan Benefit Run and Toys for Tots events.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST Cookbook</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
+                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">2nd Annual DYLAN EDER Memorial Ride</a></h4>
@@ -84,22 +118,6 @@
             </div>
           </div>
         </div> -->
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>IST Cookbook</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/ISTCookbook.png" alt="IST Cookbook">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
