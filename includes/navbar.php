@@ -22,6 +22,7 @@
               Support
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="public/pdf/supportIbi.pdf" target="_blank">How to Support 🤗</a>
               <a class="dropdown-item" href="/volunteer.php">Volunteer</a>
               <a class="dropdown-item" href="/purchase.php">Purchase</a>
               <a class="dropdown-item" href="https://www.bonfire.com/store/ibi-semper-training" target="_blank">Bonfire Merchandise</a>
