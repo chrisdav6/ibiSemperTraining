@@ -40,7 +40,7 @@
 
       <div class="staffMember">
         <div class="staffImage">
-          <img class="img-fluid" src="./public/img/sonya2022.png" alt="Sonya Picture">
+          <img class="img-fluid" src="./public/img/sonya2022-2.png" alt="Sonya Picture">
         </div>
         <div class="staffContent">
           <h3>Sonya Ward</h3>
