@@ -142,6 +142,11 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.sciencedaily.com/releases/2022/12/221207142255.htm" target="_blank">
+        <span>December 7, 2022</span>Researchers reveal how trauma changes the brain<p>Researchers are learning more about how traumatic events may physically change our brains. Neurologists have revealed changes to a brain mechanism used for learning and survival may play a role.... (read more)</p>
+      </a>
+
+
       <a class="newsItem" href="https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001" target="_blank">
         <span>August 25, 2021</span>Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law<p>Veterans could have greater access to therapy dogs and service dogs now, thanks to the passage of U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act.... (read more)</p>
       </a>
