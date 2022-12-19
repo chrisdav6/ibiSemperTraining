@@ -144,9 +144,12 @@
             <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
             <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
             <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
-            <a href="4.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+            <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
             <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
             <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+            <a href="7.jpg" data-ngthumb="7.jpg" data-ngdesc=""></a>
+            <a href="8.jpg" data-ngthumb="8.jpg" data-ngdesc=""></a>
+            <a href="9.jpg" data-ngthumb="9.jpg" data-ngdesc=""></a>
           </div>
         </div>
       </div>
