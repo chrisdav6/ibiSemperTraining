@@ -279,6 +279,23 @@
 
       <div class="row">
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Suicide Awareness Ride</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
+                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 6th - KSU at 12pm - <a class="link text-dark" href="https://goo.gl/maps/4LhSaEVLgKCkpMvd8" target="_blank">1263 Patten Mills Road, Fort Ann, NY</a></h5>
+                <p>Crazytrain RC has invited us back for the 3rd year as a vendor at their Suicide Awareness Ride. We are grateful to attend and hope to see you there. If you ride, join in and support Suicide Awareness and Suicide Prevention.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">Annual Pig Roast - hosted by Leathernecks MC Revolution Chapter</a></h4>
@@ -331,23 +348,6 @@
               <div class="col-lg-9 col-md-8">
                 <h5>October 16th from 10am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/ckLfYyX4e3MLD3Y38" target="_blank">The Greenville Drive-In - 10700 NY-32, Greenville, NY</a></h5>
                 <p>Please visit us at the last Vendor Market event for the Season! Over 30 vendors, Raffles, Fire Trucks, Face Painting, kid activities and the educational wildlife guy Mr. Laraway will be there. If you are hungry, visit enjoy great food from the Food Trucks. IST will be there as a vendor with at least one Service Dog team and we hope to meet and greet you.</p>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">9th Annual Suicide Prevention Run</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
-                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>May 7th at 11:00am - <a class="link text-dark" href="https://goo.gl/maps/4LhSaEVLgKCkpMvd8" target="_blank">1263 Patten Mills Road, Fort Ann, NY</a></h5>
-                <p>Please join this Suicide Prevention Motorcycle Run at Boar’s Nest Bar & Grill and say hi to the IST Vendor team. Support this worthy cause to prevent suicide in our Community.</p>
               </div>
             </div>
           </div>
