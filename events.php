@@ -281,6 +281,22 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'>Triple E & B Expo</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+
+                <img class="img-fluid" src="/public/img/tripleEandB.png" alt="Triple E&B Expo">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 22nd from 9am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/225a2ncuLNWGNoh1A" target="_blank">Marriott Hotel, 189 Wolf Road, Albany</a></h5>
+                <p>Veterans, service members and their families are invited to this FREE Triple E & B Expo providing access to Employment, Entrepreneurship, Education and Benefits opportunities for veterans and service members by bringing together employers, veteran service organizations, academic institutions, and public/private entities. This event will feature informational sessions, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Suicide Awareness Ride</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -298,37 +314,18 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>Triple E & B Expo</h4>
+            <h4 class='link'>An Adirondack Woofstock!</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-
-                <img class="img-fluid" src="/public/img/tripleEandB.png" alt="Triple E&B Expo">
+                <img class="img-fluid" src="/public/img/woofStock2023.png" alt="Woof Stock 2023">
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>April 22nd from 9am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/225a2ncuLNWGNoh1A" target="_blank">Marriott Hotel, 189 Wolf Road, Albany</a></h5>
-                <p>Veterans, service members and their families are invited to this FREE Triple E & B Expo providing access to Employment, Entrepreneurship, Education and Benefits opportunities for veterans and service members by bringing together employers, veteran service organizations, academic institutions, and public/private entities. This event will feature informational sessions, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch!</p>
+                <h5>June 3rd - 4th - <a class="link text-dark" href="https://goo.gl/maps/81x9tzQKMCMvpXCj9" target="_blank">Chestertown, NY</a></h5>
+                <p>Get out your Tie-Dye and let’s travel back to 1969 at An Adirondack Woof Stock… “A Weekend of Peace, Paws & Music” It’ll be the best day of your dog’s life!</p>
               </div>
             </div>
           </div>
         </div>
-
-        <!-- <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">10th Annual Woofstock!</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://business.fultonmontgomeryny.org/events/details/10th-annual-woofstock-41200" target="_blank">
-                  <img class="img-fluid" src="/public/img/woofStock2022.png" alt="Woof Stock 2022">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>September 24th - <a class="link text-dark" href="https://goo.gl/maps/3Go6KdsdX2gT61WX7" target="_blank">138 Concordia Club Rd, Gloversville, NY</a></h5>
-                <p>Peace, Love and Drool – benefiting the Fulton County Regional SPCA. Animal or pet themed preferred, but not limited to vendor event with live music by Cleen
-                  Street, Raffles and Billy Bing “The Magic Man”. Food and Beverages available for purchase.</p>
-              </div>
-            </div>
-          </div>
-        </div> -->
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
