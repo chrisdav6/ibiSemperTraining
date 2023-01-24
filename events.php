@@ -78,6 +78,24 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/carsAndCanines.pdf" target="_blank">Inaugural Cars & Canines</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/carsAndCanines.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/carsAndCanines.png" alt="Cars And Canines">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 3rd - <a class="link text-dark" href="https://goo.gl/maps/bjwts8XLRoJMV8fDA" target="_blank">Colonie Block Co.</a></h5>
+                <p>Mark your calendar for this great family event! Cars, trophies, raffles, prizes, vendors and dogs! Feel free to share the flyer and information with your family, friends, co-workers or any car enthusiast you know. Fundraisers such as this fund our program and we hope to see you there.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">2nd Annual DYLAN EDER Memorial Ride</a></h4>
