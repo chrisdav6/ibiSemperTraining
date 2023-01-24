@@ -60,6 +60,24 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/ElijaFund.pdf" target="_blank">Memorial Fundraiser in honor of Sgt. Elijah Willette</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/ElijaFund.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/elijahFund.png" alt="Sgt. Willett’s Fund">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>February 18th at 1pm - <a class="link text-dark" href="https://goo.gl/maps/9emu7HicTGEBk7PS6" target="_blank">Mechanicville-Stillwater Elks Lodge</a></h5>
+                <p>Join us in honoring the 10th year anniversary of Sgt. Willett’s passing and celebrate his life with us. Silent Auction, Raffles, Bake Sale and more. All proceeds from this Memorial go directly to Ibi Semper to benefit the Service Dog program that matches applicants with rescue dogs for free. Support our heroes and support Veterans and rescue dogs. Please join us and celebrate life.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">2nd Annual DYLAN EDER Memorial Ride</a></h4>
@@ -242,7 +260,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">Annual Pig Roast - hosted by Leathernecks MC Revolution Chapter</a></h4>
             <div class="row">
@@ -282,7 +300,7 @@
           </div>
         </div>
 
-        <!-- <div class="col-12 mb-5">
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/The2LadiesMarket" target="_blank">Fall Festival at The Two Ladies Market</a></h4>
             <div class="row">
@@ -455,7 +473,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div> 
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -472,7 +490,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>-->
 
       </div><!-- /row -->
 
