@@ -550,6 +550,23 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://servicedogs4vets.org/conference" target="_blank">National Service Dog for Veterans Conference</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://servicedogs4vets.org/conference" target="_blank">
+                  <img class="img-fluid" src="/public/img/nationalServiceDogsConference.png" alt="National Service Dog for Veterans Conference">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>July 19th - 21st - <a class="link text-dark" href="https://goo.gl/maps/TCttUi8CpR6LCqEVA" target="_blank">Royal Sonesta, Washington DC</a></h5>
+                <p>The 2032 National Service Dog for Veterans Conference consists of two full days of conference formatting for administrative, veterans, mental health & dog training tracks and a half day roundtable training session. Tickets include breakfast for all three days & lunch for two days along with an opening night reception.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div><!-- /row -->
 
     </div>
