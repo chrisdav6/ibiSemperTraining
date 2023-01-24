@@ -529,6 +529,29 @@
 
       </div><!-- /row -->
 
+      <h2>Continuing Education</h2>
+
+      <div class="row">
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.healthydogexpo.com" target="_blank">Healthy Dog Expo</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.healthydogexpo.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/healthyDogExpo.png" alt="Healthy Dog Expo">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 20th - 21st - Sat 7am to 5pm - Sun 8am to 12pm - <a class="link text-dark" href="https://goo.gl/maps/225a2ncuLNWGNoh1A" target="_blank">Marriott Hotel, 189 Wolf Road, Albany</a></h5>
+                <p>A weekend dedicated to your naturally healthy dog. An outstanding event with world-class speakers on the cutting edge of holistic dog care…your dog will thank you for attending!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /row -->
+
     </div>
   </div>
 
