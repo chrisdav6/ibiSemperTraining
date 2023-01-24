@@ -88,7 +88,7 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>June 3rd from 12pm - 5pm<a class="link text-dark" href="https://goo.gl/maps/bjwts8XLRoJMV8fDA" target="_blank">Colonie Block Co.</a></h5>
+                <h5>June 3rd from 12pm - 5pm - <a class="link text-dark" href="https://goo.gl/maps/bjwts8XLRoJMV8fDA" target="_blank">Colonie Block Co.</a></h5>
                 <p>Mark your calendar for this great family event! Cars, trophies, raffles, prizes, vendors and dogs! Feel free to share the flyer and information with your family, friends, co-workers or any car enthusiast you know. Fundraisers such as this fund our program and we hope to see you there.
                 </p>
                 <p>$20/entry, Free to spectators</p>
