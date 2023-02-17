@@ -35,6 +35,9 @@
         <hr>
         <p class="intro">Engaging Veterans and First Responders with PTSD, improve lives and help dogs in need through
           PTSD Service Dog training and promoting awareness of PTSD</p>
+        <div class="donationContainer">
+          <a class="donation" href="https://www.paypal.com/donate/?hosted_button_id=F3Y33KXX3RCWL" target="_blank">Make a Donation Today!</a>
+        </div>
       </div>
 
     </div>
