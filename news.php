@@ -142,10 +142,17 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://mymodernmet.com/kaya-service-dog" target="_blank">
+        <span>February 16, 2023</span>Kaya the Service Dog Is Honored on Her Last Plane Ride Ever After Being on 250+ Flights<p>Many people wish their dogs could live forever; but, since this is an impossible dream, it makes it all the more important to honor the trusty canines in our lives. This is exactly what Marine Corps veteran Cole Lyle has done... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.sciencedaily.com/releases/2022/12/221207142255.htm" target="_blank">
         <span>December 7, 2022</span>Researchers reveal how trauma changes the brain<p>Researchers are learning more about how traumatic events may physically change our brains. Neurologists have revealed changes to a brain mechanism used for learning and survival may play a role.... (read more)</p>
       </a>
 
+      <a class="newsItem" href="https://mymodernmet.com/study-finds-that-dogs-can-detect-stress-levels/?fbclid=IwAR2jBObabShkC4VA3x2Lrnp8O0g-2KpHw-B_IIVJouZsGhClorQrHLwEyaI" target="_blank">
+        <span>September 30, 2022</span>Study Finds That Dogs Can Detect When We’re Stressed Out<p>Humans and dogs can form incredible bonds. Some people even believe that their canine companions can understand their emotions. Well, a new study suggests that this could be true... (read more)</p>
+      </a>
 
       <a class="newsItem" href="https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001" target="_blank">
         <span>August 25, 2021</span>Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law<p>Veterans could have greater access to therapy dogs and service dogs now, thanks to the passage of U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act.... (read more)</p>
