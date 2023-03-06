@@ -40,6 +40,11 @@
   <div id="news" class="secondary-content mt-4 mb-2">
     <div class="container">
 
+      <a class="newsItem" href="public/pdf/ISTTheExpressFeb2023.pdf" target="_blank">
+        <span>February 2023</span>Memorial Service Honors the Memory of Sgt. Elijah P. Willette
+        <p>Local veteran and hero was honored with a memorial service held at the Mechanicville Stillwater Elks.</p>
+      </a>
+
       <a class="newsItem" href="https://cbs6albany.com/news/local/annual-ride-benefits-ptsd-and-service-dog-awareness" target="_blank">
         <span>August 2022</span>Annual ride benefits PTSD and service dog awareness
         <p>The second annual PTSD & Service Dog Awareness motorcycle ride took place in Troy Saturday morning!</p>
