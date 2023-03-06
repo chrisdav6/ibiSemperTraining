@@ -159,6 +159,10 @@
         <span>September 30, 2022</span>Study Finds That Dogs Can Detect When We’re Stressed Out<p>Humans and dogs can form incredible bonds. Some people even believe that their canine companions can understand their emotions. Well, a new study suggests that this could be true... (read more)</p>
       </a>
 
+      <a class="newsItem" href="https://www.militarytimes.com/veterans/2022/09/17/veterans-suicide-rate-may-be-double-federal-estimates-study-suggests/" target="_blank">
+        <span>September 17, 2022</span>Veterans suicide rate may be double federal estimates, study suggests<p>The rate of suicide among veterans may be more than double what federal officials report annually because of undercounting related to drug overdose deaths and service record errors, according to an analysis released September 2022... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.livingstondaily.com/story/news/local/community/livingston-county/2021/08/25/paws-veterans-therapy-act-slotkin-biden-law/5592741001" target="_blank">
         <span>August 25, 2021</span>Biden signs U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act into law<p>Veterans could have greater access to therapy dogs and service dogs now, thanks to the passage of U.S. Rep. Elissa Slotkin's PAWS for Veterans Therapy Act.... (read more)</p>
       </a>
