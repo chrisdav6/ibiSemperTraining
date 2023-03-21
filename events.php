@@ -74,6 +74,9 @@
                 <p>Mark your calendar for this great family event! Cars, trophies, raffles, prizes, vendors and dogs! Feel free to share the flyer and information with your family, friends, co-workers or any car enthusiast you know. Fundraisers such as this fund our program and we hope to see you there.
                 </p>
                 <p>$20/entry, Free to spectators</p>
+                <a class='btn btn-primary btn-sm' href="https://forms.gle/NPC5YFrcGqrWPDY29" target="_blank">
+                  Register Here
+                </a>
               </div>
             </div>
           </div>
