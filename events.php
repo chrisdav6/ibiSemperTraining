@@ -84,10 +84,12 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class="link">PTSD AWARENESS RIDE</h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2023.pdf" target="_blank">PTSD AWARENESS RIDE</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/PTSDRIDE2023.png" alt="PTSD & Service Dog Awareness Ride 2023">
+                <a class="text-dark fund-link" href="public/pdf/PTSDRIDE2023.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/PTSDRIDE2023.png" alt="PTSD & Service Dog Awareness Ride 2023">
+                </a>
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>August 5th KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
