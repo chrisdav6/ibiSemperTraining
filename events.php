@@ -84,6 +84,33 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2023.pdf" target="_blank">3rd Annual DYLAN EDER Memorial Ride</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/dylanEderMemorialRide2023.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/dylanEderMemorialRide2023.jpg" alt="DYLAN EDER Memorial Ride 2023">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-1'>June 3rd at 9am - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
+                <h5>11am KSU - 12pm - <a class="link text-dark" href="https://goo.gl/maps/MLEAmvTssfHcGB3f8" target="_blank">Ending at Dinosaur BBQ</a></h5>
+                <p>Tribute by Jenelle: <a class="link text-dark" href="https://www.facebook.com/dylan.eder.9" target="_blank">Dylan Eder</a> passed on June 1st 2019. A day he had plans for, a day the weather was ideal for being outside, on the bike. As these years wage on without him, It feels few and far between that people talk about him, or remember him, making the weight of the loss heavier and heavier. I never want to stop talking about him, to remember him, because he is worth remembering.
+                </p>
+
+                <p>The goal of this memorial ride is to spend the day doing something Dylan would love. Doing it to remember him and honor him and to eat a lot of BBQ. If You are a rider please join us and bring your friends! whether you had the chance to meet Dylan or not, chances are you’ve heard a story about him or have felt the impact of his life in some way.</p>
+
+                <p>We again have chosen to donate this year’s contributions to the Ibi Semper Training organization. Ibi Semper brings our Veteran brothers and sisters together and pairs them with service dogs, to train, to love, and to protect as they navigate living in a world with PTSD and other mental health needs post military service. Dylan was a proud Marine and an avid animal lover, making this local charity one we think he would be proud to support. <a class="link text-dark" href="https://gofund.me/145e8d04" target="_blank">Please consider donating!</a>
+                </p>
+
+                <p>Please don’t hesitate to reach out to me with any questions.</p>
+                <!-- <p>For questions, please contact: <a class="link text-dark" href="mailto:edermemorialride@gmail.com?subject=DYLAN EDER Memorial Ride">edermemorialride@gmail.com</a></p> -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2023.pdf" target="_blank">PTSD AWARENESS RIDE</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -116,27 +143,6 @@
                 <h5>February 18th at 1pm - <a class="link text-dark" href="https://goo.gl/maps/9emu7HicTGEBk7PS6" target="_blank">Mechanicville-Stillwater Elks Lodge</a></h5>
                 <p>Join us in honoring the 10th year anniversary of Sgt. Willett’s passing and celebrate his life with us. Silent Auction, Raffles, Bake Sale and more. All proceeds from this Memorial go directly to Ibi Semper to benefit the Service Dog program that matches applicants with rescue dogs for free. Support our heroes and support Veterans and rescue dogs. Please join us and celebrate life.
                 </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">2nd Annual DYLAN EDER Memorial Ride</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/dylanEderMemorialRide2022.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/dylanEderMemorialRide2022.jpg" alt="DYLAN EDER Memorial Ride 2022">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5 class='mb-1'>June 25th at 9am Rain or Shine - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
-                <h5>11am KSU - 1pm - Ending at Valley Falls VFW</h5>
-                <p>Hosted by the IRON INFANTRY VMC/ First Platoon. Please join us at the 2nd annual DYLAN EDER Memorial Ride and enjoy good company, a great ride, Food, Music and Raffles.
-                  100% of proceeds will be donated in Dylan’s name to IST to train Veterans, FR and shelter dogs to become PTSD Service Dog teams. Dylan was an avid animal lover and honored Marine Veteran.
-                </p>
-                <p>For questions, please contact: <a class="link text-dark" href="mailto:edermemorialride@gmail.com?subject=DYLAN EDER Memorial Ride">edermemorialride@gmail.com</a></p>
               </div>
             </div>
           </div>
