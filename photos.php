@@ -41,6 +41,29 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">CONGRATULATIONS to Veteran Brett</h2>
+        <p class="mb-4">CONGRATULATIONS to Veteran Brett and now - Service Dog Axel - for passing our last test - the Public Access test - with flying colors! A solid team and Axel came to Brett via the Fulton County Regional SPCA - NY. We thank them for their continued support! Look at them now! Thanks also to Kathy S. who tested Brett and Axel. We appreciate your support!</p>
+
+        <div id="brett" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/brett/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+          <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+          <a href="7.jpg" data-ngthumb="7.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+      <div class="photo-group">
         <h2 class="mb-4">Channel 13 Interviews Ibi Semper Training Teams</h2>
         <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them. <a class="link text-dark" href="https://youtu.be/BtOJ1HjGXzw" target="_blank">See the full interview here</a></p>
         <div id="channel13Interview2021" data-nanogallery2='{
