@@ -38,8 +38,33 @@
   </div>
 
   <div id="news" class="secondary-content mt-4 mb-2">
-    <div class="container">
 
+    <div id="largeNews sonya" class="mt-2 mb-5">
+      <div class="container">
+        <div class="largeNewsItem">
+          <h4>September 2023 - Hudson Valley Veterans Resource and Outreach Center </h4>
+          <p>Thank you! Much appreciation to the Hudson Valley Veterans Resource and Outreach Center for recognizing me at a recent football game and presenting me with this wonderful Military Appreciation Award! I’m humbled and honored! Thank you 🙏</p>
+
+          <div class="mt-4">
+            <div id="sonya" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/outreachFootball/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+              <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+              <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+              <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
       <a class="newsItem" href="public/pdf/ISTTheExpressFeb2023.pdf" target="_blank">
         <span>February 2023</span>Memorial Service Honors the Memory of Sgt. Elijah P. Willette
         <p>Local veteran and hero was honored with a memorial service held at the Mechanicville Stillwater Elks.</p>
