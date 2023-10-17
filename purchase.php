@@ -41,6 +41,30 @@
     <div class="container">
       <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Shoot us an <a href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Purchase" class="purchaseLink"><i class="far fa-envelope"></i> email</a> to purchase any items below. Thank you for your support!</p>
 
+      <div class="purchase-group">
+        <h2 class="mb-4">Our 2024 CALENDARS ARE HERE!</h2>
+        <div class="info">
+          <h5 class='mb-4'>Early Christmas 🎄 shopping!</h5>
+          <p class="mb-3">Every month you will have a different dog that either has completed, is currently going or has been adopted through our program! We have included fun facts every month. This is a one-of-a-kind gift! $20 each and we accept cash/check/credit cards/Venmo/PayPal. Please contact Sonya at <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Calendar, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> for orders. And dont forget to add your contact/mailing address, please. Thank you!!</p>
+
+          <div id="calendar" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/calendar/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+            <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+            <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+            <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+            <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          </div>
+        </div>
+      </div>
+
       <div class="silver">
         <h2 class="mb-4">Silver Seal of Transparency</h2>
         <div class="silverBody">
