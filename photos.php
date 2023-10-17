@@ -41,6 +41,35 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">IBI Semper - Dutch Apple River Cruise</h2>
+        <p class="mb-4">Sometimes we need to just make time to relax. Ibi Semper volunteers and teams went on a river cruise with Dutch Apple River Cruises. It was so nice to see everyone, to get together and not discuss business, to play a “survival” game and enjoy each other’s company. To just “be”! Thank you for sharing your photos and the comedic argument if “medicinal chocolate” or a sextant should have been the #1 survival item on the Coast Guard list.</p>
+
+        <div id="cruise2023" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/cruise2023/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+          <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+          <a href="7.jpg" data-ngthumb="7.jpg" data-ngdesc=""></a>
+          <a href="8.jpg" data-ngthumb="8.jpg" data-ngdesc=""></a>
+          <a href="9.jpg" data-ngthumb="9.jpg" data-ngdesc=""></a>
+          <a href="10.jpg" data-ngthumb="10.jpg" data-ngdesc=""></a>
+          <a href="11.jpg" data-ngthumb="11.jpg" data-ngdesc=""></a>
+          <a href="12.jpg" data-ngthumb="12.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+
+      <div class="photo-group">
         <h2 class="mb-4">CONGRATULATIONS to Veteran Brett</h2>
         <p class="mb-4">CONGRATULATIONS to Veteran Brett and now - Service Dog Axel - for passing our last test - the Public Access test - with flying colors! A solid team and Axel came to Brett via the Fulton County Regional SPCA - NY. We thank them for their continued support! Look at them now! Thanks also to Kathy S. who tested Brett and Axel. We appreciate your support!</p>
 
