@@ -47,7 +47,7 @@
     <div class="container">
       <p>IST has been approved and is now a registered 501c3 tax exempt organization!</p>
       <hr>
-      <p>You can select Ibi Semper Training on <a class="amazonLink" href="/purchase.php">Amazon Smile</a> as your charity of choice!</p>
+      <p>You can support Ibi Semper Training by clicking <a class="amazonLink" href="https://a.co/3p1Kvby" target="_blank">here</a> to purchase training tools directly from Amazon wishlist. The products will be shipped directly to Ibi Semper Training to be used during the 8 months Service Dog training program. <strong>We thank you for your support!</strong></p>
     </div>
   </section>
 
