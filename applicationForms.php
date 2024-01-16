@@ -1,7 +1,7 @@
 <?php
   $title = "IBI Semper Training - Application Forms";
-  $metaDesc = "Engage Veterans and First Responders with PTSD, improve lives and help dogs in need through PTSD Service
-  Dog training and promoting awareness of PTSD";
+  $metaDesc = "Engage Veterans and First Responders with PTS, improve lives and help dogs in need through PTS Service
+  Dog training and promoting awareness of PTS";
 ?>
 
 <!DOCTYPE html>
@@ -30,7 +30,7 @@
 
   <div class="secondary-heading">
     <div class="container">
-      <h1>PTSD Application Forms</h1>
+      <h1>PTS Application Forms</h1>
       <hr>
     </div>
   </div>
@@ -41,7 +41,7 @@
 
         <div class="col-md-6">
           <div class="form-item">
-            <h4>IST PTSD Service Dog Application</h4>
+            <h4>IST PTS Service Dog Application</h4>
             <a href="ptsdApplicationForm.php" class="download-form mr-3"><i class="fas fa-paper-plane"></i> Submit Form Online</a>
             <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
           </div>
