@@ -288,22 +288,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>Triple E & B Expo</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-
-                <img class="img-fluid" src="/public/img/tripleEandB.png" alt="Triple E&B Expo">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 22nd from 9am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/225a2ncuLNWGNoh1A" target="_blank">Marriott Hotel, 189 Wolf Road, Albany</a></h5>
-                <p>Veterans, service members and their families are invited to this FREE Triple E & B Expo providing access to Employment, Entrepreneurship, Education and Benefits opportunities for veterans and service members by bringing together employers, veteran service organizations, academic institutions, and public/private entities. This event will feature informational sessions, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch!</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Suicide Awareness Ride</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -334,7 +318,24 @@
           </div>
         </div>
 
-        <!-- <div class="col-12 mb-5">
+        <!-- 
+          <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Triple E & B Expo</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+
+                <img class="img-fluid" src="/public/img/tripleEandB.png" alt="Triple E&B Expo">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 22nd from 9am - 3pm - <a class="link text-dark" href="https://goo.gl/maps/225a2ncuLNWGNoh1A" target="_blank">Marriott Hotel, 189 Wolf Road, Albany</a></h5>
+                <p>Veterans, service members and their families are invited to this FREE Triple E & B Expo providing access to Employment, Entrepreneurship, Education and Benefits opportunities for veterans and service members by bringing together employers, veteran service organizations, academic institutions, and public/private entities. This event will feature informational sessions, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/1450701378758662?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D" target="_blank">Annual Pig Roast - hosted by Leathernecks MC Revolution Chapter</a></h4>
             <div class="row">
