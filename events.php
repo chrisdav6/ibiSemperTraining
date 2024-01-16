@@ -62,27 +62,24 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/carsAndCanines.pdf" target="_blank">Inaugural Cars & Canines</a></h4>
+            <h4 class='link'>PTS AWARENESS RIDE</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/carsAndCanines.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/carsAndCanines.png" alt="Cars And Canines">
-                </a>
+                <img class="img-fluid" src="/public/img/PTSDRIDE2024.png" alt="PTS & Service Dog Awareness Ride 2024">
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>June 3rd from 12pm - 5pm - <a class="link text-dark" href="https://goo.gl/maps/RQSTFUnfYFnP9oWu6" target="_blank">Eddie F's - 1742 US-9, Clifton Park</a></h5>
-                <p>Mark your calendar for this great family event! Cars, trophies, raffles, prizes, vendors and dogs! Feel free to share the flyer and information with your family, friends, co-workers or any car enthusiast you know. Fundraisers such as this fund our program and we hope to see you there.
-                </p>
-                <p>$20/entry, Free to spectators</p>
-                <a class='btn btn-primary btn-sm' href="https://forms.gle/NPC5YFrcGqrWPDY29" target="_blank">
+                <h5>August 3rd KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
+                <p>Please join us for our 4th annual PTS & Service Dog Awareness motorcycle ride at Brunswick Harley Davidson. You will be able to enjoy vendors, entertainment and we will have lunch and raffles at our end destination. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
+                <!-- <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
                   Register Here
-                </a>
+                </a> -->
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-12 mb-5">
+        <!-- 
+          <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2023.pdf" target="_blank">3rd Annual DYLAN EDER Memorial Ride</a></h4>
             <div class="row">
@@ -103,33 +100,33 @@
                 </p>
 
                 <p>Please don’t hesitate to reach out to me with any questions.</p>
-                <!-- <p>For questions, please contact: <a class="link text-dark" href="mailto:edermemorialride@gmail.com?subject=DYLAN EDER Memorial Ride">edermemorialride@gmail.com</a></p> -->
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-12 mb-5">
+          <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2023.pdf" target="_blank">PTSD AWARENESS RIDE</a></h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/carsAndCanines.pdf" target="_blank">Inaugural Cars & Canines</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a class="text-dark fund-link" href="public/pdf/PTSDRIDE2023.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/PTSDRIDE2023.png" alt="PTSD & Service Dog Awareness Ride 2023">
+                <a href="public/pdf/carsAndCanines.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/carsAndCanines.png" alt="Cars And Canines">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>August 5th KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
-                <p>Please join us for our 3rd annual PTSD & Service Dog Awareness motorcycle ride starting at noon at Brunswick Harley Davidson, ending at Nanola Restaurant for lunch, vendors and entertainment. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
-                <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
+                <h5>June 3rd from 12pm - 5pm - <a class="link text-dark" href="https://goo.gl/maps/RQSTFUnfYFnP9oWu6" target="_blank">Eddie F's - 1742 US-9, Clifton Park</a></h5>
+                <p>Mark your calendar for this great family event! Cars, trophies, raffles, prizes, vendors and dogs! Feel free to share the flyer and information with your family, friends, co-workers or any car enthusiast you know. Fundraisers such as this fund our program and we hope to see you there.
+                </p>
+                <p>$20/entry, Free to spectators</p>
+                <a class='btn btn-primary btn-sm' href="https://forms.gle/NPC5YFrcGqrWPDY29" target="_blank">
                   Register Here
                 </a>
               </div>
             </div>
           </div>
         </div>
-
-        <!-- 
+        
           <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/ElijaFund.pdf" target="_blank">Memorial Fundraiser in honor of Sgt. Elijah Willette</a></h4>
