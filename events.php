@@ -305,6 +305,21 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'>Military Health Awareness Night</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/valleyCats.png" alt="Valley Cats Logo">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 28th - <a class="link text-dark" href="https://maps.app.goo.gl/YCJcZTbxzyZ2n9dd7" target="_blank">Joseph L. Bruno Stadium - Troy</a></h5>
+                <p>Please join us and the many fans of baseball for a night of baseball that is dedicated to our Military Health Awareness. Meet fellow members of the Military, Veterans and enjoy Vendors supporting the cause at the Joseph L. Bruno Stadium.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>An Adirondack Woofstock!</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
