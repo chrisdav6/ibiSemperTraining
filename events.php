@@ -296,8 +296,8 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>May 6th - KSU at 12pm - <a class="link text-dark" href="https://goo.gl/maps/4LhSaEVLgKCkpMvd8" target="_blank">1263 Patten Mills Road, Fort Ann, NY</a></h5>
-                <p>Crazytrain RC has invited us back for the 3rd year as a vendor at their Suicide Awareness Ride. We are grateful to attend and hope to see you there. If you ride, join in and support Suicide Awareness and Suicide Prevention.</p>
+                <h5>May 4th - KSU at 12pm - <a class="link text-dark" href="https://maps.app.goo.gl/SHZKZCupfKMjFZeX8" target="_blank">American Legion - Hudson Falls</a></h5>
+                <p>Crazytrain RC has invited us back for the 4th year as a vendor at their Suicide Awareness Ride. We are grateful to attend and hope to see you there. If you ride, join in and support Suicide Awareness and Suicide Prevention.</p>
               </div>
             </div>
           </div>
