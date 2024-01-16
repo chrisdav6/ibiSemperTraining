@@ -1,7 +1,7 @@
 <?php
   $title = "IBI Semper Training";
-  $metaDesc = "Engage Veterans and First Responders with PTSD, improve lives and help dogs in need through PTSD Service
-  Dog training and promoting awareness of PTSD";
+  $metaDesc = "Engage Veterans and First Responders with PTS, improve lives and help dogs in need through PTS Service
+  Dog training and promoting awareness of PTS";
 ?>
 
 <!DOCTYPE html>
@@ -33,8 +33,8 @@
       <div class="container">
         <h1>Ibi Semper Training</h1>
         <hr>
-        <p class="intro">Engaging Veterans and First Responders with PTSD, improve lives and help dogs in need through
-          PTSD Service Dog training and promoting awareness of PTSD</p>
+        <p class="intro">Engaging Veterans and First Responders with PTS, improve lives and help dogs in need through
+          PTS Service Dog training and promoting awareness of PTS</p>
         <div class="donationContainer">
           <a class="donation" href="https://www.paypal.com/donate/?hosted_button_id=F3Y33KXX3RCWL" target="_blank">Make a Donation Today!</a>
         </div>
@@ -45,7 +45,7 @@
 
   <section id="tax">
     <div class="container">
-      <p>IST has been approved and is now a registered 501c3 tax exempt organization!</p>
+      <p>IST has been approved and is a registered 501c3 tax exempt organization!</p>
       <hr>
       <p>You can support Ibi Semper Training by clicking <a class="amazonLink" href="https://a.co/3p1Kvby" target="_blank">here</a> to purchase training tools directly from Amazon wishlist. The products will be shipped directly to Ibi Semper Training to be used during the 8 months Service Dog training program. <strong>We thank you for your support!</strong></p>
     </div>
@@ -58,7 +58,7 @@
           <img src="https://widgets.guidestar.org/TransparencySeal/9882055" />
         </a>
       </p>
-      <p>We’re excited to share that our organization has earned a 2022 Silver Seal of Transparency with Candid! Now, you can support our work with trust and confidence by viewing our <a class="silverLink" href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target='_blank'>#NonprofitProfile</a></p>
+      <p>We’re excited to share that our organization has earned a 2023 Silver Seal of Transparency with Candid! Now, you can support our work with trust and confidence by viewing our <a class="silverLink" href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target='_blank'>#NonprofitProfile</a></p>
     </div>
   </section>
 
@@ -66,8 +66,8 @@
     <div class="container">
       <h2>About Us</h2>
       <hr>
-      <p>Ibi Semper Training (IST) is a charitable non-profit that trains Veterans/1st Responders with PTSD and their
-        dogs in a small guided group, usually no more than 4 teams at one time, to become PTSD Service Dog teams in a 8
+      <p>Ibi Semper Training (IST) is a charitable non-profit that trains Veterans/1st Responders with PTS and their
+        dogs in a small guided group, usually no more than 4 teams at one time, to become PTS Service Dog teams in a 8
         months program. The teams will complete 6 months of in-classroom training and will then be tested for the
         American Kennel Club CGC (Canine Good Citizen) and CGCU (Canine Good Citizen Urban) tests by accredited AKC
         testers. Upon completion the teams advance to 2 months of Public Access training, where the classroom lessons
@@ -89,7 +89,7 @@
     <div class="container">
       <h2>Fees</h2>
       <hr>
-      <p>This program is free of charge for Veterans and First Responders with PTSD. We do not have a military or K-9
+      <p>This program is free of charge for Veterans and First Responders with PTS. We do not have a military or K-9
         breed restriction. </p>
     </div>
   </div>
