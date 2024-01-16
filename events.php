@@ -333,6 +333,22 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Military/Veteran Appreciation Night</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/valleyCats.png" alt="Valley Cats Logo">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 13th - 6:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/YCJcZTbxzyZ2n9dd7" target="_blank">Joseph L. Bruno Stadium - Troy</a></h5>
+                <p>Please join IST and show your appreciation to our active Military and local Veterans at the Joe Stadium for a fun night of baseball. This is a family friendly event and IST will be a vendor at this event.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
         <!-- 
           <div class="col-12 mb-5">
           <div class="longFundraiser">
