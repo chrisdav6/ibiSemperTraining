@@ -311,7 +311,7 @@
                 <img class="img-fluid" src="/public/img/woofStock2023.png" alt="Woof Stock 2023">
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>June 3rd - 4th - <a class="link text-dark" href="https://goo.gl/maps/81x9tzQKMCMvpXCj9" target="_blank">Chestertown, NY</a></h5>
+                <h5>June 8th - 9th - <a class="link text-dark" href="https://goo.gl/maps/81x9tzQKMCMvpXCj9" target="_blank">Chestertown, NY</a></h5>
                 <p>Get out your Tie-Dye and let’s travel back to 1969 at An Adirondack Woof Stock… “A Weekend of Peace, Paws & Music” It’ll be the best day of your dog’s life!</p>
               </div>
             </div>
