@@ -597,7 +597,7 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>July 15th - 17th - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
-                <p>The 2024 National Service Dog for Veterans Conference consists of two full days of conference formatting for administrative, veterans, mental health & dog training tracks and a half day roundtable training session. Tickets include breakfast for all three days & lunch for two days along with an opening night reception.</p>
+                <p>The 2024 National Service Dog for Veterans Conference consists of two full days of conference formatting for administrative, veterans, mental health & dog training tracks and a half day roundtable training session.</p>
               </div>
             </div>
           </div>
