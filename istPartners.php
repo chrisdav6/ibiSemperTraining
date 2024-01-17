@@ -173,19 +173,6 @@
           </div>
         </div>
 
-        <!-- <div class="col-6 col-md-4 col-lg-3">
-          <div class="card">
-            <img class="card-img-top" src="./public/img/HicksStrong.jpg" alt="Hicks Strong">
-            <div class="card-body">
-              <h6>Hicks Strong</h6>
-              <hr>
-              <div class="links">
-                <a href="https://hicksstrong.org" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/HicksStrong" target="_blank">Facebook</a>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
         <div class="col-6 col-md-4 col-lg-3">
           <div class="card">
             <img class="card-img-top" src="./public/img/BrunswickHarley.jpg" alt="Brunswick Harley Davidson">
@@ -194,19 +181,6 @@
               <hr>
               <div class="links">
                 <a href="https://brunswickharley.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/BrunswickHarley" target="_blank">Facebook</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-6 col-md-4 col-lg-3">
-          <div class="card">
-            <img class="card-img-top" src="./public/img/BrunswickBrew.jpg" alt="Brunswick Barbeque & Brew">
-            <div class="card-body">
-              <h6>Brunswick Barbeque & Brew</h6>
-              <hr>
-              <div class="links">
-                <a href="https://brunswickbbq.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/Brunswick-BBQ-and-Brew-450766911702358" target="_blank">Facebook</a>
               </div>
             </div>
           </div>
@@ -225,18 +199,57 @@
           </div>
         </div>
 
-        <!-- <div class="col-6 col-md-4 col-lg-3">
+        <div class="col-6 col-md-4 col-lg-3">
           <div class="card">
-            <img class="card-img-top" src="./public/img/NCM.jpg" alt="National CineMedia">
+            <img class="card-img-top" src="./public/img/BeeBogFarm.png" alt="Bee Bog Farm">
             <div class="card-body">
-              <h6>National CineMedia</h6>
+              <h6>Bee Bog Farm</h6>
               <hr>
               <div class="links">
-                <a href="https://www.ncm.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/nationalcinemediancm" target="_blank">Facebook</a>
+                <a href="http://beebogfarm.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/profile.php?id=100069096556829" target="_blank">Facebook</a>
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/fcrspca.png" alt="Fulton County Regional SPCA">
+            <div class="card-body">
+              <h6>Fulton County Regional SPCA</h6>
+              <hr>
+              <div class="links">
+                <a href="http://fcrspca.org" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/FCRSPCA" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/nss.png" alt="New Scotland Spirits">
+            <div class="card-body">
+              <h6>New Scotland Spirits</h6>
+              <hr>
+              <div class="links">
+                <a href="http://NewScotlandSpirits.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/NewScotlandSpirits" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/UnvergessenenKennels.png" alt="Unvergessenen Kennels">
+            <div class="card-body">
+              <h6>Unvergessenen Kennels</h6>
+              <hr>
+              <div class="links">
+                <a href="http://unvergessenenkennels.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/profile.php?id=100094723626584" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
 
       </div><!-- /row -->
 
