@@ -70,9 +70,9 @@
               <div class="col-lg-9 col-md-8">
                 <h5>August 3rd KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
                 <p>Please join us for our 4th annual PTS & Service Dog Awareness motorcycle ride at Brunswick Harley Davidson. You will be able to enjoy vendors, entertainment and we will have lunch and raffles at our end destination. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
-                <!-- <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
+                <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
                   Register Here
-                </a> -->
+                </a>
               </div>
             </div>
           </div>
