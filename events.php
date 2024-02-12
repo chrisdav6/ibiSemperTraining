@@ -348,6 +348,23 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.clpetapalooza.com" target="_blank">Curtis Lumber's PetAPalooza</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.clpetapalooza.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/petApalooza.png" alt="CURTIS LUMBER'S PETAPALOOZA 2024">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 15th - 10am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/g21oUt7dqYyUEBtb6" target="_blank">Curtis Lumber - 885 NY-67, Ballston Spa</a></h5>
+                <p>Please join us for a fun family Saturday in Ballston Spa for a One-Day Shelter/Rescue Pet Adoption and everything animal related Day In Upstate, NY! This is the 14th year of pet adoptions and we will look forward to greeting you there.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
 
         <!-- 
           <div class="col-12 mb-5">
