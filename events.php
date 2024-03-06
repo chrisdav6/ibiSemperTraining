@@ -71,7 +71,7 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>March 28th from 7pm - 9pm - <a class="link text-dark" href="https://maps.app.goo.gl/5o9vsTUQixVpJQXu8" target="_blank">Hill Creek Tavern - 3925 NY-2, Troy, NY</a></h5>
-                <p>Please join us for the Changing Lives Trivia Night fundraiser at the Hill Creek Tavern in Troy on March 28th, 2024. Come early to pick your table, grab dinner and get ready for a great time! Individuals welcome at $20 and teams of -$. Sign up at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Changing Lives Trivia Night - Sign Up" target="_blank">ibisempertraining@gmail.com</a> with a fun team name. Pay at the door with PayPal, Venmo, credit card or cash and win team prizes.
+                <p>Please join us for the Changing Lives Trivia Night fundraiser at the Hill Creek Tavern in Troy on March 28th, 2024. Come early to pick your table, grab dinner and get ready for a great time! Individuals welcome at $20 per person and teams of 5-6 people are $100. Sign up at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Changing Lives Trivia Night - Sign Up" target="_blank">ibisempertraining@gmail.com</a> with a fun team name. Pay at the door with PayPal, Venmo, credit card or cash and win team prizes.
                 </p>
               </div>
             </div>
