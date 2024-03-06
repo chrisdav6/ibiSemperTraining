@@ -62,6 +62,24 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/changingLivesTrivia.pdf" target="_blank">Changing Lives Trivia Night</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/changingLivesTrivia.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/changinglivesTrivia.png" alt="Changing Lives Trivia Night">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>March 28th from 7pm - 9pm - <a class="link text-dark" href="https://maps.app.goo.gl/5o9vsTUQixVpJQXu8" target="_blank">Hill Creek Tavern - 3925 NY-2, Troy, NY</a></h5>
+                <p>Please join us for the Changing Lives Trivia Night fundraiser at the Hill Creek Tavern in Troy on March 28th, 2024. Come early to pick your table, grab dinner and get ready for a great time! Individuals welcome at $20 and teams of -$. Sign up at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Changing Lives Trivia Night - Sign Up" target="_blank">ibisempertraining@gmail.com</a> with a fun team name. Pay at the door with PayPal, Venmo, credit card or cash and win team prizes.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>PTS AWARENESS RIDE</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -192,7 +210,7 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>December 14th from 4:30pm - 7:30pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohwak Commons 400 Balltown Rd</a></h5>
+                <h5>December 14th from 4:30pm - 7:30pm - <a class="link text-dark" href="https://goo.gl/maps/BEut4AnvMPjge2mj8" target="_blank">Mohawk Commons 400 Balltown Rd</a></h5>
                 <p>Come and eat some delicious pizza at Blaze Pizza while supporting IBI. Blaze Pizza will donate 20% of proceeds from your meal back to our organization. </p>
                 <p class='mb-1'>
                   <strong>Two ways to support</strong>
