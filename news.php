@@ -39,6 +39,16 @@
 
   <div id="news" class="secondary-content mt-4 mb-2">
 
+    <div id="largeNews" class="secondary-content mb-5">
+      <div class="container">
+        <div class="largeNewsItem">
+          <h4>August 2021 - That Sounds Terrific & That Sounds Terrifying <br /> Episode 37: Service Dog Training for Heroes with Sonya Ward</h4>
+          <p class="mb-4">Join us for a very special episode of That Sounds Terrific, a joint in-person recorded podcast with Chris Jones of the Bow Knows VO.</p>
+          <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/ZQiShS7YAV0?si=h-7c06F1x9EHkmcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        </div>
+      </div>
+    </div>
+
     <div id="largeNews sonya" class="mt-2 mb-5">
       <div class="container">
         <div class="largeNewsItem">
@@ -171,6 +181,14 @@
 
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
+
+      <a class="newsItem" href="https://www.news-medical.net/news/20240328/Assistance-dogs-may-detect-PTSD-flashbacks-via-breath.aspx" target="_blank">
+        <span>March 28, 2024</span>Assistance dogs may detect PTSD flashbacks via breath<p>Dogs' sensitive noses can detect the early warning signs. Now, scientists have found evidence that assistance dogs might even be able to sniff out an oncoming PTSD flashback, by teaching two dogs to alert to the breath of people who have been reminded of traumas... (read more)</p>
+      </a>
+
+      <a class="newsItem" href="https://www.deseret.com/2024/1/9/24026821/service-dogs-disability-act-law-guide-dog-emotional-support-animal" target="_blank">
+        <span>January 9, 2024</span>Get your dog out of here! Where can service dogs go?<p>There’s confusion about the rules when it comes to service animals. Here’s what the law says and why... (read more)</p>
+      </a>
 
       <a class="newsItem" href="https://mymodernmet.com/kaya-service-dog" target="_blank">
         <span>February 16, 2023</span>Kaya the Service Dog Is Honored on Her Last Plane Ride Ever After Being on 250+ Flights<p>Many people wish their dogs could live forever; but, since this is an impossible dream, it makes it all the more important to honor the trusty canines in our lives. This is exactly what Marine Corps veteran Cole Lyle has done... (read more)</p>
