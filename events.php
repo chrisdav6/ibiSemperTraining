@@ -80,10 +80,12 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>PTS AWARENESS RIDE</h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2024.pdf" target="_blank">PTS AWARENESS RIDE</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/PTSDRIDE2024.png" alt="PTS & Service Dog Awareness Ride 2024">
+                <a href="public/pdf/PTSDRIDE2024.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/PTSDRIDE2024.png" alt="PTS & Service Dog Awareness Ride 2024">
+                </a>
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>August 3rd KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
