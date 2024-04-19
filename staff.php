@@ -62,6 +62,20 @@
         </div>
       </div>
 
+      <div class="staffMember">
+        <div class="staffImage">
+          <img class="img-fluid" src="./public/img/amy.png" alt="Amy Picture">
+        </div>
+        <div class="staffContent">
+          <h3>Amy Zappia - Board Member</h3>
+          <hr>
+          <p>Amy Zappia is a U.S. Navy Veteran and a graduate of the Ibi Semper Training program with her Service Dog Barnabas.
+            She has traveled extensively and was stationed State side as well as overseas. Amy lived in Greece, Pakistan and the UK.
+            She enjoys helping IST at outreach and educational events, enjoys art, gardening and being with her family and three dogs.
+          </p>
+        </div>
+      </div>
+
     </div>
   </div>
 
