@@ -57,7 +57,19 @@
         <div class="staffContent">
           <h3>Shelley Dame - Board Member</h3>
           <hr>
-          <p>Shelley Dame is a Hudson Valley Community College graduate in Business Administration and went on to receive her paralegal degree from National Paralegal Studies Program. She has a lifelong love for dogs and other animals and has been a dog trainer since 2017, training her own Golden Retriever as therapy dog. In 2018 Shelley founded and opened the very successful dog boarding business “All About Dawgs, LLC”. Besides being a Board member, Shelley is an active volunteer at IBI Semper Training and is very excited to be working with veterans and their dogs.”
+          <p>Shelley Dame is a Hudson Valley Community College graduate in Business Administration and went on to receive her paralegal degree from National Paralegal Studies Program. She has a lifelong love for dogs and other animals and has been a dog trainer since 2017, training her own Golden Retriever as therapy dog. In 2018 Shelley founded and opened the very successful dog boarding business “All About Dawgs, LLC”. Besides being a Board member, Shelley is an active volunteer at IBI Semper Training and is very excited to be working with veterans and their dogs.
+          </p>
+        </div>
+      </div>
+
+      <div class="staffMember">
+        <div class="staffImage">
+          <img class="img-fluid" src="./public/img/stephen.png" alt="Stephen Picture">
+        </div>
+        <div class="staffContent">
+          <h3>Stephen Onley - Board Member</h3>
+          <hr>
+          <p>Stephen Onley served in the US Army from 2008 to 2015 as a paratrooper in the 82nd Airborne Division. Stephen deployed to Afghanistan in 2009, where he served alongside various special operations groups and foreign militaries. Currently, Stephen is completing his Bachelor's degree in Mathematics at Indiana University. On top of his academic pursuits, he actively engages in volunteer work with organizations, such as Stride Adaptive Sports and Ibi Semper Service Dog Training. Stephen's dedication to helping veterans is clear through his involvement with many charities, where he has contributed to raising hundreds of thousands of dollars for noble causes. Stephen is currently working at Hudson Valley Community College in the Veterans Resource & Outreach Center. In his role as Assistant Director of Veteran Resources and Outreach, he extends his support and guidance to fellow veterans, ensuring they receive the assistance and resources they deserve. With his strong military background, academic achievements, and profound commitment to making a positive impact, Stephen Onley exemplifies a genuine leader and advocate for veterans' well-being.
           </p>
         </div>
       </div>
