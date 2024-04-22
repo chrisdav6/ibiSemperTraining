@@ -38,8 +38,14 @@
   </div>
 
   <div id="news" class="secondary-content mt-4 mb-2">
+    <div class="container">
+      <a class="newsItem" href="https://www.nature.com/articles/s41598-023-50626-y" target="_blank">
+        <span>January 2024</span>The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder
+        <p>Scientific Reports is an open access journal publishing original research from across all areas of the natural sciences, psychology, medicine and engineering. (read more)</p>
+      </a>
+    </div>
 
-    <div id="largeNews" class="secondary-content mb-5">
+    <div id="largeNews" class="secondary-content mb-5 mt-5">
       <div class="container">
         <div class="largeNewsItem">
           <h4>August 2021 - That Sounds Terrific & That Sounds Terrifying <br /> Episode 37: Service Dog Training for Heroes with Sonya Ward</h4>
