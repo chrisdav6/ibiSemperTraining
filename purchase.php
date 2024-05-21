@@ -103,10 +103,10 @@
         <h2 class="mb-4">IST Cookbook</h2>
         <div class="info">
           <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
-          <p class="mb-3">Collection of recipes from our Service Dog teams, partners and friends, with team photos.<br />Please contact <a class="link text-dark" href="mailto:sonya@ibisempertraining.org?subject=IST Cookbook, Yes Please!" target="_blank">sonya@ibisempertraining.org</a> to order yours before supplies run out.</p>
+          <p class="mb-3">Collection of recipes from our Service Dog teams, partners and friends, with team photos.<br />Please contact <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Cookbook, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> to order yours before supplies run out.</p>
 
           <div class="pricing">
-            <p>$15 each</p>
+            <p>$20 each</p>
           </div>
 
 
@@ -120,6 +120,31 @@
           "thumbnailGutterHeight": 10
         }'>
             <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="purchase-group">
+        <h2 class="mb-4">IST Cookbook - Volume 2</h2>
+        <div class="info">
+          <h5>Available Now Until Supplies Last</h5>
+          <p class="mb-3">Collection of recipes from our Service Dog teams, partners and friends, with team photos.<br />Please contact <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Cookbook, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> to order yours before supplies run out.</p>
+
+          <div class="pricing">
+            <p>$20 each</p>
+          </div>
+
+
+          <div id="cookbook2" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/cookbook2/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="1.png" data-ngthumb="1.png" data-ngdesc=""></a>
           </div>
         </div>
       </div>
