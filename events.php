@@ -60,6 +60,21 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST Cookbook - Volume 2</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/ISTCookbookVol2.png" alt="IST Cookbook - Volume 2">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <p>The Ibi Semper Cookbook, Volume 2 is here with 108 pages full of recipes, photos of our dog teams, a full page of favorite book recommendations, as well as a couple of pages with dog recipes. We have expanded our partnerships to support our teams, which means even more wonderful family favorites. Get your book for $20 each before they are gone. You can order by emailing <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Cookbook - Vol 2, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with the number of books, your contact information and method of payment. We accept credit cards, Venmo and PayPal. Thank you for your support for our Service Dog teams.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
