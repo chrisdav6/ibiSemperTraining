@@ -60,23 +60,6 @@
           </div>
         </div>
 
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/changingLivesTrivia.pdf" target="_blank">Changing Lives Trivia Night</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/changingLivesTrivia.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/changinglivesTrivia.png" alt="Changing Lives Trivia Night">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>March 28th from 7pm - 9pm - <a class="link text-dark" href="https://maps.app.goo.gl/5o9vsTUQixVpJQXu8" target="_blank">Hill Creek Tavern - 3925 NY-2, Troy, NY</a></h5>
-                <p>Please join us for the Changing Lives Trivia Night fundraiser at the Hill Creek Tavern in Troy on March 28th, 2024. Come early to pick your table, grab dinner and get ready for a great time! Individuals welcome at $20 per person and teams of 5-6 people are $100. Sign up at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Changing Lives Trivia Night - Sign Up" target="_blank">ibisempertraining@gmail.com</a> with a fun team name. Pay at the door with PayPal, Venmo, credit card or cash and win team prizes.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -99,6 +82,24 @@
         </div>
 
         <!-- 
+          <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/changingLivesTrivia.pdf" target="_blank">Changing Lives Trivia Night</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/changingLivesTrivia.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/changinglivesTrivia.png" alt="Changing Lives Trivia Night">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>March 28th from 7pm - 9pm - <a class="link text-dark" href="https://maps.app.goo.gl/5o9vsTUQixVpJQXu8" target="_blank">Hill Creek Tavern - 3925 NY-2, Troy, NY</a></h5>
+                <p>Please join us for the Changing Lives Trivia Night fundraiser at the Hill Creek Tavern in Troy on March 28th, 2024. Come early to pick your table, grab dinner and get ready for a great time! Individuals welcome at $20 per person and teams of 5-6 people are $100. Sign up at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Changing Lives Trivia Night - Sign Up" target="_blank">ibisempertraining@gmail.com</a> with a fun team name. Pay at the door with PayPal, Venmo, credit card or cash and win team prizes.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
           <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/dylanEderMemorialRide2023.pdf" target="_blank">3rd Annual DYLAN EDER Memorial Ride</a></h4>
@@ -308,40 +309,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.mcnultycenter.org/event/veterans-serive2success-in-person-resource-and-job-fair" target="_blank">Veterans’ Service2Success Resource and Job Fair</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.mcnultycenter.org/event/veterans-serive2success-in-person-resource-and-job-fair" target="_blank">
-                  <img class="img-fluid" src="/public/img/veteransService2success2024.png" alt="veteransService2success2024">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 27th from 9am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
-                <p>We will be a vendor at this event. The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Rensselaer County Veterans Resource & Outreach Center at HVCC, Albany County, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Suicide Awareness Ride</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
-                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>May 4th - KSU at 12pm - <a class="link text-dark" href="https://maps.app.goo.gl/SHZKZCupfKMjFZeX8" target="_blank">American Legion - Hudson Falls</a></h5>
-                <p>Crazytrain RC has invited us back for the 4th year as a vendor at their Suicide Awareness Ride. We are grateful to attend and hope to see you there. If you ride, join in and support Suicide Awareness and Suicide Prevention.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4 class='link'>Military Health Awareness Night</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -404,6 +371,40 @@
 
 
         <!-- 
+          <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.mcnultycenter.org/event/veterans-serive2success-in-person-resource-and-job-fair" target="_blank">Veterans’ Service2Success Resource and Job Fair</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.mcnultycenter.org/event/veterans-serive2success-in-person-resource-and-job-fair" target="_blank">
+                  <img class="img-fluid" src="/public/img/veteransService2success2024.png" alt="veteransService2success2024">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 27th from 9am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
+                <p>We will be a vendor at this event. The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Rensselaer County Veterans Resource & Outreach Center at HVCC, Albany County, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Suicide Awareness Ride</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
+                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 4th - KSU at 12pm - <a class="link text-dark" href="https://maps.app.goo.gl/SHZKZCupfKMjFZeX8" target="_blank">American Legion - Hudson Falls</a></h5>
+                <p>Crazytrain RC has invited us back for the 4th year as a vendor at their Suicide Awareness Ride. We are grateful to attend and hope to see you there. If you ride, join in and support Suicide Awareness and Suicide Prevention.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
           <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>Triple E & B Expo</h4>
