@@ -75,6 +75,23 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/792707579498800" target="_blank">Cousins Maine Lobster</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/events/792707579498800" target="_blank">
+                  <img class="img-fluid" src="/public/img/backBarn.png" alt="back Barn Brewing">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 22 at 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MSrM95ujXXZDpYhS8" target="_blank">Back Barn Brewing</a></h5>
+                <p>You can’t miss this event if you like Maine Lobster, a good time and all for a great cause! Join us at the Back Barn Brewing Company for this great fundraising event, benefitting Veterans, First Responders and their Service Dogs. The Biergarten is open to enjoy their craft beers and lobster everything from Cousins Main Lobster! We will be there with Raffle and some valuable Auction items.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
