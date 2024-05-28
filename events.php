@@ -53,7 +53,7 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCookbook.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $20 each for purchase. Please contact <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Cookbook, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> to order yours before supplies run out.
+                <p>The first edition of the IST “Feasts & Flavors Collection of Recipes” Cookbook has been released. Filled with favorite recipes of Veterans, First-Responders, friends and supporters of IST are a reflection of who we are at IST. Because it takes a village to support each other, and no one can do it all alone. Some of the photos included are of IST teams and their rescue dogs. This cookbook is now available to the public for $10 each for purchase. Please contact <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Cookbook, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> to order yours before supplies run out.
                 </p>
               </div>
             </div>

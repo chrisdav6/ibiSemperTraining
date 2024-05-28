@@ -106,7 +106,7 @@
           <p class="mb-3">Collection of recipes from our Service Dog teams, partners and friends, with team photos.<br />Please contact <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Cookbook, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> to order yours before supplies run out.</p>
 
           <div class="pricing">
-            <p>$20 each</p>
+            <p>$10 each</p>
           </div>
 
 
