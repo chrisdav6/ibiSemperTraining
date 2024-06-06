@@ -37,32 +37,24 @@
     </div>
   </div>
 
-  <div id="news" class="secondary-content mt-4 mb-2">
+  <div id="largeNews" class="secondary-content mb-5 mt-5">
     <div class="container">
-      <a class="newsItem" href="https://www.nature.com/articles/s41598-023-50626-y" target="_blank">
-        <span>January 2024</span>The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder
-        <p>Scientific Reports is an open access journal publishing original research from across all areas of the natural sciences, psychology, medicine and engineering. (read more)</p>
-      </a>
-    </div>
-
-    <div id="largeNews" class="secondary-content mb-5 mt-5">
-      <div class="container">
-        <div class="largeNewsItem">
-          <h4>August 2021 - That Sounds Terrific & That Sounds Terrifying <br /> Episode 37: Service Dog Training for Heroes with Sonya Ward</h4>
-          <p class="mb-4">Join us for a very special episode of That Sounds Terrific, a joint in-person recorded podcast with Chris Jones of the Bow Knows VO.</p>
-          <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/ZQiShS7YAV0?si=h-7c06F1x9EHkmcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-        </div>
+      <div class="largeNewsItem">
+        <h4>August 2021 - That Sounds Terrific & That Sounds Terrifying <br /> Episode 37: Service Dog Training for Heroes with Sonya Ward</h4>
+        <p class="mb-4">Join us for a very special episode of That Sounds Terrific, a joint in-person recorded podcast with Chris Jones of the Bow Knows VO.</p>
+        <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/ZQiShS7YAV0?si=h-7c06F1x9EHkmcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
       </div>
     </div>
+  </div>
 
-    <div id="largeNews sonya" class="mt-2 mb-5">
-      <div class="container">
-        <div class="largeNewsItem">
-          <h4>September 2023 - Hudson Valley Veterans Resource and Outreach Center </h4>
-          <p>Thank you! Much appreciation to the Hudson Valley Veterans Resource and Outreach Center for recognizing me at a recent football game and presenting me with this wonderful Military Appreciation Award! I’m humbled and honored! Thank you 🙏</p>
+  <div id="largeNews sonya" class="mt-2 mb-5">
+    <div class="container">
+      <div class="largeNewsItem">
+        <h4>September 2023 - Hudson Valley Veterans Resource and Outreach Center </h4>
+        <p>Thank you! Much appreciation to the Hudson Valley Veterans Resource and Outreach Center for recognizing me at a recent football game and presenting me with this wonderful Military Appreciation Award! I’m humbled and honored! Thank you 🙏</p>
 
-          <div class="mt-4">
-            <div id="sonya" data-nanogallery2='{
+        <div class="mt-4">
+          <div id="sonya" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/outreachFootball/",
           "thumbnailWidth": "200",
           "thumbnailAlignment": "left",
@@ -71,77 +63,77 @@
           "thumbnailGutterWidth": 10,
           "thumbnailGutterHeight": 10
         }'>
-              <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
-              <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
-              <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
-            </div>
+            <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+            <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+            <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
           </div>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="container">
-      <a class="newsItem" href="public/pdf/ISTTheExpressFeb2023.pdf" target="_blank">
-        <span>February 2023</span>Memorial Service Honors the Memory of Sgt. Elijah P. Willette
-        <p>Local veteran and hero was honored with a memorial service held at the Mechanicville Stillwater Elks.</p>
-      </a>
+  <div class="container">
+    <a class="newsItem" href="public/pdf/ISTTheExpressFeb2023.pdf" target="_blank">
+      <span>February 2023</span>Memorial Service Honors the Memory of Sgt. Elijah P. Willette
+      <p>Local veteran and hero was honored with a memorial service held at the Mechanicville Stillwater Elks.</p>
+    </a>
 
-      <a class="newsItem" href="https://cbs6albany.com/news/local/annual-ride-benefits-ptsd-and-service-dog-awareness" target="_blank">
-        <span>August 2022</span>Annual ride benefits PTSD and service dog awareness
-        <p>The second annual PTSD & Service Dog Awareness motorcycle ride took place in Troy Saturday morning!</p>
-      </a>
+    <a class="newsItem" href="https://cbs6albany.com/news/local/annual-ride-benefits-ptsd-and-service-dog-awareness" target="_blank">
+      <span>August 2022</span>Annual ride benefits PTSD and service dog awareness
+      <p>The second annual PTSD & Service Dog Awareness motorcycle ride took place in Troy Saturday morning!</p>
+    </a>
 
-      <a class="newsItem" href="https://spectrumlocalnews.com/nys/capital-region/news/2022/08/07/ptsd-and-service-dog-awareness-ride-held-in-troy?cid=share_sms&fbclid=IwAR1fUJZndyMz9YHG7jQ85LENGv6WMpAgEcWQ6qxETHYATKi0dJhQCAK1DhE?cid=share_clip" target="_blank">
-        <span>August 2022</span>PTSD and service dog awareness ride held in Troy
-        <p>Ibi Semper Training, Inc. held their second-annual PTSD and awareness ride at the Brunswick Harley Davidson in Troy.</p>
-      </a>
+    <a class="newsItem" href="https://spectrumlocalnews.com/nys/capital-region/news/2022/08/07/ptsd-and-service-dog-awareness-ride-held-in-troy?cid=share_sms&fbclid=IwAR1fUJZndyMz9YHG7jQ85LENGv6WMpAgEcWQ6qxETHYATKi0dJhQCAK1DhE?cid=share_clip" target="_blank">
+      <span>August 2022</span>PTSD and service dog awareness ride held in Troy
+      <p>Ibi Semper Training, Inc. held their second-annual PTSD and awareness ride at the Brunswick Harley Davidson in Troy.</p>
+    </a>
 
-      <a class="newsItem" href="https://www.silverpenproductions.com/wp-content/uploads/2022/03/NiskayunaNeighbors_Mar22_SonyaWard.pdf?fbclid=IwAR2IeljI2q9mWCA8EUnrLiu2b1KHirdcQxSDVv8-rG4Uq5FVndazaUsD61I" target="_blank">
-        <span>March 2022</span>March 2022 edition of Niskayuna News
-        <p>IST Founder Sonya Ward was featured in the March edition of Niskayuna Neighbors, a local magazine for Niskayuna residents</p>
-      </a>
+    <a class="newsItem" href="https://www.silverpenproductions.com/wp-content/uploads/2022/03/NiskayunaNeighbors_Mar22_SonyaWard.pdf?fbclid=IwAR2IeljI2q9mWCA8EUnrLiu2b1KHirdcQxSDVv8-rG4Uq5FVndazaUsD61I" target="_blank">
+      <span>March 2022</span>March 2022 edition of Niskayuna News
+      <p>IST Founder Sonya Ward was featured in the March edition of Niskayuna Neighbors, a local magazine for Niskayuna residents</p>
+    </a>
 
-      <div id="largeNews" class="secondary-content mb-5 mt-5">
-        <div class="container">
-          <div class="largeNewsItem">
-            <h4>September 2021 - WYNT Channel 13 News Interviews IST Service Dog Teams </h4>
-            <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them.</p>
-            <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/BtOJ1HjGXzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-          </div>
+    <div id="largeNews" class="secondary-content mb-5 mt-5">
+      <div class="container">
+        <div class="largeNewsItem">
+          <h4>September 2021 - WYNT Channel 13 News Interviews IST Service Dog Teams </h4>
+          <p class="mb-4">Ibi Semper Training Service Dog teams met in Niskayuna with Channel 13 WNYT’s Sam Hesler to discuss the training program and how their PTSD Service Dogs benefit them.</p>
+          <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/BtOJ1HjGXzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         </div>
       </div>
-
-      <div id="largeNews" class="secondary-content mb-5">
-        <div class="container">
-          <div class="largeNewsItem">
-            <h4>August 2021 - IST PTSD Service Dog Ride - Spectrum Interview</h4>
-            <p class="mb-4">Spectrum News Tamani Wooley, an Emmy-nominated television anchor, host, reporter, and producer interviews Sonya Ward with Ibi Semper Training and Stuart Ginsburg at the Brunswick Harley Davidson dealership and Gary Gosselin at the Brunswick BBQ & Brew, the two local businesses hosting the fundraiser event on August 28th, 2021 supporting our local Veterans & First Responders with PTSD and the adoption of rescue dogs.</p>
-            <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/aotUoAwOuGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-          </div>
-        </div>
-      </div>
-
-      <a class="newsItem" href="https://www.youtube.com/watch?v=DGex0-C3Mww" target="_blank">
-        <span>August 4, 2021</span>Ibi Semper Training on Capital Region Today
-        <p>Interview with Ann Parillo about Ibi and PTSD Service Dog training</p>
-      </a>
-
-      <a class="newsItem" href="https://fb.watch/79oP1Rghiu" target="_blank">
-        <span>August 2, 2021</span>Ibi Semper Training on Spectrum News 1!
-        <p>Highlighting the importance of service dogs.</p>
-      </a>
-
-      <a class="newsItem" href="https://www.timesunion.com/news/article/Your-Best-Shot-Service-Dogs-16343398.php" target="_blank">
-        <span>July 27, 2021</span>Your Best Shot: Service Dogs
-        <p>Ibi Semper Training (IST), Latin for “Always There,” is helping veterans and first responders while rescuing dogs, and pairing them together to train them to become Post Traumatic Stress Disorder (PTSD) Service Dog teams. (read more)</p>
-      </a>
-
-      <a class="newsItem" href="https://www.timesunion.com/news/article/Art-program-aims-to-help-psychological-effects-of-16084975.php" target="_blank">
-        <span>April 7, 2021</span>Ibi Semper Training IN THE NEWS
-        <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you. (read more)</p>
-      </a>
-
     </div>
+
+    <div id="largeNews" class="secondary-content mb-5">
+      <div class="container">
+        <div class="largeNewsItem">
+          <h4>August 2021 - IST PTSD Service Dog Ride - Spectrum Interview</h4>
+          <p class="mb-4">Spectrum News Tamani Wooley, an Emmy-nominated television anchor, host, reporter, and producer interviews Sonya Ward with Ibi Semper Training and Stuart Ginsburg at the Brunswick Harley Davidson dealership and Gary Gosselin at the Brunswick BBQ & Brew, the two local businesses hosting the fundraiser event on August 28th, 2021 supporting our local Veterans & First Responders with PTSD and the adoption of rescue dogs.</p>
+          <div class="youtubeContainer"><iframe class="video" src="https://www.youtube.com/embed/aotUoAwOuGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+        </div>
+      </div>
+    </div>
+
+    <a class="newsItem" href="https://www.youtube.com/watch?v=DGex0-C3Mww" target="_blank">
+      <span>August 4, 2021</span>Ibi Semper Training on Capital Region Today
+      <p>Interview with Ann Parillo about Ibi and PTSD Service Dog training</p>
+    </a>
+
+    <a class="newsItem" href="https://fb.watch/79oP1Rghiu" target="_blank">
+      <span>August 2, 2021</span>Ibi Semper Training on Spectrum News 1!
+      <p>Highlighting the importance of service dogs.</p>
+    </a>
+
+    <a class="newsItem" href="https://www.timesunion.com/news/article/Your-Best-Shot-Service-Dogs-16343398.php" target="_blank">
+      <span>July 27, 2021</span>Your Best Shot: Service Dogs
+      <p>Ibi Semper Training (IST), Latin for “Always There,” is helping veterans and first responders while rescuing dogs, and pairing them together to train them to become Post Traumatic Stress Disorder (PTSD) Service Dog teams. (read more)</p>
+    </a>
+
+    <a class="newsItem" href="https://www.timesunion.com/news/article/Art-program-aims-to-help-psychological-effects-of-16084975.php" target="_blank">
+      <span>April 7, 2021</span>Ibi Semper Training IN THE NEWS
+      <p>Arts4Vets is such a wonderful program and we thank them and the American Legion Post 1520 for their support for and partnering with Ibi Semper Training, Inc! Please read and reach out, it can only benefit you. (read more)</p>
+    </a>
+
+  </div>
   </div>
 
   <div class="news-heading">
@@ -187,6 +179,11 @@
 
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
+
+      <a class="newsItem" href="https://www.nature.com/articles/s41598-023-50626-y" target="_blank">
+        <span>January 2024</span>The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder
+        <p>Scientific Reports is an open access journal publishing original research from across all areas of the natural sciences, psychology, medicine and engineering. (read more)</p>
+      </a>
 
       <a class="newsItem" href="https://www.news-medical.net/news/20240328/Assistance-dogs-may-detect-PTSD-flashbacks-via-breath.aspx" target="_blank">
         <span>March 28, 2024</span>Assistance dogs may detect PTSD flashbacks via breath<p>Dogs' sensitive noses can detect the early warning signs. Now, scientists have found evidence that assistance dogs might even be able to sniff out an oncoming PTSD flashback, by teaching two dogs to alert to the breath of people who have been reminded of traumas... (read more)</p>
