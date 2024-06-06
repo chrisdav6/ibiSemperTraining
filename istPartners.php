@@ -265,6 +265,32 @@
           </div>
         </div>
 
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/CFGCR.png" alt="The Community Foundation for the Greater Capital Region">
+            <div class="card-body">
+              <h6>Community Foundation for the Greater Capital Region</h6>
+              <hr>
+              <div class="links">
+                <a href="https://www.cfgcr.org" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/CFGCR" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/VETROC.png" alt="HVCC Veterans Resource & Outreach Center">
+            <div class="card-body">
+              <h6>HVCC Veterans Resource &amp; Outreach Center</h6>
+              <hr>
+              <div class="links">
+                <a href="https://www.hvcc.edu/studentservices/veterans/resource-and-outreach-center/index.html" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/hvcc.vetroc" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div><!-- /row -->
 
     </div>
