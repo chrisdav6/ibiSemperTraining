@@ -86,7 +86,7 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>June 22 at 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MSrM95ujXXZDpYhS8" target="_blank">Back Barn Brewing</a></h5>
-                <p>You can’t miss this event if you like Maine Lobster, a good time and all for a great cause! Join us at the Back Barn Brewing Company for this great fundraising event, benefitting Veterans, First Responders and their Service Dogs. The Biergarten is open to enjoy their craft beers and lobster everything from Cousins Main Lobster! We will be there with Raffle and some valuable Auction items.
+                <p>You can’t miss this event if you like Maine Lobster, a good time and all for a great cause! Join us at the Back Barn Brewing Company for this great fundraising event, benefitting Veterans, First Responders and their Service Dogs. The Biergarten is open to enjoy their craft beers and lobster everything from Cousins Main Lobster! We will be there with valuable Raffle items.
                 </p>
               </div>
             </div>
