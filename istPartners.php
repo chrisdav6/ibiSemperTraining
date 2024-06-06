@@ -45,7 +45,7 @@
 
       <p>IST is very grateful to have such excellent partners to work with. If you are visiting our site, please know that we highly recommend these organizations to you. <strong>Thank you for your continued support! The IST Teams</strong></p>
 
-      <h3 class='mt-5 mb-4'>Main Training Facility</h3>
+      <h3 class='mt-5 mb-4'>Training Facilities</h3>
 
       <div class="row">
 
@@ -58,6 +58,20 @@
               <hr>
               <div class="links">
                 <a href="http://www.SchenectadyArmoryCenter.com" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/SchenectadyArmoryCenter" target="_blank">Facebook</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <img class="card-img-top" src="./public/img/americanLegion1520.png" alt="American Legion Post 1520">
+            <div class="card-body">
+              <h6 class='mb-1'>American Legion Post 1520<br />Joseph E. Zaloga</h6>
+              <p class='small'>4 Everett Road, Albany</p>
+              <hr>
+              <div class="links">
+                <a href="https://www.zalogapost1520.org" target="_blank">Website</a><span class='divider'>|</span><a href="https://www.facebook.com/Zaloga1520" target="_blank">Facebook</a>
               </div>
             </div>
           </div>
