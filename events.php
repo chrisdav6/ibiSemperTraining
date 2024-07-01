@@ -355,8 +355,15 @@
       <h2>Outreach Events</h2>
 
       <div class="row">
-
         <div class="col-12 mb-5">
+          <h4>No Events Scheduled - Please check back later.</h4>
+        </div>
+
+
+
+
+        <!--
+      <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>An Adirondack Woofstock!</h4>
             <div class="row">
@@ -402,9 +409,7 @@
             </div>
           </div>
         </div>
-
-
-        <!--
+        
           <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>Military Health Awareness Night</h4>
