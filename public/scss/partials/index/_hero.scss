@@ -19,7 +19,14 @@
     max-width: 800px;
 
     h1 {
+      font-size: 3em;
+      font-weight: bold;
       color: red;
+      margin-bottom: 2px;
+    }
+
+    .ibi-pronounce {
+      font-size: 1em;
     }
 
     hr {
@@ -66,10 +73,6 @@
   #hero {
     .content {
       padding: 0.5em;
-
-      h1 {
-        font-size: 2rem;
-      }
 
       .intro {
         margin-bottom: 0;
