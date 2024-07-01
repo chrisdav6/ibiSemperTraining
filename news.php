@@ -208,7 +208,7 @@
 
       <a class="newsItem" href="https://apnews.com/article/ptsd-service-dogs-military-veterans-805783ec5b5ded646831fee0e88ed2da?fbclid=IwY2xjawDuPXRleHRuA2FlbQIxMQABHQlcpw43HNMdFaWnBQN1HMI9Qd4Zpu13JKg_Z-J44Hf-uEtXKCSkcJvkNA_aem_JBne9EEvWZU8AYvk0tSPYw" target="_blank">
         <span>June 2024</span>Service dogs helped ease PTSD symptoms in US military veterans, researchers say
-        <p>The U.S. Department of Veterans Affairs provides talk therapy and medications to veterans with post-traumatic stress disorder and runs a pilot program involving service dogs... (read more)</p>
+        <p>Specially trained service dogs helped ease PTSD symptoms in U.S. military veterans in a small study that the researchers hope will help expand options for service members... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.nature.com/articles/s41598-023-50626-y" target="_blank">
