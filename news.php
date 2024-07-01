@@ -198,7 +198,7 @@
 
   <div class="news-heading">
     <div class="container">
-      <h1>PTSD & Service Dog Related Articles</h1>
+      <h1>PTS & Service Dog Related Articles</h1>
       <hr>
     </div>
   </div>
@@ -206,9 +206,14 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://apnews.com/article/ptsd-service-dogs-military-veterans-805783ec5b5ded646831fee0e88ed2da?fbclid=IwY2xjawDuPXRleHRuA2FlbQIxMQABHQlcpw43HNMdFaWnBQN1HMI9Qd4Zpu13JKg_Z-J44Hf-uEtXKCSkcJvkNA_aem_JBne9EEvWZU8AYvk0tSPYw" target="_blank">
+        <span>June 2024</span>Service dogs helped ease PTSD symptoms in US military veterans, researchers say
+        <p>The U.S. Department of Veterans Affairs provides talk therapy and medications to veterans with post-traumatic stress disorder and runs a pilot program involving service dogs... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.nature.com/articles/s41598-023-50626-y" target="_blank">
         <span>January 2024</span>The cortisol awakening response in a 3 month clinical trial of service dogs for veterans with posttraumatic stress disorder
-        <p>Scientific Reports is an open access journal publishing original research from across all areas of the natural sciences, psychology, medicine and engineering. (read more)</p>
+        <p>Scientific Reports is an open access journal publishing original research from across all areas of the natural sciences, psychology, medicine and engineering... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.news-medical.net/news/20240328/Assistance-dogs-may-detect-PTSD-flashbacks-via-breath.aspx" target="_blank">
