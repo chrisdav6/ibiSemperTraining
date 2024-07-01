@@ -77,6 +77,23 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org/events" target="_blank">Bark Brew & Tattoo 2024</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.barkbrewtattoo.org/events" target="_blank">
+                  <img class="img-fluid" src="/public/img/barkBrewTattoo2024.png" alt="Bark Brew Tattoo 2024">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>July 21st at 12pm - <a class="link text-dark" href="https://maps.app.goo.gl/8CCddbqNwFdmMq3m8" target="_blank">Saratoga Springs City Center</a></h5>
+                <p>Bark Brew & Tattoo is a non-profit organization that plans and hosts community charity fundraising events in the upstate NY region. Join us at the 2024 Bark, Brew & Tattoo Annual Event! Proceeds of the event are donated to regional no-kill animal shelters that care for Bully breeds.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2024.pdf" target="_blank">PTS AWARENESS RIDE</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
