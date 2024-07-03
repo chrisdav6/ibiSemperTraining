@@ -30,7 +30,7 @@
 
   <div class="secondary-heading">
     <div class="container">
-      <h1>IST PTSD Service Dog Application</h1>
+      <h1>IST PTS Service Dog Application</h1>
       <hr>
     </div>
   </div>

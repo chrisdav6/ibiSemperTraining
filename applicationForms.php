@@ -30,7 +30,7 @@
 
   <div class="secondary-heading">
     <div class="container">
-      <h1>PTS Application Forms</h1>
+      <h1>PTS Application &amp; ADA Info</h1>
       <hr>
     </div>
   </div>

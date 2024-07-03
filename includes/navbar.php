@@ -11,11 +11,20 @@
           <li class="nav-item">
             <a class="nav-link" href="/staff.php">Staff</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/events.php">Events</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Events &amp; IST Partners
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/events.php">Events</a>
+              <a class="dropdown-item" href="/istPartners.php">IST Partners</a>
+            </div>
           </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="/events.php">Events</a>
+          </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="/applicationForms.php">PTS Application Forms</a>
+            <a class="nav-link" href="/applicationForms.php">PTS Application &amp; ADA Info</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -30,9 +39,9 @@
               <!-- <a class="dropdown-item" href="/sponsor.php">Sponsor Opportunities</a> -->
             </div>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="/istPartners.php">IST Partners</a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link" href="/photos.php">Photos</a>
           </li>
