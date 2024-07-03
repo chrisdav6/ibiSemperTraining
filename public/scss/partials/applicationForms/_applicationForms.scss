@@ -1,13 +1,18 @@
 #applications {
-  .form-item {
-    margin-bottom: 2.5em;
+  h3 {
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 5px;
   }
 
-  .download-form {
-    color: red;
+  .application-container {
+    margin-bottom: 20px;
   }
 
-  .fill-form {
-    color: rgb(3, 70, 196)
+  a {
+    color: $dark;
+    font-size: 1.4em;
+    font-weight: normal;
+    display: block;
   }
 }

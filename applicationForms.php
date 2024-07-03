@@ -37,41 +37,19 @@
 
   <div id="applications" class="secondary-content mt-4 mb-5">
     <div class="container">
-      <div class="row">
 
-        <div class="col-md-6">
-          <div class="form-item">
-            <h4>IST PTS Service Dog Application</h4>
-            <a href="ptsdApplicationForm.php" class="download-form mr-3"><i class="fas fa-paper-plane"></i> Submit Form Online</a>
-            <!-- <a href="#" class="fill-form" target=_blank><i class="fas fa-paper-plane"></i> Fill Out Online</a> -->
-          </div>
-        </div>
-        <!--<div class="col-md-6">
-          <div class="form-item">
-            <h4>Waiver of Liability & Informed Consent Release</h4>
-            <a href="./public/pdf/waiverOfLiability.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-item">
-            <h4>Applicant Intake Form</h4>
-            <a href="./public/pdf/applicantIntakeForm.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-item">
-            <h4>Physician Form Letter</h4>
-            <a href="./public/pdf/physicianFormLetter.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="form-item">
-            <h4>Training Facility Operating Policies</h4>
-            <a href="./public/pdf/trainingFacilityOperatingPolicies.pdf" class="download-form mr-3" target=_blank><i class="fas fa-file-download"></i> Download Form</a>
-          </div>
-        </div>-->
+      <div class='application-container'>
+        <h3>Forms</h3>
+        <a href="ptsdApplicationForm.php">IST PTS Service Dog Application</a>
+      </div>
 
-      </div><!-- /row -->
+      <div class='application-container'>
+        <h3>ADA Information</h3>
+        <a href="https://www.ada.gov/resources/service-animals-2010-requirements/?fbclid=IwZXh0bgNhZW0CMTAAAR1lCZb3CvpLzR01H-y_IiC89eT3MelB1Dt0RQxeRdP2zhmRqIxKt6eyfN8_aem__5nBT35fLkQkAp_4XeIvAQ" target="_blank">NYS Laws Pertaining to Service Dogs</a>
+        <a href="https://criminaldefense.1800nynylaw.com/new-york-penal-law-242-05-interference-harassment-or-intimidatio.html?fbclid=IwZXh0bgNhZW0CMTAAAR0mDiPdULDwAiAbPnhvIXJHZVngw_p22Xcjb0FJnc83BNcNOkVK4TppbKw_aem_lubcMY0bKGIKiPfAj0xRHw" target="_blank">NYS Penalties If Interfering with SDs</a>
+        <a href="https://www.animallaw.info/topic/table-state-assistance-animal-laws?fbclid=IwZXh0bgNhZW0CMTAAAR2LN5NMgZzXFhap7GbWv-y5i53tnAfDIqAnVnq2Guh2qS9-Z0ONlO8mK20_aem_7yLVFC0E9pTgodGqK5FpZg" target="_blank">State Service Animal Laws</a>
+      </div>
+
     </div>
   </div>
 
