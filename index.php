@@ -38,6 +38,7 @@
           PTS Service Dog training and promoting awareness of PTS</p>
         <div class="donationContainer">
           <a class="donation" href="https://www.paypal.com/donate/?hosted_button_id=F3Y33KXX3RCWL" target="_blank">Make a Donation Today!</a>
+          <a class="newsletter" href="https://forms.gle/G6Zc4QWNBDqqEoX99" target="_blank">Subscribe to our Newsletter!</a>
         </div>
       </div>
 
