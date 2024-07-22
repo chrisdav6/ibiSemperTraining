@@ -41,6 +41,53 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">Attending the 2024 National Service Dog Conference</h2>
+        <p class="mb-4">Sonya attended the annual conference in Saint Charles, MO. There were many noteworthy classes, knowledgeable speakers and much to learn!
+          Sonya received her certification for Pet CPR & First Aid and came home ready to share what she has learned.
+          There was just enough time to explore Main Street and the Louis & Clark museum.
+        </p>
+
+        <div id="cruise2023" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/2024NSDC/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+          <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+          <a href="7.jpg" data-ngthumb="7.jpg" data-ngdesc=""></a>
+          <a href="8.jpg" data-ngthumb="8.jpg" data-ngdesc=""></a>
+          <a href="9.jpg" data-ngthumb="9.jpg" data-ngdesc=""></a>
+          <a href="10.jpg" data-ngthumb="10.jpg" data-ngdesc=""></a>
+          <a href="11.jpg" data-ngthumb="11.jpg" data-ngdesc=""></a>
+          <a href="12.jpg" data-ngthumb="12.jpg" data-ngdesc=""></a>
+          <a href="13.jpg" data-ngthumb="13.jpg" data-ngdesc=""></a>
+          <a href="14.jpg" data-ngthumb="14.jpg" data-ngdesc=""></a>
+          <a href="15.jpg" data-ngthumb="15.jpg" data-ngdesc=""></a>
+          <a href="16.jpg" data-ngthumb="16.jpg" data-ngdesc=""></a>
+          <a href="17.jpg" data-ngthumb="17.jpg" data-ngdesc=""></a>
+          <a href="18.jpg" data-ngthumb="18.jpg" data-ngdesc=""></a>
+          <a href="19.jpg" data-ngthumb="19.jpg" data-ngdesc=""></a>
+          <a href="20.jpg" data-ngthumb="20.jpg" data-ngdesc=""></a>
+          <a href="21.jpg" data-ngthumb="21.jpg" data-ngdesc=""></a>
+          <a href="22.jpg" data-ngthumb="22.jpg" data-ngdesc=""></a>
+          <a href="23.jpg" data-ngthumb="23.jpg" data-ngdesc=""></a>
+          <a href="24.jpg" data-ngthumb="24.jpg" data-ngdesc=""></a>
+          <a href="25.jpg" data-ngthumb="25.jpg" data-ngdesc=""></a>
+          <a href="26.jpg" data-ngthumb="26.jpg" data-ngdesc=""></a>
+          <a href="27.jpg" data-ngthumb="27.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+
+      <div class="photo-group">
         <h2 class="mb-4">IBI Semper - Dutch Apple River Cruise</h2>
         <p class="mb-4">Sometimes we need to just make time to relax. Ibi Semper volunteers and teams went on a river cruise with Dutch Apple River Cruises. It was so nice to see everyone, to get together and not discuss business, to play a “survival” game and enjoy each other’s company. To just “be”! Thank you for sharing your photos and the comedic argument if “medicinal chocolate” or a sextant should have been the #1 survival item on the Coast Guard list.</p>
 
