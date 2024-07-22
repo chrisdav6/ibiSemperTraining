@@ -704,7 +704,7 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>July 13th - 16th, 2025 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
-                <p>The 2025 National Service Dog for Veterans Conference consists of four full days of conference formatting for administrative, veterans, mental health & dog training tracks and a half day roundtable training session.</p>
+                <p>The 2025 National Service Dogs for Veterans Conference consists of four full days of administrative, military, mental health and k9 related subject matters.</p>
               </div>
             </div>
           </div>
