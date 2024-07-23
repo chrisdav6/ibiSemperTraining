@@ -47,7 +47,11 @@
 }
 
 .nav-item {
-  font-size: 1rem;
+  font-size: 1.5rem;
+
+  @media (min-width: 991px) {
+    font-size: 1rem;
+  }
 
   @media (min-width: 1200px) {
     font-size: 1.2rem;
@@ -72,7 +76,7 @@
 }
 
 .dropdown-item {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 600;
   padding-top: 1em;
   padding-bottom: 1em;
