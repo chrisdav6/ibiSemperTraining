@@ -25,6 +25,7 @@
   <title><?php echo $title; ?></title>
 </head>
 
+
 <body class="d-flex flex-column">
   <?php include_once "includes/navbar.php"; ?>
 
