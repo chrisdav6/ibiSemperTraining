@@ -41,7 +41,7 @@
     <div class="container">
       <p class="intro">We welcome you to show your support of our program to help Veterans, save shelter dogs and changing lives by purchasing the following items. Shoot us an <a href="mailto:ibisempertraining@gmail.com?subject=Ibi Semper Website Purchase" class="purchaseLink"><i class="far fa-envelope"></i> email</a> to purchase any items below. Thank you for your support!</p>
 
-      <div class="purchase-group">
+      <!-- <div class="purchase-group">
         <h2 class="mb-4">Our 2024 CALENDARS ARE HERE!</h2>
         <div class="info">
           <h5 class='mb-4'>Early Christmas 🎄 shopping!</h5>
@@ -63,7 +63,7 @@
             <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="silver">
         <h2 class="mb-4">Silver Seal of Transparency</h2>
@@ -200,7 +200,7 @@
       <div class="purchase-group">
         <h2 class="mb-4">IST T-Shirts</h2>
         <div class="info">
-          <p>High quality 2022 PTSD Awareness Ride shirts</p>
+          <p>High quality 2024 PTSD Awareness Ride shirts</p>
         </div>
         <div id="tshirts2" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/purchase/",
@@ -211,14 +211,13 @@
           "thumbnailGutterWidth": 10,
           "thumbnailGutterHeight": 10
         }'>
-          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
-          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
-          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="black2024shirt-1.jpg" data-ngthumb="black2024shirt-1.jpg" data-ngdesc=""></a>
+          <a href="black2024shirt-2.jpg" data-ngthumb="black2024shirt-2.jpg" data-ngdesc=""></a>
         </div>
         <div class="pricing">
-          <p>$20 each for shirts size S through XL</p>
-          <p>$30 for 2 shirts size S through XL</p>
-          <p>$25 each for size 2XL</p>
+          <p>$10 each for shirts size S through XL</p>
+          <p>$15 for 2 shirts size S through XL</p>
+          <p>$15 each for size 2XL</p>
           <div class='mt-4'>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
               <input type="hidden" name="cmd" value="_s-xclick">
@@ -226,9 +225,9 @@
               <table>
                 <tr>
                   <td><select name="os0">
-                      <option value="1 shirt size S-XL">1 shirt size S-XL $20.00 USD</option>
-                      <option value="2 shirts size S-XL">2 shirts size S-XL $30.00 USD</option>
-                      <option value="1 shirt size 2XL">1 shirt size 2XL $25.00 USD</option>
+                      <option value="1 shirt size S-XL">1 shirt size S-XL $10.00 USD</option>
+                      <option value="2 shirts size S-XL">2 shirts size S-XL $15.00 USD</option>
+                      <option value="1 shirt size 2XL">1 shirt size 2XL $15.00 USD</option>
                     </select> </td>
                 </tr>
                 <tr>
