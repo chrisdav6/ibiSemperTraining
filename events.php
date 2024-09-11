@@ -75,6 +75,7 @@
           </div>
         </div>
 
+        <!-- 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org/events" target="_blank">Bark Brew & Tattoo 2024</a></h4>
@@ -111,8 +112,7 @@
             </div>
           </div>
         </div>
-
-        <!-- 
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/792707579498800" target="_blank">Cousins Maine Lobster</a></h4>
