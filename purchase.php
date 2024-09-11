@@ -219,27 +219,56 @@
           <p>$15 for 2 shirts size S through XL</p>
           <p>$15 each for size 2XL</p>
           <div class='mt-4'>
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="MB73ZB58J5LZ4">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+              <input type="hidden" name="cmd" value="_s-xclick" />
+              <input type="hidden" name="hosted_button_id" value="MB73ZB58J5LZ4" />
               <table>
                 <tr>
-                  <td><select name="os0">
-                      <option value="1 shirt size S-XL">1 shirt size S-XL $10.00 USD</option>
-                      <option value="2 shirts size S-XL">2 shirts size S-XL $15.00 USD</option>
-                      <option value="1 shirt size 2XL">1 shirt size 2XL $15.00 USD</option>
-                    </select> </td>
+                  <td>
+                    <input type="hidden" name="on0" value="IST T-shirts" />
+                    IST T-shirts
+                  </td>
                 </tr>
                 <tr>
-                  <td><input type="hidden" name="on1" value="Please enter size(s) ordered">Please enter size(s) ordered</td>
+                  <td>
+                    <select name="os0">
+                      <option value="1 shirt size S-XL">
+                        1 shirt size S-XL $10.00 USD
+                      </option>
+                      <option value="2 shirts size S-XL">
+                        2 shirts size S-XL $15.00 USD
+                      </option>
+                      <option value="1 shirt size 2XL">
+                        1 shirt size 2XL $15.00 USD
+                      </option>
+                    </select>
+                  </td>
                 </tr>
                 <tr>
-                  <td><input type="text" name="os1" maxlength="200"></td>
+                  <td>
+                    <input type="hidden" name="on1" value="Please enter size(s) ordered" />
+                    Please enter size(s) ordered
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <input type="text" name="os1" maxLength="200" />
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <input type="hidden" name="on2" value="please enter name and shipping address" />
+                    please enter name and shipping address
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <input type="text" name="os2" maxLength="200" />
+                  </td>
                 </tr>
               </table>
-              <input type="hidden" name="currency_code" value="USD">
-              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+              <input type="hidden" name="currency_code" value="USD" />
+              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
             </form>
           </div>
         </div>
@@ -262,27 +291,46 @@
           <a href="decal.jpg" data-ngthumb="decal.jpg" data-ngdesc="Ibi Semper Training Car Window Decal"></a>
         </div>
         <div class="pricing">
-          <p>Only $7 each
+          <p>Only $5 each
             <!--- <small class="text-danger">Temporarily out of stock, please check back soon.</small>-->
           </p>
           <div class="mt-4">
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-              <input type="hidden" name="cmd" value="_s-xclick">
-              <input type="hidden" name="hosted_button_id" value="XWHSE6F5PN79G">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+              <input type="hidden" name="cmd" value="_s-xclick" />
+              <input type="hidden" name="hosted_button_id" value="XWHSE6F5PN79G" />
               <table>
                 <tr>
-                  <td><input type="hidden" name="on0" value="IST car decals">IST car decals</td>
+                  <td>
+                    <input type="hidden" name="on0" value="IST car decals" />
+                    IST car decals
+                  </td>
                 </tr>
                 <tr>
-                  <td><select name="os0">
-                      <option value="1 Decal">1 Decal $7.00 USD</option>
-                      <option value="2 Decals">2 Decals $12.00 USD</option>
-                    </select> </td>
+                  <td>
+                    <select name="os0">
+                      <option value="1 Decal">
+                        1 Decal $5.00 USD
+                      </option>
+                      <option value="2 Decals">
+                        2 Decals $10.00 USD
+                      </option>
+                    </select>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <input type="hidden" name="on1" value="Please enter name and shipping address" />
+                    Please enter name and shipping address
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <input type="text" name="os1" maxLength="200" />
+                  </td>
                 </tr>
               </table>
-              <input type="hidden" name="currency_code" value="USD">
-              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-              <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+              <input type="hidden" name="currency_code" value="USD" />
+              <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
             </form>
           </div>
         </div>
