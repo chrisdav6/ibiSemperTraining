@@ -355,10 +355,29 @@
       <h2>Outreach Events</h2>
 
       <div class="row">
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <h4>No Events Scheduled - Please check back later.</h4>
-        </div>
+        </div> -->
 
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>By My Side</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/byMySide.jpg" alt="By My Side">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-1'>November 15th - 10:30am to 2:30pm</h5>
+                <h5><a class="link text-dark" href="https://maps.app.goo.gl/yz3GgpmKCr5H88Vw6" target="_blank">Hudson Valley Community College - Bulmer Telecommunications Center Auditorium</a></h5>
+                <p>Ibi Semper Training, Inc., in collaboration with Hudson Valley Community College and HVCC VETROC, is honored to present this documentary to you that follows 3 Veterans with Post Traumatic Stress injuries and their families as they lose all hope, are matched with Service Dogs which help heal and image the possible again. We will have a guest speaker from the documentary at the event and an audience interactive Q&A after the showing. Please share this event freely, share it often and wide!
+                </p>
+                <p>
+                  If you are a Veteran or First Responder or their family member, have PTS injuries, are in the Mental Health industry, are a Service Dog provider, are a business owner that serves the public, if you are interested in the topic and would like to get informed and involved in breaking the stigma associated with mental health, - this event is for you, for your family, co-workers, providers, friends, landlords, anyone you can think of! Please invite all to get informed and help make our community a better place.</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <!--
       <div class="col-12 mb-5">
