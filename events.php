@@ -359,6 +359,37 @@
           <h4>No Events Scheduled - Please check back later.</h4>
         </div> -->
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.patriothills.org/events.html" target="_blank">Hometown Heroes Halloween Festival </a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.patriothills.org/events.html" target="_blank">
+                  <img class="img-fluid" src="/public/img/hometownHeros2024.png" alt="Hometown Heroes Halloween Festival ">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 27th - 12pm to 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/zp96r8yYzzjxNsx56" target="_blank">Central Park, 500 Iroquois Way, Schenectady</a></h5>
+                <p>Patriot Hills presents a family affair with Costume Parade and contests, Kids, teens & family activities, games & prizes, Trick or Treating, food trucks and vendors as well as entertainment. Please visit <a class="link text-dark" href="https://www.patriothills.org/events.html" target="_blank">PatriotHills.org</a> for more information</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>HVCC Student Veterans Resource Fair</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/hvccFair2024.png" alt="HVCC Student Veterans Resource Fair">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 13th - 11am to 3pm -<a class="link text-dark" href="https://maps.app.goo.gl/qFheXxbjYeymMyU8A" target="_blank">Hudson Valley Community College - Siek Campus Center</a></h5>
+                <p>As part of the week long Veterans activities, Hudson Valley Community College presents its Student Veterans Resource Fair, which is designed to connect student veterans with valuable resources to support their academic and professional success. </p>
+              </div>
+            </div>
+          </div>
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
