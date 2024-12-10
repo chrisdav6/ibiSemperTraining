@@ -41,6 +41,32 @@
     <div class="container">
 
       <div class="photo-group">
+        <h2 class="mb-4">By My Side – Documentary Presentation and Panel</h2>
+        <p class="mb-4">BY My Side – PTSD Service Dogs for Veterans & First Responders was a very informative documentary presentation with a 6 member interactive panel discussion with Veteran, First Responder, Mental Health, Resource and Service Dog provider representatives. This event was a collaboration of the Veteran Resource & Outreach Center (VETROC) and Hudson Valley Community College. We were grateful that one Veteran featured in the documentary – USMC Veteran Emilio and his service dog Samson, flew in from California to join us at this event.
+        </p>
+
+        <div id="cruise2023" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/2024ByMySide/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+          <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+          <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+          <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+          <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          <a href="6.jpg" data-ngthumb="6.jpg" data-ngdesc=""></a>
+          <a href="7.jpg" data-ngthumb="7.jpg" data-ngdesc=""></a>
+          <a href="8.jpg" data-ngthumb="8.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+
+
+      <div class="photo-group">
         <h2 class="mb-4">Attending the 2024 National Service Dog Conference</h2>
         <p class="mb-4">Sonya attended the annual conference in Saint Charles, MO. There were many noteworthy classes, knowledgeable speakers and much to learn!
           Sonya received her certification for Pet CPR & First Aid and came home ready to share what she has learned.
@@ -286,7 +312,7 @@
         </div>
       </div>
 
-      <div class="photo-group">
+      <!-- <div class="photo-group">
         <h2 class="mb-4">June 23rd Service Dog Testing</h2>
         <p class="mb-4">CONGRATULATIONS to our USAF Veteran teams Christine & Pepper as well as Blair & Remington for having passed the American Kennel Club Canine Good Citizen and Canine Good Citizen Urban tests! You have worked hard and we are proud of your accomplishments! On to learning Public Access lessons.</p>
         <div id="june23Test" data-nanogallery2='{
@@ -304,7 +330,7 @@
           <a href="june23Test4.jpg" data-ngthumb="june23Test4.jpg" data-ngdesc=""></a>
           <a href="june23Test5.jpg" data-ngthumb="june23Test5.jpg" data-ngdesc=""></a>
         </div>
-      </div>
+      </div> -->
 
       <div class="photo-group">
         <h2 class="mb-4">IST Shelter Dog Adoption for 1st Responder April</h2>
@@ -364,7 +390,7 @@
         </div>
       </div>
 
-      <div class="photo-group">
+      <!-- <div class="photo-group">
         <h2 class="mb-4">Training</h2>
         <p class="mb-4">Service dogs and their humans in training</p>
         <div id="training" data-nanogallery2='{
@@ -384,7 +410,7 @@
           <a href="albanyAirport2.jpg" data-ngthumb="albanyAirport2.jpg" data-ngdesc="Service dog in training"></a>
           <a href="albanyAirport3.jpg" data-ngthumb="albanyAirport3.jpg" data-ngdesc="Loose Leash walking"></a>
         </div>
-      </div>
+      </div> -->
 
       <div class="photo-group">
         <h2 class="mb-4">Trivia Night at Katie O’Byrnes Pub</h2>
