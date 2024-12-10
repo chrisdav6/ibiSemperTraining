@@ -14,7 +14,7 @@
     text-align: center;
     background: rgba(255, 255, 255, 0.75);
     box-shadow: 0px -1px 14px -3px rgba(0, 0, 0, 0.75);
-    padding: 2em 1em;
+    padding: 2em 1em 1em 1em;
     margin: 10em 1em;
     max-width: 800px;
 
@@ -60,21 +60,33 @@
       }
 
       .newsletter {
+        position: relative;
         display: flex;
         align-items: center;
+        padding: 0.75em 1em;
         text-decoration: none;
         transition: 0.2s;
-        color: $extreme-dark-gray;
-        margin-top: 10px;
-        font-weight: bold;
+        background: $logo-blue;
+        color: white;
+        margin-top: 15px;
+        transition: 0.2s;
+
+        &:hover {
+          background: #264062;
+        }
 
         p {
           font-size: 1.5rem;
+          margin-bottom: 0;
+          margin-left: 100px;
+          line-height: 1.2;
         }
 
         img {
-          max-height: 150px;
+          position: absolute;
+          max-height: 110px;
           margin-right: 10px;
+          box-shadow: 0px -1px 14px -3px rgba(0, 0, 0, 0.75);
         }
       }
     }
