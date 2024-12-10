@@ -393,7 +393,7 @@
           <h4>No Events Scheduled - Please check back later.</h4>
         </div> -->
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.patriothills.org/events.html" target="_blank">Hometown Heroes Halloween Festival </a></h4>
             <div class="row">
@@ -408,7 +408,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
