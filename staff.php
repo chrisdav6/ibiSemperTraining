@@ -88,7 +88,7 @@
         </div>
       </div>
 
-      <div class="staffMember">
+      <!-- <div class="staffMember">
         <div class="staffImage">
           <img class="img-fluid" src="./public/img/jean.png" alt="Jean Picture">
         </div>
@@ -98,7 +98,7 @@
           <p>Jean Gannon grew up in Brooklyn and Newburgh, New York, and has lived in the City of Albany since December 2000. Jean is retired from the federal government, having worked at the United States Military Academy at West Point, NY from 1977-2000 as the Deputy Inspector General, before moving to Albany and working as a Wage and Hour Investigator for the Department of Labor from 2000-2004. She has her Associate Degree in Business Management and Bachelor Degree in Liberal Arts and is an active volunteer with Ibi Semper Training, with her primary focus on fundraising.
           </p>
         </div>
-      </div>
+      </div> -->
 
 
     </div>
