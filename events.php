@@ -393,6 +393,24 @@
           <h4>No Events Scheduled - Please check back later.</h4>
         </div> -->
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/winterFestival2025.pdf" target="_blank">Winter Festival</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/winterFestival2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/winterFestival2025.png" alt="Winter Festival">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>February 22nd - 11:00am to 4:00pm - <a class="link text-dark" href="https://maps.app.goo.gl/9KEzFHKvSxtwKrMo6" target="_blank">293 Lawson Lake Rd, Feura Bush, NY</a></h5>
+                <p>Join us for the annual Albany County Winter Festival at Lawson Lake County Park for festivities such as snowshoeing, bonfire and s’mores, ice skating, ice fishing, sled dogs and a Sheriff’s Office Ice Rescue demo. Lorraine’s Nacho Bar & More will be serving hot food, coffee and Hot Chocolate. Ibi Semper will be one of the vendors.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.patriothills.org/events.html" target="_blank">Hometown Heroes Halloween Festival </a></h4>
@@ -408,7 +426,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -444,7 +462,6 @@
           </div>
         </div>
 
-        <!--
       <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>An Adirondack Woofstock!</h4>
