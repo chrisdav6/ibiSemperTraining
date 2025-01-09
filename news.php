@@ -206,6 +206,11 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.militarytimes.com/news/2025/01/03/40-rise-in-mental-health-diagnoses-among-troops-report-finds/?utm_source=sailthru&utm_medium=email&utm_campaign=marine-dnr" target="_blank">
+        <span>January 2025</span>40% rise in mental health diagnoses among troops, report finds
+        <p>Diagnoses of mental health disorders among active-duty service members increased by nearly 40% over the last five years, according to a new Defense Health Agency report... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://apnews.com/article/ptsd-service-dogs-military-veterans-805783ec5b5ded646831fee0e88ed2da?fbclid=IwY2xjawDuPXRleHRuA2FlbQIxMQABHQlcpw43HNMdFaWnBQN1HMI9Qd4Zpu13JKg_Z-J44Hf-uEtXKCSkcJvkNA_aem_JBne9EEvWZU8AYvk0tSPYw" target="_blank">
         <span>June 2024</span>Service dogs helped ease PTSD symptoms in US military veterans, researchers say
         <p>Specially trained service dogs helped ease PTSD symptoms in U.S. military veterans in a small study that the researchers hope will help expand options for service members... (read more)</p>
