@@ -409,6 +409,22 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Woofs & Wags Pup Up Shop</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/woofAndWags2025.png" alt="Woofs & Wags Pup Up Shop">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 7th from 11am to 7pm - <a class="link text-dark" href="https://maps.app.goo.gl/6aqxmwZe3eXuH9py9" target="_blank">Colonie Center</a></h5>
+                <p>Concluding National Pet Appreciation Week (PAW) June 1-7, 2025, at Colonie Center, shop with your pet June 7th, 2025! Show your pup some love and take them for a little getaway to Colonie Center. Stop by the Ibi Semper vendor table and get your treat bags (while supplies last) from other event vendors. Several tenants throughout the mall will have pet treats and watering stations.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/winterFestival2025.pdf" target="_blank">Winter Festival</a></h4>
