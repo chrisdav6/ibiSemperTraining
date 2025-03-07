@@ -411,6 +411,22 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'>Women Veterans Recognition Day</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/WomenVeteransRecognitionDay2025.png" alt="Women Veterans Recognition Day">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 4th from 9am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/Jv6r5AACo792DPqF8" target="_blank">Albany Legislative Office</a></h5>
+                <p>This event features a woman veteran resolution and recognition in the Assembly Chamber, program with keynote speaker, vendors, and lunch.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>Woofs & Wags Pup Up Shop</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
