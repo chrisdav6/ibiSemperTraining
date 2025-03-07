@@ -96,13 +96,13 @@
             <h4 class='link'>Woof Warriors Trivia Night</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/woofWarriorsTrivia.png" alt="Woof Warriors Trivia Night">
+                <img class="img-fluid" src="/public/img/triviaGeneric.png" alt="Woof Warriors Trivia Night">
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5 class='mb-1'>January 11th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
                 <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
-                <p>Our first fundraiser for 2025 is WOOF WARRIORS Trivia Night!
-                  Please join us for a very fun evening at the Brunswick Elks Lodge with family, friends or co-workers. You can join an existing group and register as an individual for $20 or sign up as a team of 5-6 people for $100. Pre-registration is recommended for this event at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a>.
+                <p>Our last fundraiser for 2025 is WOOF WARRIORS Trivia Night!
+                  Please join us for a very fun evening at the Brunswick Elks Lodge with family, friends or co-workers. You can join an existing group and register as an individual for $20 or sign up as a team of 5-6 people for $100. Pre-registration with team names and number of participants is highly recommended prior to the event at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a>.
                 </p>
               </div>
             </div>
