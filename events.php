@@ -395,6 +395,22 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/veteransService2success2025.png" alt="veteransService2success2025">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 26th from 9am to 1:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
+                <p>The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Veterans Resource & Outreach Center, Albany County Veterans Service Bureau, Rensselaer County Veterans Service Agency, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair. Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/winterFestival2025.pdf" target="_blank">Winter Festival</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -409,7 +425,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -519,23 +535,6 @@
               <div class="col-lg-9 col-md-8">
                 <h5>May 28th - <a class="link text-dark" href="https://maps.app.goo.gl/YCJcZTbxzyZ2n9dd7" target="_blank">Joseph L. Bruno Stadium - Troy</a></h5>
                 <p>Please join us and the many fans of baseball for a night of baseball that is dedicated to our Military Health Awareness. Meet fellow members of the Military, Veterans and enjoy Vendors supporting the cause at the Joseph L. Bruno Stadium.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-          <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.mcnultycenter.org/event/veterans-serive2success-in-person-resource-and-job-fair" target="_blank">Veterans’ Service2Success Resource and Job Fair</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.mcnultycenter.org/event/veterans-serive2success-in-person-resource-and-job-fair" target="_blank">
-                  <img class="img-fluid" src="/public/img/veteransService2success2024.png" alt="veteransService2success2024">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 27th from 9am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
-                <p>We will be a vendor at this event. The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Rensselaer County Veterans Resource & Outreach Center at HVCC, Albany County, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair.</p>
               </div>
             </div>
           </div>
