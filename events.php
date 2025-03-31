@@ -93,6 +93,26 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2025.pdf" target="_blank">PTS AWARENESS RIDE</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/PTSDRIDE2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/PTSDRIDE2025.png" alt="PTS & Service Dog Awareness Ride 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>August 2nd (Rain Date 9th) - 10am - KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
+                <p>Please join us for our 5th annual PTS & Service Dog Awareness motorcycle ride at Brunswick Harley Davidson. You will be able to enjoy vendors, entertainment and we will have lunch and raffles at our end destination. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
+                <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
+                  Register Here
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>Woof Warriors Trivia Night</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -122,26 +142,6 @@
               <div class="col-lg-9 col-md-8">
                 <h5>July 21st at 12pm - <a class="link text-dark" href="https://maps.app.goo.gl/8CCddbqNwFdmMq3m8" target="_blank">Saratoga Springs City Center</a></h5>
                 <p>Bark Brew & Tattoo is a non-profit organization that plans and hosts community charity fundraising events in the upstate NY region. Join us at the 2024 Bark, Brew & Tattoo Annual Event! Proceeds of the event are donated to regional no-kill animal shelters that care for Bully breeds.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2024.pdf" target="_blank">PTS AWARENESS RIDE</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/PTSDRIDE2024.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/PTSDRIDE2024.png" alt="PTS & Service Dog Awareness Ride 2024">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>August 3rd KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
-                <p>Please join us for our 4th annual PTS & Service Dog Awareness motorcycle ride at Brunswick Harley Davidson. You will be able to enjoy vendors, entertainment and we will have lunch and raffles at our end destination. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
-                <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
-                  Register Here
-                </a>
               </div>
             </div>
           </div>
