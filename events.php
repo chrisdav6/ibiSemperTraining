@@ -411,6 +411,40 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2024-25/releases/2025_Promo_Schedule" target="_blank">Mental Health Awareness Night with the Tri-City Valley Cats</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://tcvalleycats.com/sports/bsb/2024-25/releases/2025_Promo_Schedule" target="_blank">
+                  <img class="img-fluid" src="/public/img/valleyCats.png" alt="Valley Cats Logo">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 27th - <a class="link text-dark" href="https://maps.app.goo.gl/YCJcZTbxzyZ2n9dd7" target="_blank">Joseph L. Bruno Stadium - Troy</a></h5>
+                <p>Take the family out to the ballpark for an enjoyable game of baseball and support mental health for our community. Stop by the Ibi Semper vendor table for information on Service Dogs and mental health.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/woofstock2025.pdf" target="_blank">An Adirondack Woofstock!</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a class="text-dark fund-link" href="/public/pdf/woofstock2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofStock2023.png" alt="Woof Stock 2023">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 31st - June 1st - <a class="link text-dark" href="https://goo.gl/maps/81x9tzQKMCMvpXCj9" target="_blank">Chestertown, NY</a></h5>
+                <p>This year we have two days of funky time with the Adirondack Woof Stock for a great family event with lots of animals and activities. Stop by our table and possibly meet one of our dog teams.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>Women Veterans Recognition Day</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -436,6 +470,23 @@
                 <h5>June 7th from 11am to 7pm - <a class="link text-dark" href="https://maps.app.goo.gl/6aqxmwZe3eXuH9py9" target="_blank">Colonie Center</a></h5>
                 <p>Concluding National Pet Appreciation Week (PAW) June 1-7, 2025, at Colonie Center, shop with your pet June 7th, 2025! Show your pup some love and take them for a little getaway to Colonie Center. Stop by the Ibi Semper vendor table and get your treat bags (while supplies last) from other event vendors. Several tenants throughout the mall will have pet treats and watering stations.
                 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/summerFest2025.pdf" target="_blank">Summer Festival</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/summerFest2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/summerFest2025.png" alt="Summer Fest">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 28th - <a class="link text-dark" href="https://maps.app.goo.gl/Q7qHCkexVEZZkBNr8" target="_blank">Central Park - Schenectady</a></h5>
+                <p>Hosted by Patriot Hills of NY, this event is a community favorite with lots of activities, music, vendors and more for the whole family.</p>
               </div>
             </div>
           </div>
@@ -510,21 +561,6 @@
           </div>
         </div>
 
-      <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>An Adirondack Woofstock!</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/woofStock2023.png" alt="Woof Stock 2023">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>June 8th - 9th - <a class="link text-dark" href="https://goo.gl/maps/81x9tzQKMCMvpXCj9" target="_blank">Chestertown, NY</a></h5>
-                <p>Get out your Tie-Dye and let’s travel back to 1969 at An Adirondack Woof Stock… “A Weekend of Peace, Paws & Music” It’ll be the best day of your dog’s life!</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>Military/Veteran Appreciation Night</h4>
@@ -556,21 +592,7 @@
             </div>
           </div>
         </div>
-        
-          <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>Military Health Awareness Night</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/valleyCats.png" alt="Valley Cats Logo">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>May 28th - <a class="link text-dark" href="https://maps.app.goo.gl/YCJcZTbxzyZ2n9dd7" target="_blank">Joseph L. Bruno Stadium - Troy</a></h5>
-                <p>Please join us and the many fans of baseball for a night of baseball that is dedicated to our Military Health Awareness. Meet fellow members of the Military, Veterans and enjoy Vendors supporting the cause at the Joseph L. Bruno Stadium.</p>
-              </div>
-            </div>
-          </div>
-        </div>
+      
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
