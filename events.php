@@ -395,6 +395,23 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://events.albany.edu/event/out-of-the-darkness-walk-2025" target="_blank">Out of the Darkness Walk 2025</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/outOfDarknessWalk2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/outOfDarknessWalk2025.png" alt="Out of the Darkness Walk">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 12th - 12pm to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/VuvxF2GJmbmu9zMW7" target="_blank">UAlbany - Entry Plaza</a></h5>
+                <p>Come join us and support our local community and health. You don’t need to be a student of UAlbany to participate. This event is open to the public.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -830,7 +847,7 @@
 
       <div class="row">
 
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.healthydogexpo.com" target="_blank">Healthy Dog Expo</a></h4>
             <div class="row">
@@ -845,7 +862,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
