@@ -64,7 +64,7 @@
           <img src="https://widgets.guidestar.org/TransparencySeal/9882055" />
         </a>
       </p>
-      <p>We’re excited to share that our organization has earned a 2024 Silver Seal of Transparency with Candid! Now, you can support our work with trust and confidence by viewing our <a class="silverLink" href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target='_blank'>#NonprofitProfile</a></p>
+      <p>We’re excited to share that our organization has earned a 2025 Gold Seal of Transparency with Candid! Now, you can support our work with trust and confidence by viewing our <a class="silverLink" href="https://www.guidestar.org/profile/shared/ab68fa10-a82b-4dd8-bbb9-b18c8891e3d6" target='_blank'>#NonprofitProfile</a></p>
     </div>
   </section>
 
