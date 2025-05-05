@@ -494,6 +494,23 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/PTSDServiceDogWorkshop2025.pdf" target="_blank">PTSD &amp; Service Dog Workshop </a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/PTSDServiceDogWorkshop2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/serviceDogWorkshop2025.jpg" alt="Service Dog Workshop">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 7th - 2pm to 5pm - <a class="link text-dark" href="https://maps.app.goo.gl/yz3GgpmKCr5H88Vw6" target="_blank">HVCC - Bulmer Center Auditorium</a></h5>
+                <p>Sonya Ward, Founder & Trainer for Ibi Semper Training, Inc., will facilitate a PTSD Workshop and explain the services she provides for free to Vets & First Responders. Some of her graduates, with their Service Dogs, will be present. The Workshop also includes the viewing of a documentary, “By My Side.” It has appeared in 40+ film festivals, won 10 awards, and has had over 25 community screenings! Also, Andrew S. Berry, Ph.D., Psy.D., ABPP - a subject matter expert on PTSD - will give a riveting one hour presentation followed by a Panel Discussion with other local resource providers. A boxed meal will be provided and a special Tour of The Wall That Heals will be conducted. Registration is required.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="/public/pdf/summerFest2025.pdf" target="_blank">Summer Festival</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
