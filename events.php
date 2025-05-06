@@ -77,6 +77,25 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/workoutFundraiser2025.pdf" target="_blank">Workout Fundraiser</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/workoutFundraiser2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/workoutFundraiser2025.png" alt="IBI Semper Training Workout Fundraiser 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>June 21st at 7:30am and 9am - <a class="link text-dark" href="https://maps.app.goo.gl/q8AGttz8R6R2teJJ8" target="_blank">CrossFit for the People, 24A Lishakill Rd, Albany</a></h5>
+                <p>Get pumped and start the day with a friendly group of people! Bring your family, friends, co-workers and other like-minded people for a great way to get
+                  ready for your day. Two sessions - at 7:30am and at 9am on June 21st. Be there or be square. Thank you for your continued support!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/PTSDRIDE2025.pdf" target="_blank">PTS AWARENESS RIDE</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -405,6 +424,24 @@
               <div class="col-lg-9 col-md-8">
                 <h5>May 27th - <a class="link text-dark" href="https://maps.app.goo.gl/YCJcZTbxzyZ2n9dd7" target="_blank">Joseph L. Bruno Stadium - Troy</a></h5>
                 <p>Take the family out to the ballpark for an enjoyable game of baseball and support mental health for our community. Stop by the Ibi Semper vendor table for information on Service Dogs and mental health.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/womenVeteransEngage2025.pdf" target="_blank">Women Veterans Engage</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/womenVeteransEngage2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/womenVeteransEngage2025.png" alt="Women Veterans Engage 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 31st at 9am to 4:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/36uAxXXuwmaPDWiVA" target="_blank">Celtic Hall, 430 New Karner Rd, Albany</a></h5>
+                <p>This conference creates opportunities for women Veterans to connect, engage and grow by providing resources, building relationships and support.
+                </p>
               </div>
             </div>
           </div>
