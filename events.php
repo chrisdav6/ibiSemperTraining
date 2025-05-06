@@ -46,22 +46,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>IST 2025 Calendar - $25 Each</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/istCalendar2025.png" alt="IST Calendar 2025">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCalendar2025.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>Need a new 2025 Calendar – or a dog lover’s Christmas present? Try our own IST Service Dog Calendar and support local Veterans, First Responders and shelter dogs. Please order here: <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with quantities and contact information. We accept Venmo/PayPal/credit card. Order yours now!
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4 class='link'>IST Cookbook</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -130,6 +114,22 @@
         </div>
 
         <!-- 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST 2025 Calendar - $25 Each</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/istCalendar2025.png" alt="IST Calendar 2025">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCalendar2025.pdf" target="_blank">Sneak Peek Here</a></h5>
+                <p>Need a new 2025 Calendar – or a dog lover’s Christmas present? Try our own IST Service Dog Calendar and support local Veterans, First Responders and shelter dogs. Please order here: <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with quantities and contact information. We accept Venmo/PayPal/credit card. Order yours now!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org/events" target="_blank">Bark Brew & Tattoo 2024</a></h4>
@@ -395,39 +395,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://events.albany.edu/event/out-of-the-darkness-walk-2025" target="_blank">Out of the Darkness Walk 2025</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="/public/pdf/outOfDarknessWalk2025.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/outOfDarknessWalk2025.png" alt="Out of the Darkness Walk">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 12th - 12pm to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/VuvxF2GJmbmu9zMW7" target="_blank">UAlbany - Entry Plaza</a></h5>
-                <p>Come join us and support our local community and health. You don’t need to be a student of UAlbany to participate. This event is open to the public.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/veteransService2success2025.png" alt="veteransService2success2025">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 26th from 9am to 1:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
-                <p>The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Veterans Resource & Outreach Center, Albany County Veterans Service Bureau, Rensselaer County Veterans Service Agency, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair. Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2024-25/releases/2025_Promo_Schedule" target="_blank">Mental Health Awareness Night with the Tri-City Valley Cats</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -526,7 +493,41 @@
           </div>
         </div>
 
-        <!-- <div class="col-12 mb-5">
+        <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://events.albany.edu/event/out-of-the-darkness-walk-2025" target="_blank">Out of the Darkness Walk 2025</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/outOfDarknessWalk2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/outOfDarknessWalk2025.png" alt="Out of the Darkness Walk">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 12th - 12pm to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/VuvxF2GJmbmu9zMW7" target="_blank">UAlbany - Entry Plaza</a></h5>
+                <p>Come join us and support our local community and health. You don’t need to be a student of UAlbany to participate. This event is open to the public.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/veteransService2success2025.png" alt="veteransService2success2025">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 26th from 9am to 1:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
+                <p>The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Veterans Resource & Outreach Center, Albany County Veterans Service Bureau, Rensselaer County Veterans Service Agency, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair. Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/winterFestival2025.pdf" target="_blank">Winter Festival</a></h4>
             <div class="row">
