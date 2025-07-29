@@ -40,6 +40,30 @@
   <div id="news" class="secondary-content mt-4 mb-2">
 
     <div class="container">
+      <a class="newsItem" href="https://www.timesunion.com/news/article/duty-calls-motorcycle-ride-aid-training-service-20787668.php" target="_blank">
+        <span>July 2024</span>Duty Calls: Motorcycle ride to aid training service dogs for veterans.
+        <p>Participants in the fifth annual PTSD and Service Dog Awareness Motorcycle Ride can help ibi Simper Training to enable veterans, first responders and their dogs to prevent Post Traumatic Stress Disorder relapses. (read more)</p>
+      </a>
+
+      <div class="mt-4 mb-5">
+        <div id="sonya2" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/ptsdAwarenessRideArticle2025/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+          <a href="ptsd2025-1.jpg" data-ngthumb="ptsd2025-1.jpg" data-ngdesc=""></a>
+          <a href="ptsd2025-2.jpg" data-ngthumb="ptsd2025-2.jpg" data-ngdesc=""></a>
+          <a href="ptsd2025-3.jpg" data-ngthumb="ptsd2025-3.jpg" data-ngdesc=""></a>
+          <a href="ptsd2025-4.jpg" data-ngthumb="ptsd2025-4.jpg" data-ngdesc=""></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
       <a class="newsItem" href="https://nyassembly.gov/mem/Phil-Steck/story/110544" target="_blank">
         <span>May 2024</span>Sonya Ward was nominated and honored for her work with Veterans and First Responders
         <p>as one of nine amazing women in the NY’s 110th District at the second Assemblymember Phil Steck’s Women of Distinction Awards ceremony. This annual event honors women whose work makes the community a better place to live in. (read more)</p>
