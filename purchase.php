@@ -65,6 +65,31 @@
         </div>
       </div> -->
 
+      <div class="purchase-group">
+        <h2 class="mb-4">IBI 2026 Calendar</h2>
+        <div class="info">
+          <h5>Available Now Until Supplies Last - $22</h5>
+          <p class="mb-3">Check out the new IBI 2026 Calendar. This would make a great gift for the all the pup lovers out there!<br />Please contact <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IBI 2026 Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> to order yours before supplies run out.</p>
+
+
+          <div id="2026Calendar" data-nanogallery2='{
+          "itemsBaseURL": "./public/img/gallery/2026calendar/",
+          "thumbnailWidth": "200",
+          "thumbnailAlignment": "left",
+          "thumbnailBorderHorizontal": "1",
+          "thumbnailBorderVertical": "1",
+          "thumbnailGutterWidth": 10,
+          "thumbnailGutterHeight": 10
+        }'>
+            <a href="1.jpg" data-ngthumb="1.jpg" data-ngdesc=""></a>
+            <a href="2.jpg" data-ngthumb="2.jpg" data-ngdesc=""></a>
+            <a href="3.jpg" data-ngthumb="3.jpg" data-ngdesc=""></a>
+            <a href="4.jpg" data-ngthumb="4.jpg" data-ngdesc=""></a>
+            <a href="5.jpg" data-ngthumb="5.jpg" data-ngdesc=""></a>
+          </div>
+        </div>
+      </div>
+
       <div class="silver">
         <h2 class="mb-4">Silver Seal of Transparency</h2>
         <div class="silverBody">

@@ -46,7 +46,7 @@
       </a>
 
       <div class="mt-4 mb-5">
-        <div id="sonya2" data-nanogallery2='{
+        <div id="ptsd2025" data-nanogallery2='{
           "itemsBaseURL": "./public/img/gallery/ptsdAwarenessRideArticle2025/",
           "thumbnailWidth": "200",
           "thumbnailAlignment": "left",
