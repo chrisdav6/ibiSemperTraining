@@ -75,6 +75,27 @@
           </div>
         </div>
 
+
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Woof Warriors Trivia Night</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/triviaGeneric.png" alt="Woof Warriors Trivia Night">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-1'>November 8th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
+                <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
+                <p>Our last fundraiser for 2025 is WOOF WARRIORS Trivia Night!
+                  Please join us for a very fun evening at the Brunswick Elks Lodge with family, friends or co-workers. You can join an existing group and register as an individual for $20 or sign up as a team of 5-6 people for $100. Pre-registration with team names and number of participants is highly recommended prior to the event at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a>.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/workoutFundraiser2025.pdf" target="_blank">Workout Fundraiser</a></h4>
@@ -113,26 +134,7 @@
             </div>
           </div>
         </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>Woof Warriors Trivia Night</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/triviaGeneric.png" alt="Woof Warriors Trivia Night">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5 class='mb-1'>November 8th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
-                <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
-                <p>Our last fundraiser for 2025 is WOOF WARRIORS Trivia Night!
-                  Please join us for a very fun evening at the Brunswick Elks Lodge with family, friends or co-workers. You can join an existing group and register as an individual for $20 or sign up as a team of 5-6 people for $100. Pre-registration with team names and number of participants is highly recommended prior to the event at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a>.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>IST 2025 Calendar - $25 Each</h4>
@@ -414,6 +416,42 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/TributeBikeShow2025.pdf" target="_blank">9/11 Tribute Vehicle & Bike Show</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/TributeBikeShow2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/tributeBikeShow2025.png" alt="Bike Show Logo">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 12th at 4pm to 11pm - <a class="link text-dark" href="https://maps.app.goo.gl/P3fiJ262bM6C3ikL9" target="_blank">Cobleskill Fair Grounds</a></h5>
+                <p>The Day after one of the darkest days in American history – this country stood shoulder to shoulder. We set our difference aside and became one. This event is a tribute to that unity. This event calls on the car community, families, Veterans, First Responders, and Patriots of all ages to come together for an evening that honors the fallen, celebrates the Brave and supports the ones still serving.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://fcrspca.org/woofstock" target="_blank">Annual Woofstock</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a class="text-dark fund-link" href="https://fcrspca.org/woofstock" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofstockCaroga2025.png" alt="Woof Stock 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 13th - <a class="link text-dark" href="https://maps.app.goo.gl/xHUaiWUaTzQbLHTH7" target="_blank">Caroga Arts Collective</a></h5>
+                <p>Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a dog-friendly music and arts festival to benefit Fulton County Regional SPCA! Join us at the historic former Sherman’s Amusement Park campus for a full day of music, art, and activities for the entire family (dogs too)! This incredible venue boasts 7.5 acres of open ground with stunning views of the lake and mountains! A full day of live music, Raffles/silent auction, Food trucks, Beer tasting, Non-musical performers, Vendors, Dog-friendly fun AND MORE!!”
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2024-25/releases/2025_Promo_Schedule" target="_blank">Mental Health Awareness Night with the Tri-City Valley Cats</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -529,8 +567,7 @@
             </div>
           </div>
         </div>
-
-        <!--
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://events.albany.edu/event/out-of-the-darkness-walk-2025" target="_blank">Out of the Darkness Walk 2025</a></h4>
