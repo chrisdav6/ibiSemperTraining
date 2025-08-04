@@ -442,7 +442,25 @@
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>September 13th - <a class="link text-dark" href="https://maps.app.goo.gl/xHUaiWUaTzQbLHTH7" target="_blank">Caroga Arts Collective</a></h5>
-                <p>Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a dog-friendly music and arts festival to benefit Fulton County Regional SPCA! Join us at the historic former Sherman’s Amusement Park campus for a full day of music, art, and activities for the entire family (dogs too)! This incredible venue boasts 7.5 acres of open ground with stunning views of the lake and mountains! A full day of live music, Raffles/silent auction, Food trucks, Beer tasting, Non-musical performers, Vendors, Dog-friendly fun AND MORE!!”
+                <p>Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a dog-friendly music and arts festival to benefit Fulton County Regional SPCA! Join us at the historic former Sherman’s Amusement Park campus for a full day of music, art, and activities for the entire family (dogs too)! This incredible venue boasts 7.5 acres of open ground with stunning views of the lake and mountains! A full day of live music, Raffles/silent auction, Food trucks, Beer tasting, Non-musical performers, Vendors, Dog-friendly fun AND MORE!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.nyscanineexpo.com" target="_blank">New York State Canine Expo</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a class="text-dark fund-link" href="public/pdf/canineExpo2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/canineExpo2025.png" alt="Canine Expo 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 27th at 10am to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/P3fiJ262bM6C3ikL9" target="_blank">Cobleskill Fair Grounds</a></h5>
+                <p>The NYS Canine Expo is and educational opportunity to learn what motivates your dog. The two day event schedule will be packed with demonstrations, fun runs, trials, workshops and speakers covering a wide array of canine topics.
                 </p>
               </div>
             </div>
