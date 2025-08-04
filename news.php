@@ -41,7 +41,7 @@
 
     <div class="container">
       <a class="newsItem" href="https://www.timesunion.com/news/article/duty-calls-motorcycle-ride-aid-training-service-20787668.php" target="_blank">
-        <span>July 2024</span>Duty Calls: Motorcycle ride to aid training service dogs for veterans.
+        <span>July 2025</span>Duty Calls: Motorcycle ride to aid training service dogs for veterans.
         <p>Participants in the fifth annual PTSD and Service Dog Awareness Motorcycle Ride can help ibi Simper Training to enable veterans, first responders and their dogs to prevent Post Traumatic Stress Disorder relapses. (read more)</p>
       </a>
 
