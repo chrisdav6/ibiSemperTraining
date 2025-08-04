@@ -984,8 +984,8 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>July 13th - 16th, 2025 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
-                <p>The annual conference consists of two full days of conference formatting for administrative, veterans & first responders, mental health & dog training tracks. Join us Tuesday, July 15-16, 2025, at the St. Charles Convention Center in St. Louis, Missouri. This year, we are also including seminars & workshops prior to our conference. A 1-day Cynopraxic Training Principles Seminar with Steven Lindsay will take place on Sunday, Jul 13, 2025, and on Monday, July 14, 2025, there will be a Mental Health First Aid Workshop & Pet Tech Dog CPR & First Aid Certification.</p>
+                <h5>July 13th - 16th, 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
+                <p>The annual conference consists of two full days of conference formatting for administrative, veterans & first responders, mental health & dog training tracks. Join us Tuesday, July 15-16, 2026, at the St. Charles Convention Center in St. Louis, Missouri. This year, we are also including seminars & workshops prior to our conference. A 1-day Cynopraxic Training Principles Seminar with Steven Lindsay will take place on Sunday, Jul 13, 2025, and on Monday, July 14, 2025, there will be a Mental Health First Aid Workshop & Pet Tech Dog CPR & First Aid Certification.</p>
               </div>
             </div>
           </div>
