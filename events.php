@@ -416,6 +416,42 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.nyscanineexpo.com" target="_blank">New York State Canine Expo</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a class="text-dark fund-link" href="public/pdf/canineExpo2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/canineExpo2025.png" alt="Canine Expo 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 27th at 10am to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/P3fiJ262bM6C3ikL9" target="_blank">Cobleskill Fair Grounds</a></h5>
+                <p>The NYS Canine Expo is and educational opportunity to learn what motivates your dog. The two day event schedule will be packed with demonstrations, fun runs, trials, workshops and speakers covering a wide array of canine topics.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/BarkAlbany" target="_blank">Bark For Life of Albany-Colonie Howl-O-Ween at HopeClub</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/BarkAlbany" target="_blank">
+                  <img class="img-fluid" src="/public/img/HowlOWeen2025.png" alt="Howl-O-Ween 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>October 4th at 10am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/expZ4nPY3Xj7FCAp9" target="_blank">HopeClub - 1 Penny Ln. Latham, NY</a></h5>
+                <p>Help support the fight against cancer and celebrate the caregiving qualities of our canine companions by visiting the Bark For Life of Albany-Colonie Howl-O-Ween event at the HopeClub. Ibi Semper Training will be tabling at this family event.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/TributeBikeShow2025.pdf" target="_blank">9/11 Tribute Vehicle & Bike Show</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -449,25 +485,6 @@
           </div>
         </div>
 
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.nyscanineexpo.com" target="_blank">New York State Canine Expo</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a class="text-dark fund-link" href="public/pdf/canineExpo2025.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/canineExpo2025.png" alt="Canine Expo 2025">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>September 27th at 10am to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/P3fiJ262bM6C3ikL9" target="_blank">Cobleskill Fair Grounds</a></h5>
-                <p>The NYS Canine Expo is and educational opportunity to learn what motivates your dog. The two day event schedule will be packed with demonstrations, fun runs, trials, workshops and speakers covering a wide array of canine topics.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2024-25/releases/2025_Promo_Schedule" target="_blank">Mental Health Awareness Night with the Tri-City Valley Cats</a></h4>
