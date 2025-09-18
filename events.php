@@ -79,10 +79,12 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>Woof Warriors Trivia Night</h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/WoofWarriorsTriviaNight2025.pdf" target="_blank">Woof Warriors Trivia Night</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/triviaGeneric.png" alt="Woof Warriors Trivia Night">
+                <a href="public/pdf/WoofWarriorsTriviaNight2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofWarriorsTrivia2025.png" alt="Woof Warriors Trivia Night">
+                </a>
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5 class='mb-1'>November 8th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
@@ -424,7 +426,7 @@
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>September 27th at 10am to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/P3fiJ262bM6C3ikL9" target="_blank">Cobleskill Fair Grounds</a></h5>
+                <h5>September 27th - 28th - <a class="link text-dark" href="https://maps.app.goo.gl/P3fiJ262bM6C3ikL9" target="_blank">Cobleskill Fair Grounds</a></h5>
                 <p>The NYS Canine Expo is and educational opportunity to learn what motivates your dog. The two day event schedule will be packed with demonstrations, fun runs, trials, workshops and speakers covering a wide array of canine topics.
                 </p>
               </div>
@@ -997,12 +999,12 @@
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
                 <a href="https://servicedogs4vets.org/conference" target="_blank">
-                  <img class="img-fluid" src="/public/img/nationalServiceDogsConference2025.png" alt="National Service Dog for Veterans Conference">
+                  <img class="img-fluid" src="/public/img/nationalServiceDogsConference2026.png" alt="National Service Dog for Veterans Conference">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>July 13th - 16th, 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
-                <p>The annual conference consists of two full days of conference formatting for administrative, veterans & first responders, mental health & dog training tracks. Join us Tuesday, July 15-16, 2026, at the St. Charles Convention Center in St. Louis, Missouri. This year, we are also including seminars & workshops prior to our conference. A 1-day Cynopraxic Training Principles Seminar with Steven Lindsay will take place on Sunday, Jul 13, 2025, and on Monday, July 14, 2025, there will be a Mental Health First Aid Workshop & Pet Tech Dog CPR & First Aid Certification.</p>
+                <h5>July 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
+                <p>The annual conference consists of two full days of conference formatting for administrative, veterans & first responders, mental health & dog training tracks. Join us July 2026, at the St. Charles Convention Center in St. Louis, Missouri. This year, we are also including seminars & workshops prior to our conference.</p>
               </div>
             </div>
           </div>
