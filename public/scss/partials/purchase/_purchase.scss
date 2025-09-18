@@ -3,22 +3,22 @@
     margin-bottom: 3em;
   }
 
-  .silver {
+  .gold {
     margin-bottom: 4em;
 
     h2 {
       display: inline-block;
-      background: rgb(167, 167, 167);
-      color: #000;
+      background: #d3aa41;
+      color: #fff;
       padding: 0.5em 1em;
     }
 
-    .silverBody {
+    .goldBody {
       display: flex;
       justify-content: center;
       align-items: center;
 
-      .silverText {
+      .goldText {
         margin-left: 1em;
       }
     }
