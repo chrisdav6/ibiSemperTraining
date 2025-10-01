@@ -451,6 +451,24 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/wiltonElks2025.pdf" target="_blank">Saratoga-Wilton Elks Veteran Stand-Down</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/wiltonElks2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/wiltonElks.jpg" alt="Wilton Elks">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 16th at 9am to 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MmrSGh7LLEcrnxgD6" target="_blank">Saratoga-Wilton Elks Lodge #161 - 1 Elks Lane</a></h5>
+                <p>Saratoga-Wilton Elks #161 will host a Stand-Down for Veterans at our lodge. Exhibitors will provide free Haircuts, Medical/Dental screening, Veterans benefits, Food, Clothing, Toiletries, Housing opportunities, Financial Assistance, and much more. Event is for all veterans, Veteran Networking, and the Community that supports Veterans.</p>
+                <p>For more information, please call Dom Dominguez: 808-352-6477.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
