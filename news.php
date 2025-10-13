@@ -230,6 +230,11 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.news-medical.net/news/20251007/Working-with-service-dogs-may-help-slow-biological-aging-in-female-veterans.aspx?fbclid=IwY2xjawNXs0xleHRuA2FlbQIxMABicmlkETFGUUd6QWlOMXhETHBNU2xHAR7dGap4lBpBS18EN6kXRgIN_TfkzcU-llxEL4W0_WF7fhWNL3HY_Szfd09fBQ_aem_mDO6OuEOi2CsfxTIqN7_Gg" target="_blank">
+        <span>October 2025</span>Working with service dogs may help slow biological aging in female veterans
+        <p>New research finds that "man's best friend" may help slow biological aging in women. This groundbreaking study, focused on female veterans in the United States, is among the first to examine the impact of working with service dogs on this often-overlooked population... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.militarytimes.com/news/2025/01/03/40-rise-in-mental-health-diagnoses-among-troops-report-finds/?utm_source=sailthru&utm_medium=email&utm_campaign=marine-dnr" target="_blank">
         <span>January 2025</span>40% rise in mental health diagnoses among troops, report finds
         <p>Diagnoses of mental health disorders among active-duty service members increased by nearly 40% over the last five years, according to a new Defense Health Agency report... (read more)</p>
