@@ -418,6 +418,43 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/veteranLawDay2025.pdf" target="_blank">2025 Annual Pro Bono Veteran Law Day</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a class="text-dark fund-link" href="public/pdf/veteranLawDay2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/veteranLawDay2025.png" alt="Veteran Law Day 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 15th at 8:30am to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/HZZ2N9kmpwX2M7wh7" target="_blank">Albany Law School</a></h5>
+                <p>During this event, Veterans will be able to speak to local attorneys for free limited-scope counseling, gain access to valuable resources and enjoy a complimentary meal. Please register at <a class="link text-dark" href="https://bit.ly/42zeltu" target="_blank">https://bit.ly/42zeltu</a> or email <a class="link text-dark" href="mailto:kgregory@albanylaw.org?subject=Annual Pro Bono Veteran Law Day Registration" target="_blank">kgregory@albanylaw.org</a>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/wiltonElks2025.pdf" target="_blank">Saratoga-Wilton Elks Veteran Stand-Down</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/wiltonElks2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/wiltonElks.jpg" alt="Wilton Elks">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 16th at 9am to 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MmrSGh7LLEcrnxgD6" target="_blank">Saratoga-Wilton Elks Lodge #161 - 1 Elks Lane</a></h5>
+                <p>Saratoga-Wilton Elks #161 will host a Stand-Down for Veterans at our lodge. Exhibitors will provide free Haircuts, Medical/Dental screening, Veterans benefits, Food, Clothing, Toiletries, Housing opportunities, Financial Assistance, and much more. Event is for all veterans, Veteran Networking, and the Community that supports Veterans.</p>
+                <p>For more information, please call Dom Dominguez: 808-352-6477.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.nyscanineexpo.com" target="_blank">New York State Canine Expo</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -450,26 +487,7 @@
             </div>
           </div>
         </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/wiltonElks2025.pdf" target="_blank">Saratoga-Wilton Elks Veteran Stand-Down</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/wiltonElks2025.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/wiltonElks.jpg" alt="Wilton Elks">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>November 16th at 9am to 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MmrSGh7LLEcrnxgD6" target="_blank">Saratoga-Wilton Elks Lodge #161 - 1 Elks Lane</a></h5>
-                <p>Saratoga-Wilton Elks #161 will host a Stand-Down for Veterans at our lodge. Exhibitors will provide free Haircuts, Medical/Dental screening, Veterans benefits, Food, Clothing, Toiletries, Housing opportunities, Financial Assistance, and much more. Event is for all veterans, Veteran Networking, and the Community that supports Veterans.</p>
-                <p>For more information, please call Dom Dominguez: 808-352-6477.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!--
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/TributeBikeShow2025.pdf" target="_blank">9/11 Tribute Vehicle & Bike Show</a></h4>
