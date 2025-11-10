@@ -436,6 +436,24 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/HometownHeroes2025.pdf" target="_blank">Hometown Heroes Dinner and Resources Fair</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a class="text-dark fund-link" href="/public/pdf/HometownHeroes2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/HometownHeroes2025.png" alt="Hometown Heroes 2025">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 16th at 12pm to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/oaFLaG8YYbCTZyxC6" target="_blank">Rotterdam Elks Lodge #2157</a></h5>
+                <p>Free to attend. Military Veteran Service Organizations & Agencies will be setting up tables to share information & resources available. Speakers: Peter and Zach Clouse, Major General Fergal Foley (Retired), Major Denise Sherman (Retired) and Andrew “Doc” Berry, APA Fellow. Please bring canned goods and personal care items or gently used coats. Ibi Semper will be tabling from 2-4pm
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/wiltonElks2025.pdf" target="_blank">Saratoga-Wilton Elks Veteran Stand-Down</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
