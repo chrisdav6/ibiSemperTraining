@@ -46,6 +46,22 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'>IST 2026 Calendar - $22 Each</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/istCalendar2026.png" alt="IST Calendar 2026">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCalendar2026.pdf" target="_blank">Sneak Peek Here</a></h5>
+                <p>Here is the perfect Christmas gift for the office and family. All dogs are Service Dogs that were either in the program, have graduated or been adopted through our program. Please order here: <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with quantities and contact information. We accept Venmo/PayPal/credit card. Order yours now!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4 class='link'>IST Cookbook</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -132,22 +148,6 @@
                 <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
                   Register Here
                 </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>IST 2025 Calendar - $25 Each</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/istCalendar2025.png" alt="IST Calendar 2025">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCalendar2025.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>Need a new 2025 Calendar – or a dog lover’s Christmas present? Try our own IST Service Dog Calendar and support local Veterans, First Responders and shelter dogs. Please order here: <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with quantities and contact information. We accept Venmo/PayPal/credit card. Order yours now!
-                </p>
               </div>
             </div>
           </div>
