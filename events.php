@@ -91,23 +91,18 @@
           </div>
         </div>
 
-
-
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/WoofWarriorsTriviaNight2025.pdf" target="_blank">Woof Warriors Trivia Night</a></h4>
+            <h4><a class="text-dark fund-link" href="public/pdf/NathansCelebration2026.pdf" target="_blank">Nathan’s Celebration of Life</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/WoofWarriorsTriviaNight2025.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/woofWarriorsTrivia2025.png" alt="Woof Warriors Trivia Night">
+                <a href="public/pdf/NathansCelebration2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/nathan2026.png" alt="Nathans Celebration of Life">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5 class='mb-1'>November 8th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
-                <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
-                <p>Our last fundraiser for 2025 is WOOF WARRIORS Trivia Night!
-                  Please join us for a very fun evening at the Brunswick Elks Lodge with family, friends or co-workers. You can join an existing group and register as an individual for $20 or sign up as a team of 5-6 people for $100. Pre-registration with team names and number of participants is highly recommended prior to the event at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a>.
-                </p>
+                <h5>January 31st at 1pm - 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/wBKz5MibPpjQzpo67" target="_blank">American Legion #1092 - Schenectady, NY</a></h5>
+                <p>For his 10 year Angelversary, please join us to celebrate Nathan’s Celebration of Life and honor one of our local Servicemember. Reminisce and learn about the person that was a born leader, outgoing and loved by both his families. Lite fare will be provided along a cash bar, raffle baskets and silent auction are to win and Ibi Semper will do a Service Dog presentation.</p>
               </div>
             </div>
           </div>
@@ -133,7 +128,27 @@
           </div>
         </div>
 
-        <!-- 
+        <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/WoofWarriorsTriviaNight2025.pdf" target="_blank">Woof Warriors Trivia Night</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/WoofWarriorsTriviaNight2025.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofWarriorsTrivia2025.png" alt="Woof Warriors Trivia Night">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-1'>November 8th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
+                <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
+                <p>Our last fundraiser for 2025 is WOOF WARRIORS Trivia Night!
+                  Please join us for a very fun evening at the Brunswick Elks Lodge with family, friends or co-workers. You can join an existing group and register as an individual for $20 or sign up as a team of 5-6 people for $100. Pre-registration with team names and number of participants is highly recommended prior to the event at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a>.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/workoutFundraiser2025.pdf" target="_blank">Workout Fundraiser</a></h4>
@@ -412,10 +427,11 @@
       <h2>Outreach Events</h2>
 
       <div class="row">
-        <!-- <div class="col-12 mb-5">
+        <div class="col-12 mb-5">
           <h4>No Events Scheduled - Please check back later.</h4>
-        </div> -->
+        </div>
 
+        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/veteranLawDay2025.pdf" target="_blank">2025 Annual Pro Bono Veteran Law Day</a></h4>
@@ -470,7 +486,6 @@
           </div>
         </div>
 
-        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.nyscanineexpo.com" target="_blank">New York State Canine Expo</a></h4>
