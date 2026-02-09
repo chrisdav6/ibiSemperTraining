@@ -429,8 +429,24 @@
       <h2>Outreach Events</h2>
 
       <div class="row">
-        <div class="col-12 mb-5">
+        <!-- <div class="col-12 mb-5">
           <h4>No Events Scheduled - Please check back later.</h4>
+        </div> -->
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/veteransService2success2026.png" alt="veteransService2success2026">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 18th, 2026 - Location - TBD</a></h5>
+                <p>Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <!--
@@ -692,22 +708,6 @@
             </div>
           </div>
         </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/veteransService2success2025.png" alt="veteransService2success2025">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 26th from 9am to 1:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/7HMskQh1P9YFRTLg6" target="_blank">Hudson Valley Community College, Siek Campus Center - Troy</a></h5>
-                <p>The McNulty Veteran Business Center, the area’s preeminent Veteran entrepreneurship resource is partnering with the Veterans Resource & Outreach Center, Albany County Veterans Service Bureau, Rensselaer County Veterans Service Agency, and Schenectady County Veterans Peer to Peer Program to offer the Veterans’ Service2Success Resource and Job Fair. Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors, and includes lunch.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
         
         <div class="col-12 mb-5">
           <div class="longFundraiser">
@@ -805,24 +805,6 @@
               <div class="col-lg-9 col-md-8">
                 <h5>June 15th - 10am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/g21oUt7dqYyUEBtb6" target="_blank">Curtis Lumber - 885 NY-67, Ballston Spa</a></h5>
                 <p>Please join us for a fun family Saturday in Ballston Spa for a One-Day Shelter/Rescue Pet Adoption and everything animal related Day In Upstate, NY! This is the 14th year of pet adoptions and we will look forward to greeting you there.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">Suicide Awareness Ride</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/crazytrain.ridersclub" target="_blank">
-                  <img class="img-fluid" src="/public/img/crazyTrain.jpg" alt="Crazytrain Riders Club">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>May 4th - KSU at 12pm - <a class="link text-dark" href="https://maps.app.goo.gl/SHZKZCupfKMjFZeX8" target="_blank">American Legion - Hudson Falls</a></h5>
-                <p>Crazytrain RC has invited us back for the 4th year as a vendor at their Suicide Awareness Ride. We are grateful to attend and hope to see you there. If you ride, join in and support Suicide Awareness and Suicide Prevention.</p>
               </div>
             </div>
           </div>
@@ -1005,24 +987,6 @@
             </div>
           </div>
         </div>        
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org/events" target="_blank">Bark, Brew & Tattoo</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.barkbrewtattoo.org/events" target="_blank">
-                  <img class="img-fluid" src="/public/img/barkBrew2022.png" alt="Bark, Brew & Tattoo">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>September 25th - 12pm to 6pm - <a class="link text-dark" href="https://goo.gl/maps/fijx1hRVHMLQe65Y7" target="_blank">Saratoga Springs City Center</a></h5>
-                <p>This Community Charity Fundraising event is dedicated to ending the negative stigma attached to Bully breed dogs, such as American Pit Bull Terriers, Staffordshire Terriers, American Bulldogs and the like.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> 
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
