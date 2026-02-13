@@ -469,6 +469,22 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4 class='link'>Women Veteran Recognition Day</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/womenVeteransDay2026.png" alt="Women Veteran Recognition Day ">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 28th, 2026 - 9am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/nPGZRe7xtBJjY7yQ9" target="_blank">Albany Legislative Building</a></h5>
+                <p>Celebrate the Annual Women Veterans Recognition Day in Albany. We will once again celebrate women veterans from all over New York State on Thursday, May 28th.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.clpetapalooza.com" target="_blank">Curtis Lumber's PetAPalooza 2026</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
