@@ -441,8 +441,26 @@
                 <img class="img-fluid" src="/public/img/veteransService2success2026.png" alt="veteransService2success2026">
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>April 18th, 2026 - Location - TBD</a></h5>
+                <h5>April 18th, 2026 - Location - TBD</h5>
                 <p>Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://glensfallscollaborative.com/pet-fest" target="_blank">Glens Falls Pet Fest</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://glensfallscollaborative.com/pet-fest" target="_blank">
+                  <img class="img-fluid" src="/public/img/glensFallsPetFest2026.png" alt="Glens Falls Pet Fest">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 17th, 2026 - 11am to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/16Miqc9wxawHsJcr9" target="_blank">Glens Falls City Park</a></h5>
+                <p>Join us in downtown Glens Falls for our 8th Annual Pet Fest Celebration! This event is for you and your furry friends to enjoy. ALL pets are welcome. This event is produced by the Glens Falls Collaborative with major support from the City of Glens Falls, the Glens Falls Business Improvement District and Advokate. Visit with vendors like groomers, boarders, non-profits, veterinarians, and more!
                 </p>
               </div>
             </div>
