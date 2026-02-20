@@ -451,6 +451,24 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/veteranStandDown2026.pdf" target="_blank">Veteran Stand Down</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/veteranStandDown2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/veteranStandDown2026.png" alt="Veteran Stand Down 2026">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 2nd, 2026 - 9am to 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/a6fgD8b27YrkJuM8A" target="_blank">Historic Catskill Point - 1 Main St, Catskill</a></h5>
+                <p>Columbia and Greene County invite you to join the Veteran Stand Down event on May 2nd in scenic and historic Catskill. Free pancake breakfast and lunch will be open to all Veterans with lots of Vendors, medical screenings, personal care items, clothing, haircuts, Veteran benefits assistance, employment assistance, housing assistance and much more!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://glensfallscollaborative.com/pet-fest" target="_blank">Glens Falls Pet Fest</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -472,7 +490,7 @@
             <h4 class='link'>Women Veteran Recognition Day</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/womenVeteransDay2026.png" alt="Women Veteran Recognition Day ">
+                <img class="img-fluid" src="/public/img/womenVeteransDay2026.png" alt="Women Veteran Recognition Day">
               </div>
               <div class="col-lg-9 col-md-8">
                 <h5>May 28th, 2026 - 9am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/nPGZRe7xtBJjY7yQ9" target="_blank">Albany Legislative Building</a></h5>
