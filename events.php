@@ -150,6 +150,25 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/WorkoutforPaws2026.pdf" target="_blank">Workout for Paws</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/WorkoutforPaws2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/WorkoutforPaws2026.png" alt="Workout for Paws 2026">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>July 25th at 7:30am and 9am - <a class="link text-dark" href="https://maps.app.goo.gl/YmaEf7aFHjDEbHt98" target="_blank">24 Lisha Kill Rd, Albany</a></h5>
+                <p>CrossFit for the People is a great place for a workout, knowledgeable and supports Veterans and First Responders!
+                  We are honored that they have agreed to partner with Ibi Semper to hold an annual fundraiser for us to benefit our program. Join us and start your day benefitting your health and the Community around you.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
