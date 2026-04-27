@@ -93,26 +93,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="public/pdf/WoofWarriorsTriviaNight2026.pdf" target="_blank">Woof Warriors Trivia Night</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="public/pdf/WoofWarriorsTriviaNight2026.pdf" target="_blank">
-                  <img class="img-fluid" src="/public/img/woofWarriorsTrivia2026.png" alt="Woof Warriors Trivia Night">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5 class='mb-1'>March 28th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
-                <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
-                <p>
-                  Great evening out to support local heroes and shelter dogs! Form your team of family members, friends and/or co-workers and join us for a fun evening out. You may just win the team prize or a raffle basket(s) while having a great time! Light fare for purchase and cash bar is available. Register at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a> with your team name and number of people.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org" target="_blank">Bark Brew & Tattoo</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -168,6 +148,26 @@
         </div>
 
         <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="public/pdf/WoofWarriorsTriviaNight2026.pdf" target="_blank">Woof Warriors Trivia Night</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="public/pdf/WoofWarriorsTriviaNight2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofWarriorsTrivia2026.png" alt="Woof Warriors Trivia Night">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5 class='mb-1'>March 28th at 6pm - <a class="link text-dark" href="https://maps.app.goo.gl/vT2sJq1jFqRnkWbE7" target="_blank">Brunswick Elks Lodge, 665 Brunswick Rd, Troy</a></h5>
+                <p>Doors open at 6pm, event starts at 6:30pm until 9pm. </p>
+                <p>
+                  Great evening out to support local heroes and shelter dogs! Form your team of family members, friends and/or co-workers and join us for a fun evening out. You may just win the team prize or a raffle basket(s) while having a great time! Light fare for purchase and cash bar is available. Register at <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=Woof Warriors Registration" target="_blank">ibisempertraining@gmail.com</a> with your team name and number of people.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/NathansCelebration2026.pdf" target="_blank">Nathan’s Celebration of Life</a></h4>
@@ -452,22 +452,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/veteransService2success2026.png" alt="veteransService2success2026">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>April 18th, 2026 - Location - TBD</h5>
-                <p>Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="/public/pdf/veteranStandDown2026.pdf" target="_blank">Veteran Stand Down</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -536,6 +520,22 @@
         </div>
 
         <!--
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/veteransService2success2026.png" alt="veteransService2success2026">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>April 18th, 2026 - Location - TBD</h5>
+                <p>Veterans’ Service2Success provides FREE access to entrepreneurship, employment, education and benefits information for Veterans and their families. Veteran services providers, employers, academic institutions, and public/private entities will exhibit for this day-long event. Featured will be informational sessions for entrepreneurial resources, Veterans’ benefits assistance, a job fair, and networking opportunities with dozens of exhibitors.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/veteranLawDay2025.pdf" target="_blank">2025 Annual Pro Bono Veteran Law Day</a></h4>
