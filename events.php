@@ -470,6 +470,23 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.adirondackbasement.com/about-us/press-release/2774-adirondack-basement-systems-hosts-cars-canines-2026-a-fundraiser-to-support-the-animal-protective-foundation.html" target="_blank">Cars & Canines</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.adirondackbasement.com/about-us/press-release/2774-adirondack-basement-systems-hosts-cars-canines-2026-a-fundraiser-to-support-the-animal-protective-foundation.html" target="_blank">
+                  <img class="img-fluid" src="/public/img/cars-and-canines.jpg" alt="Cars & Canines">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 9th from 10am - 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/gnocwqeWvTNV4iRm8" target="_blank">80 Sheehan St, Mechanicville</a></h5>
+                <p>Join us at the Adirondack Basement Systems warehouse for a dog park grand opening, adoption event, vendor and craft fair, classic car show, and more! All vendor proceeds will be donated to the Animal Protective Foundation to help with repairs to a recent water leak in their surgical quite.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://glensfallscollaborative.com/pet-fest" target="_blank">Glens Falls Pet Fest</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -497,6 +514,23 @@
                 <h5>May 28th, 2026 - 9am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/nPGZRe7xtBJjY7yQ9" target="_blank">Albany Legislative Building</a></h5>
                 <p>Celebrate the Annual Women Veterans Recognition Day in Albany. We will once again celebrate women veterans from all over New York State on Thursday, May 28th.
                 </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.albanycountyny.gov/Home/Components/Calendar/Event/9576/3797?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZ01hM0NibEhCNFFCckZtN3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4YIvOn0SGZLmsBK8GjBFwSuSd_0KbT5N7wKwrQfMBEc0Lb-_I5mcBbK64-Wg_aem_e6gd7ZklYtatIeEQV95NYw" target="_blank">Women Veterans Engage</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.albanycountyny.gov/Home/Components/Calendar/Event/9576/3797?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExZ01hM0NibEhCNFFCckZtN3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4YIvOn0SGZLmsBK8GjBFwSuSd_0KbT5N7wKwrQfMBEc0Lb-_I5mcBbK64-Wg_aem_e6gd7ZklYtatIeEQV95NYw" target="_blank">
+                  <img class="img-fluid" src="/public/img/WVE2026.jpg" alt="Women Veterans Engage">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>May 30th - 10am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/q4i3Umxu3WCLjucZA" target="_blank">American Legion Post 1040 - Delmar</a></h5>
+                <p>The Albany County Veterans Service Bureau proudly invites Women Veterans, Service Members, and Allies to attend our Women Veterans Engage 2026 Conference — a day dedicated to empowerment, connection, and community. This inclusive gathering is designed to bring together women who have served, those currently serving, and supporters to break barriers, foster meaningful relationships, and strengthen our military-connected community.</p>
               </div>
             </div>
           </div>
