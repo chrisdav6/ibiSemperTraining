@@ -230,14 +230,29 @@
   <div id="news" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <a class="newsItem" href="https://www.pittwire.pitt.edu/features-articles/2026/04/28/volunteer-service-dog-canine-companion" target="_blank">
+        <span>April 2026</span>A service dog opened doors for this senior
+        <p>For Emma Levick, a dog made all the difference; in this case, a service dog named Zia. In 2022, just a week before starting classes her first year at Pitt, Levick was paired with a golden retriever-Labrador mix from Canine Companions... (read more)</p>
+      </a>
+
+      <a class="newsItem" href="https://www.youtube.com/watch?v=rImDET7moWU" target="_blank">
+        <span>March 2026</span>Service dog owners facing increased doubt over service animal legitimacy
+        <p>Experts say the pushback is due to a trend of pet owners bringing poorly-behaved, non-trained animals out in public, sometimes even wearing service animal vests... (read more)</p>
+      </a>
+
       <a class="newsItem" href="https://www.cnn.com/2026/02/12/health/dog-food-toxins-wellness?utm_source=cnn_Evening+Newsletter+-+Thursday%2C+February+12%2C+2026&utm_medium=email&bt_ee=IFHRE30g4tfnmeVUngJuE3kuHxD5itLAN%2Fk3a04CcCsS9YRnda8d71BuE5tqsueE&bt_ts=1770936147723" target="_blank">
         <span>February 2026</span>Commercial dog food contains ‘alarming’ levels of lead, mercury and other contaminants
-        <p>Samples of popular commercial dog foods contained “dangerous levels” of heavy metals, plastic contaminants, and acrylamide, a cancer-causing compound created when food is subjected to high heat, according to a new investigation.... (read more)</p>
+        <p>Samples of popular commercial dog foods contained “dangerous levels” of heavy metals, plastic contaminants, and acrylamide, a cancer-causing compound created when food is subjected to high heat, according to a new investigation... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.news-medical.net/news/20251007/Working-with-service-dogs-may-help-slow-biological-aging-in-female-veterans.aspx?fbclid=IwY2xjawNXs0xleHRuA2FlbQIxMABicmlkETFGUUd6QWlOMXhETHBNU2xHAR7dGap4lBpBS18EN6kXRgIN_TfkzcU-llxEL4W0_WF7fhWNL3HY_Szfd09fBQ_aem_mDO6OuEOi2CsfxTIqN7_Gg" target="_blank">
         <span>October 2025</span>Working with service dogs may help slow biological aging in female veterans
         <p>New research finds that "man's best friend" may help slow biological aging in women. This groundbreaking study, focused on female veterans in the United States, is among the first to examine the impact of working with service dogs on this often-overlooked population... (read more)</p>
+      </a>
+
+      <a class="newsItem" href="https://theconversation.com/dogs-are-helping-people-regulate-stress-even-more-than-expected-research-shows-254563" target="_blank">
+        <span>July 2025</span>Dogs are helping people regulate stress even more than expected, research shows
+        <p>In a 2022 survey of 3,000 U.S. adults, more than one-third of respondents reported that on most days, they feel “completely overwhelmed” by stress. At the same time, a growing body of research is documenting.... (read more)</p>
       </a>
 
       <a class="newsItem" href="https://www.militarytimes.com/news/2025/01/03/40-rise-in-mental-health-diagnoses-among-troops-report-finds/?utm_source=sailthru&utm_medium=email&utm_campaign=marine-dnr" target="_blank">
