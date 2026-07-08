@@ -452,6 +452,80 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/empire-state-plaza-albany-ny-united-states-new-york-12242/veterans-appreciation-day-lunchtime-at-the-plaza-music-series-presented-by-mt-ba/981904510886535/" target="_blank">Veterans Appreciation Day at the NYS Empire State Plaza</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/events/empire-state-plaza-albany-ny-united-states-new-york-12242/veterans-appreciation-day-lunchtime-at-the-plaza-music-series-presented-by-mt-ba/981904510886535/" target="_blank">
+                  <img class="img-fluid" src="/public/img/VAD2026.png" alt="Veterans Appreciation Day">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>July 15th, 2026 - 10am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/ck4gYBHhiL5JG5gN7" target="_blank">Empire State Plaza, Albany, NY</a></h5>
+                <p>The Lunchtime at the Plaza Music series is presented by M&T Bank and for Veteran’s Appreciation Day the Band that will be performing is the Big Empty Band.
+                  The Band performs from 12:00- 1:30 on our stage outdoors next to the EGG. Several Veteran’s organizations have been invited to share their information to assist Veteran’s.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2025-26/releases/2026PromotionsNights" target="_blank">ValleyCats Tunnel2Towers Fundraiser</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://tcvalleycats.com/sports/bsb/2025-26/releases/2026PromotionsNights" target="_blank">
+                  <img class="img-fluid" src="/public/img/TunneltoTowers2026.png" alt="ValleyCats Tunnel2Towers Fundraiser">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>August 11th, 2026 - 5pm - <a class="link text-dark" href="https://maps.app.goo.gl/fXirDeZNFnbqoNWX6" target="_blank">Joseph L. Bruno Stadium, Troy</a></h5>
+                <p>Join us for the 10th Annual T2T Fundraiser, and the 25th Anniversary for Tunnel to Towers, supporting Veterans.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/SafeAtLastAnimalRescue/posts/%EF%B8%8F-save-the-date-dog-days-of-summer-is-back-%EF%B8%8Fjoin-us-for-the-%F0%9D%9F%B0%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%BB%F0%9D%98%82%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B4-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%86%F0%9D%98%80-/1468870098602783/" target="_blank">4th Annual Dog Days of Summer</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.facebook.com/SafeAtLastAnimalRescue/posts/%EF%B8%8F-save-the-date-dog-days-of-summer-is-back-%EF%B8%8Fjoin-us-for-the-%F0%9D%9F%B0%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%BB%F0%9D%98%82%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%97%F0%9D%97%BC%F0%9D%97%B4-%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%86%F0%9D%98%80-/1468870098602783/" target="_blank">
+                  <img class="img-fluid" src="/public/img/dogdays2026.png" alt="Annual Dog Days">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>August 15th, 2026 - 1pm to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/aM4VtHoM97jdrsxC8" target="_blank">Middleburgh Winery, 2636 State Highway 145</a></h5>
+                <p>A small family oriented, dog friendly for friendly dogs winery where you can taste before you buy! Bring a picnic lunch; enjoy a wine slushie; play lawn games; great view! This is a celebration of 𝗱𝗼𝗴𝘀, 𝗿𝗲𝘀𝗰𝘂𝗲, 𝗮𝗻𝗱 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 — all while supporting local shelters and rescues working hard to help adoptable dogs find their forever homes. Enjoy an afternoon filled with: Adoptable dogs & rescue groups, Wine & wine slushies, Food trucks, Craft vendors, Professional photography, Raffles… and of course, LOTS of dogs!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://fcrspca.org/woofstock/" target="_blank">Fulton County Regional SPCA Woofstock</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://fcrspca.org/woofstock/" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofstock2026.png" alt="Woofstock 2026">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 12th, 2026 - 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MPnJfWnjAEqvgmZa8" target="_blank">Sherman’s Park, Caroga Lake</a></h5>
+                <p>FCRSPCA's 14th Annual Woofstock is back for its biggest and best year yet! Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a (dog-friendly) charity music & arts festival! Join us at the historic former Sherman’s Amusement Park for an afternoon of music, art, and activities for the entire family (dogs too)! Admission $20 pre-sale and day of. Live music, Raffles, Food trucks, Beer tasting, Non-musical entertainment, Vendors, Dog-friendly fun, AND MORE!! MUSICAL LINEUP: Cleenstreet, FLAME, Grandstand Jockeys. THINGS TO DO: Kid's Activities, Stump City Brewing, GESD Student Art Show. VENDORS, FOOD TRUCKS: Cousins Maine Lobster, Red Pop Lemonade.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--
+         <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="/public/pdf/veteranStandDown2026.pdf" target="_blank">Veteran Stand Down</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -552,8 +626,6 @@
             </div>
           </div>
         </div>
-
-        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4 class='link'>Veterans’ Service2Success Resource and Job Fair</h4>
