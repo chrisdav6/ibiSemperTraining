@@ -1,7 +1,7 @@
 <?php
-  $title = "IBI Semper Training - Application Forms";
-  $metaDesc = "Engage Veterans and First Responders with PTS, improve lives and help dogs in need through PTS Service
-  Dog training and promoting awareness of PTS";
+  $title = "IBI Semper Training - Therapy Dog Application Form";
+  $metaDesc = "Engage Veterans and First Responders with PTSD, improve lives and help dogs in need through PTSD Service
+  Dog training and promoting awareness of PTSD";
 ?>
 
 <!DOCTYPE html>
@@ -30,27 +30,14 @@
 
   <div class="secondary-heading">
     <div class="container">
-      <h1>PTS Application &amp; ADA Info</h1>
+      <h1>IST Therapy Dog Dog Application</h1>
       <hr>
     </div>
   </div>
 
   <div id="applications" class="secondary-content mt-4 mb-5">
     <div class="container">
-
-      <div class='application-container'>
-        <h3>Forms</h3>
-        <a href="therapyDogApplicationForm.php">IST Therapy Dog Application</a>
-        <a href="ptsdApplicationForm.php">IST PTS Service Dog Application</a>
-      </div>
-
-      <div class='application-container'>
-        <h3>ADA Information</h3>
-        <a href="https://www.ada.gov/resources/service-animals-2010-requirements/?fbclid=IwZXh0bgNhZW0CMTAAAR1lCZb3CvpLzR01H-y_IiC89eT3MelB1Dt0RQxeRdP2zhmRqIxKt6eyfN8_aem__5nBT35fLkQkAp_4XeIvAQ" target="_blank">NYS Laws Pertaining to Service Dogs</a>
-        <a href="https://criminaldefense.1800nynylaw.com/new-york-penal-law-242-05-interference-harassment-or-intimidatio.html?fbclid=IwZXh0bgNhZW0CMTAAAR0mDiPdULDwAiAbPnhvIXJHZVngw_p22Xcjb0FJnc83BNcNOkVK4TppbKw_aem_lubcMY0bKGIKiPfAj0xRHw" target="_blank">NYS Penalties If Interfering with SDs</a>
-        <a href="https://www.animallaw.info/topic/table-state-assistance-animal-laws?fbclid=IwZXh0bgNhZW0CMTAAAR2LN5NMgZzXFhap7GbWv-y5i53tnAfDIqAnVnq2Guh2qS9-Z0ONlO8mK20_aem_7yLVFC0E9pTgodGqK5FpZg" target="_blank">State Service Animal Laws</a>
-      </div>
-
+      <iframe onload="self.scrollTo(0,0)" src="https://docs.google.com/forms/d/e/1FAIpQLSfqW7qmfbmjiykab77pNExWZISPsjGVo4Lb6FKDIHAAv8KRSw/viewform?embedded=true" width="100%" height="4500" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
     </div>
   </div>
 

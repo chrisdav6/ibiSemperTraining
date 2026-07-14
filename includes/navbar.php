@@ -24,7 +24,7 @@
             <a class="nav-link" href="/events.php">Events</a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="/applicationForms.php">PTS Application &amp; ADA Info</a>
+            <a class="nav-link" href="/applicationForms.php">Dog Programs &amp; ADA Info</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
