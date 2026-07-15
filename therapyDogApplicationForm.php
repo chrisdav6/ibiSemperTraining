@@ -36,7 +36,9 @@
   </div>
 
   <div id="applications" class="secondary-content mt-4 mb-5">
+
     <div class="container">
+      <p class='mb-5'>We are accepting registration for the Therapy Dogs classes now and the program starts the beginning of September.</p>
       <iframe onload="self.scrollTo(0,0)" src="https://docs.google.com/forms/d/e/1FAIpQLSfqW7qmfbmjiykab77pNExWZISPsjGVo4Lb6FKDIHAAv8KRSw/viewform?embedded=true" width="100%" height="4500" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
     </div>
   </div>
