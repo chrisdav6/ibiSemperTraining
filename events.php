@@ -46,22 +46,6 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4 class='link'>IST 2026 Calendar - $22 Each</h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <img class="img-fluid" src="/public/img/istCalendar2026.png" alt="IST Calendar 2026">
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCalendar2026.pdf" target="_blank">Sneak Peek Here</a></h5>
-                <p>Here is the perfect Christmas gift for the office and family. All dogs are Service Dogs that were either in the program, have graduated or been adopted through our program. Please order here: <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with quantities and contact information. We accept Venmo/PayPal/credit card. Order yours now!
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
             <h4 class='link'>IST Cookbook</h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -91,6 +75,7 @@
           </div>
         </div>
 
+        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.barkbrewtattoo.org" target="_blank">Bark Brew & Tattoo</a></h4>
@@ -139,15 +124,30 @@
               <div class="col-lg-9 col-md-8">
                 <h5>August 1st (Rain Date 8th) - 10am - KSU at 12pm - <a class="link text-dark" href="https://g.page/BrunswickHarley?share" target="_blank">Brunswick Harley-Davidson</a></h5>
                 <p>Please join us for our 6th annual PTS & Service Dog Awareness motorcycle ride at Brunswick Harley Davidson. You will be able to enjoy vendors, entertainment and we will have lunch and raffles at our end destination. You will support a Veterans & First Responders program that improves the lives of humans, as well as shelter dogs. Our Vendors are either Veteran owned businesses, benefitting Veterans or dogs. Ride and or stop by backing a worthy cause that supports your local community. Thank you.</p>
-                <!-- <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
+                <a class='btn btn-primary btn-sm' href="https://forms.gle/HyigqiEvE323E71g9" target="_blank">
                   Register Here
-                </a> -->
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4 class='link'>IST 2026 Calendar - $22 Each</h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <img class="img-fluid" src="/public/img/istCalendar2026.png" alt="IST Calendar 2026">
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>Available Now Until Supplies Last - <a class="btn btn-primary btn-sm" href="/public/pdf/ISTCalendar2026.pdf" target="_blank">Sneak Peek Here</a></h5>
+                <p>Here is the perfect Christmas gift for the office and family. All dogs are Service Dogs that were either in the program, have graduated or been adopted through our program. Please order here: <a class="link text-dark" href="mailto:ibisempertraining@gmail.com?subject=IST Calendar, Yes Please!" target="_blank">ibisempertraining@gmail.com</a> with quantities and contact information. We accept Venmo/PayPal/credit card. Order yours now!
+                </p>
               </div>
             </div>
           </div>
         </div>
 
-        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="public/pdf/WoofWarriorsTriviaNight2026.pdf" target="_blank">Woof Warriors Trivia Night</a></h4>
@@ -452,23 +452,23 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/empire-state-plaza-albany-ny-united-states-new-york-12242/veterans-appreciation-day-lunchtime-at-the-plaza-music-series-presented-by-mt-ba/981904510886535/" target="_blank">Veterans Appreciation Day at the NYS Empire State Plaza</a></h4>
+            <h4><a class="text-dark fund-link" href="https://fcrspca.org/woofstock/" target="_blank">Fulton County Regional SPCA Woofstock</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://www.facebook.com/events/empire-state-plaza-albany-ny-united-states-new-york-12242/veterans-appreciation-day-lunchtime-at-the-plaza-music-series-presented-by-mt-ba/981904510886535/" target="_blank">
-                  <img class="img-fluid" src="/public/img/VAD2026.png" alt="Veterans Appreciation Day">
+                <a href="https://fcrspca.org/woofstock/" target="_blank">
+                  <img class="img-fluid" src="/public/img/woofstock2026.png" alt="Woofstock 2026">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>July 15th, 2026 - 10am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/ck4gYBHhiL5JG5gN7" target="_blank">Empire State Plaza, Albany, NY</a></h5>
-                <p>The Lunchtime at the Plaza Music series is presented by M&T Bank and for Veteran’s Appreciation Day the Band that will be performing is the Big Empty Band.
-                  The Band performs from 12:00- 1:30 on our stage outdoors next to the EGG. Several Veteran’s organizations have been invited to share their information to assist Veteran’s.
+                <h5>September 12th, 2026 - 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MPnJfWnjAEqvgmZa8" target="_blank">Sherman’s Park, Caroga Lake</a></h5>
+                <p>FCRSPCA's 14th Annual Woofstock is back for its biggest and best year yet! Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a (dog-friendly) charity music & arts festival! Join us at the historic former Sherman’s Amusement Park for an afternoon of music, art, and activities for the entire family (dogs too)! Admission $20 pre-sale and day of. Live music, Raffles, Food trucks, Beer tasting, Non-musical entertainment, Vendors, Dog-friendly fun, AND MORE!! MUSICAL LINEUP: Cleenstreet, FLAME, Grandstand Jockeys. THINGS TO DO: Kid's Activities, Stump City Brewing, GESD Student Art Show. VENDORS, FOOD TRUCKS: Cousins Maine Lobster, Red Pop Lemonade.
                 </p>
               </div>
             </div>
           </div>
         </div>
 
+        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2025-26/releases/2026PromotionsNights" target="_blank">ValleyCats Tunnel2Towers Fundraiser</a></h4>
@@ -507,23 +507,22 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://fcrspca.org/woofstock/" target="_blank">Fulton County Regional SPCA Woofstock</a></h4>
+            <h4><a class="text-dark fund-link" href="https://www.facebook.com/events/empire-state-plaza-albany-ny-united-states-new-york-12242/veterans-appreciation-day-lunchtime-at-the-plaza-music-series-presented-by-mt-ba/981904510886535/" target="_blank">Veterans Appreciation Day at the NYS Empire State Plaza</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://fcrspca.org/woofstock/" target="_blank">
-                  <img class="img-fluid" src="/public/img/woofstock2026.png" alt="Woofstock 2026">
+                <a href="https://www.facebook.com/events/empire-state-plaza-albany-ny-united-states-new-york-12242/veterans-appreciation-day-lunchtime-at-the-plaza-music-series-presented-by-mt-ba/981904510886535/" target="_blank">
+                  <img class="img-fluid" src="/public/img/VAD2026.png" alt="Veterans Appreciation Day">
                 </a>
               </div>
               <div class="col-lg-9 col-md-8">
-                <h5>September 12th, 2026 - 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MPnJfWnjAEqvgmZa8" target="_blank">Sherman’s Park, Caroga Lake</a></h5>
-                <p>FCRSPCA's 14th Annual Woofstock is back for its biggest and best year yet! Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a (dog-friendly) charity music & arts festival! Join us at the historic former Sherman’s Amusement Park for an afternoon of music, art, and activities for the entire family (dogs too)! Admission $20 pre-sale and day of. Live music, Raffles, Food trucks, Beer tasting, Non-musical entertainment, Vendors, Dog-friendly fun, AND MORE!! MUSICAL LINEUP: Cleenstreet, FLAME, Grandstand Jockeys. THINGS TO DO: Kid's Activities, Stump City Brewing, GESD Student Art Show. VENDORS, FOOD TRUCKS: Cousins Maine Lobster, Red Pop Lemonade.
+                <h5>July 15th, 2026 - 10am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/ck4gYBHhiL5JG5gN7" target="_blank">Empire State Plaza, Albany, NY</a></h5>
+                <p>The Lunchtime at the Plaza Music series is presented by M&T Bank and for Veteran’s Appreciation Day the Band that will be performing is the Big Empty Band.
+                  The Band performs from 12:00- 1:30 on our stage outdoors next to the EGG. Several Veteran’s organizations have been invited to share their information to assist Veteran’s.
                 </p>
               </div>
             </div>
           </div>
         </div>
-
-        <!--
          <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="/public/pdf/veteranStandDown2026.pdf" target="_blank">Veteran Stand Down</a></h4>
@@ -1186,7 +1185,29 @@
 
       <div class="row">
 
-        <!-- <div class="col-12 mb-5">
+        <div class="col-12 mb-5 pb-5">
+          <h4>No Events Scheduled - Please check back later.</h4>
+        </div>
+
+        <!-- 
+      <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://servicedogs4vets.org/conference" target="_blank">National Service Dog for Veterans Conference</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://servicedogs4vets.org/conference" target="_blank">
+                  <img class="img-fluid" src="/public/img/nationalServiceDogsConference2026.png" alt="National Service Dog for Veterans Conference">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>July 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
+                <p>The annual conference consists of two full days of conference formatting for administrative, veterans & first responders, mental health & dog training tracks. Join us July 2026, at the St. Charles Convention Center in St. Louis, Missouri. This year, we are also including seminars & workshops prior to our conference.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.healthydogexpo.com" target="_blank">Healthy Dog Expo</a></h4>
             <div class="row">
@@ -1203,22 +1224,6 @@
           </div>
         </div> -->
 
-        <div class="col-12 mb-5">
-          <div class="longFundraiser">
-            <h4><a class="text-dark fund-link" href="https://servicedogs4vets.org/conference" target="_blank">National Service Dog for Veterans Conference</a></h4>
-            <div class="row">
-              <div class="col-lg-3 col-md-4 mb-4">
-                <a href="https://servicedogs4vets.org/conference" target="_blank">
-                  <img class="img-fluid" src="/public/img/nationalServiceDogsConference2026.png" alt="National Service Dog for Veterans Conference">
-                </a>
-              </div>
-              <div class="col-lg-9 col-md-8">
-                <h5>July 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/7oqQypx555grnRYS7" target="_blank">St. Louis, MO</a></h5>
-                <p>The annual conference consists of two full days of conference formatting for administrative, veterans & first responders, mental health & dog training tracks. Join us July 2026, at the St. Charles Convention Center in St. Louis, Missouri. This year, we are also including seminars & workshops prior to our conference.</p>
-              </div>
-            </div>
-          </div>
-        </div>
 
       </div><!-- /row -->
 
