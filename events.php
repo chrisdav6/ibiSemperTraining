@@ -452,6 +452,26 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://www.adirondackchamber.org/events/details/6th-annual-veteran-first-responder-suicide-awareness-prevention-walk-4951" target="_blank">Veteran & First Responder Suicide Prevention Walk</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://www.adirondackchamber.org/events/details/6th-annual-veteran-first-responder-suicide-awareness-prevention-walk-4951" target="_blank">
+                  <img class="img-fluid" src="/public/img/FirstResponderSuicideAwarenessWalk.png" alt="First Responder Suicide Awareness & Prevention Walk 2026">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 9th, 2026 - 3:30pm - <a class="link text-dark" href="https://maps.app.goo.gl/jkg4H116otSxYSeV9" target="_blank">Glens Falls City Park</a></h5>
+                <p>The Veterans Business Network of the Adirondack Regional Chamber of Commerce invites you to their 6th Annual Veteran & First Responder Suicide Awareness & Prevention Walk. The number of Veteran & first responder suicides continue to rise world-wide. The ARCC's Veteran Business Network is committed to helping raise awareness and create an impact on prevention.
+                </p>
+
+                <p class='font-weight-bold'>This community event is open to everyone and will feature resource booths for Veterans, active duty military, and first responders.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://fcrspca.org/woofstock/" target="_blank">Fulton County Regional SPCA Woofstock</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -462,6 +482,42 @@
               <div class="col-lg-9 col-md-8">
                 <h5>September 12th, 2026 - 1pm - <a class="link text-dark" href="https://maps.app.goo.gl/MPnJfWnjAEqvgmZa8" target="_blank">Sherman’s Park, Caroga Lake</a></h5>
                 <p>FCRSPCA's 14th Annual Woofstock is back for its biggest and best year yet! Fulton County Regional SPCA in collaboration with Caroga Arts Collective, presents WOOFSTOCK - a (dog-friendly) charity music & arts festival! Join us at the historic former Sherman’s Amusement Park for an afternoon of music, art, and activities for the entire family (dogs too)! Admission $20 pre-sale and day of. Live music, Raffles, Food trucks, Beer tasting, Non-musical entertainment, Vendors, Dog-friendly fun, AND MORE!! MUSICAL LINEUP: Cleenstreet, FLAME, Grandstand Jockeys. THINGS TO DO: Kid's Activities, Stump City Brewing, GESD Student Art Show. VENDORS, FOOD TRUCKS: Cousins Maine Lobster, Red Pop Lemonade.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://catskillmountainthunder.com" target="_blank">Catskill Mountain Thunder</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://catskillmountainthunder.com" target="_blank">
+                  <img class="img-fluid" src="/public/img/CatskillMountainThunder2026.png" alt="Catskill Mountain Thunder">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 18-20th, 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/bcz8cM39MNGn6wNV8" target="_blank">348 Sunside, East Durham, NY</a></h5>
+                <p>The Handel Family welcomes you to come and celebrate Catskill Mountain Thunder, a motorcycle festival like no other. Ibi Semper will vendor at the Vendor Expo and we look forward to meet you there.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://mvparena.com/rwb2026" target="_blank">Red White and Brew</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://mvparena.com/rwb2026" target="_blank">
+                  <img class="img-fluid" src="/public/img/redWhiteBrew2026.png" alt="Red White and Brew">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 19th, 2026 - 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/oipfKUhdRpUR4bRB9" target="_blank">South Pearl Street in front of MVP</a></h5>
+                <p>The third annual Red, White & Brew Festival featuring Lee Brice, with special guest Grace Tyler, and also featuring Bro Country & Whiskey City will be infront of MVP Arena on South Pearl St. beginning at 2pm. Enjoy this FREE, family friendly celebration to honor our nation’s Veterans with a full day of live music, local vendors, and delicious food.
                 </p>
               </div>
             </div>
