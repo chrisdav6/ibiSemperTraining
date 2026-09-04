@@ -1239,10 +1239,23 @@
 
       <h2>Continuing Education</h2>
 
-      <div class="row">
+      <div class="row mb-5">
 
-        <div class="col-12 mb-5 pb-5">
-          <h4>No Events Scheduled - Please check back later.</h4>
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://nyssuicidepreventionconference.org" target="_blank">2026 NYS Suicide Prevention Conference</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://nyssuicidepreventionconference.org" target="_blank">
+                  <img class="img-fluid" src="/public/img/2026NYSSuicidePreventionConference.png" alt="2026 NYS Suicide Prevention Conference">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>September 29th - 30th, 2026 - <a class="link text-dark" href="https://maps.app.goo.gl/i2NsoLd4S61eu8Pz5" target="_blank">Ithaca Conference Center</a></h5>
+                <p>This year's conference will bring together community leaders and experts to explore innovative suicide prevention strategies specifically tailored to the unique needs of our rural communities. Together, we will share "Rooted in Action" solutions that prioritize connection, care, and resilience. Registration for this event is at capacity. We registered early and are happy to attend this event.</p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <!-- 
