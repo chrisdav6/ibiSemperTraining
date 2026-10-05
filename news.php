@@ -42,7 +42,7 @@
     <div id="largeNews" class="secondary-content mb-5 mt-5">
       <div class="container">
         <div class="largeNewsItem">
-          <h4><a class="link text-dark" href='https://cbs6albany.com/news/local/albany-nonprofit-ibi-semper-training-opens-new-space-oct-24-at-7-wembley-court' target='_blank'>October 2026 - Ibi Semper Training Opens New Space</a></h4>
+          <h4><a class="link text-dark" href='https://cbs6albany.com/news/local/albany-nonprofit-ibi-semper-training-opens-new-space-oct-24-at-7-wembley-court' target='_blank'>October 2026 - Ibi Semper Training opens new space Oct. 24 at 7 Wembley Court</a></h4>
           <p class="mb-4">Engaging veterans and first responders, improving lives, and helping dogs in need- that is the mission behind Ibi Semper Training.</p>
 
           <a href='https://cbs6albany.com/news/local/albany-nonprofit-ibi-semper-training-opens-new-space-oct-24-at-7-wembley-court' target='_blank'>
