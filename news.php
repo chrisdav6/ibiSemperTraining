@@ -42,6 +42,19 @@
     <div id="largeNews" class="secondary-content mb-5 mt-5">
       <div class="container">
         <div class="largeNewsItem">
+          <h4><a class="link text-dark" href='https://cbs6albany.com/news/local/albany-nonprofit-ibi-semper-training-opens-new-space-oct-24-at-7-wembley-court' target='_blank'>October 2026 - Ibi Semper Training Opens New Space</a></h4>
+          <p class="mb-4">Engaging veterans and first responders, improving lives, and helping dogs in need- that is the mission behind Ibi Semper Training.</p>
+
+          <a href='https://cbs6albany.com/news/local/albany-nonprofit-ibi-semper-training-opens-new-space-oct-24-at-7-wembley-court' target='_blank'>
+            <img src='/public/img/newSpace2026.png' class='img-fluid' />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div id="largeNews" class="secondary-content mb-5 mt-5">
+      <div class="container">
+        <div class="largeNewsItem">
           <h4>August 2026 - 6th Annual PTSD & Service Dog Awareness Ride </h4>
           <p class="mb-4">We thank <a class="link text-dark" href="https://www.facebook.com/AIVMCNY" target="_blank">American Infidels VMC New York</a> for co-sponsoring our ride, all the sponsors, donors, <a class="link text-dark" href="https://www.facebook.com/BrunswickHarley" target="_blank">Brunswick Harley-Davidson</a> for always being fabulous hosts, <a class="link text-dark" href="https://www.facebook.com/hillcreektavern" target="_blank">Hill Creek Tavern</a> for being our end destination and the delicious food everyone loved, <a class="link text-dark" href="https://www.facebook.com/renscosheriff" target="_blank">Rensselaer County Sheriff's Office</a> for the ride escort and all the riders that participated!! We had visiting riders from Canada, MA, CT, MN, NH and more! Thanks to our vendors <a class="link text-dark" href="https://www.facebook.com/SaintRoccosTreats" target="_blank">Saint Rocco's Treats</a> and <a class="link text-dark" href="https://www.facebook.com/groups/1231782123562194/" target="_blank">ARTS4VETS and much much more/ Support our Troops committee</a>! I thank our teams that attended and all the volunteers that helped make this event a success! I’m grateful for <a class="link text-dark" href="https://www.facebook.com/wten.albany" target="_blank">WTEN Channel10</a> covering this event! You can still donate to us if you were unable to attend in person on our website at <a class="link text-dark" href="https://ibisempertraining.org/" target="_blank">Ibisempertraining.org</a></p>
 
