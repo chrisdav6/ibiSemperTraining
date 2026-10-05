@@ -88,6 +88,18 @@
         </div>
       </div>
 
+      <div class="staffMember">
+        <div class="staffImage">
+          <img class="img-fluid" src="./public/img/JakeOreshan.png" alt="Jake Picture">
+        </div>
+        <div class="staffContent">
+          <h3>Jake Oreshan III - Board Member</h3>
+          <hr>
+          <p>Jake Oreshan is a 39-year volunteer firefighter and retired Deputy Chief with the New York State Office of Fire Prevention & Control. Throughout his career, he responded to natural disasters and rescue operations as part of New York State’s Urban Search and Rescue Team (NYTF-2). He graduated from Ibi Semper Training with his Service Dog, Eri. Jake is an avid outreach assistant for many IST events and believes in spreading the word about the benefits of having a service dog.
+          </p>
+        </div>
+      </div>
+
       <!-- <div class="staffMember">
         <div class="staffImage">
           <img class="img-fluid" src="./public/img/jean.png" alt="Jean Picture">
