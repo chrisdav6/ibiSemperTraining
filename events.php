@@ -489,6 +489,25 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/heroesOnUnion2026.pdf" target="_blank">Heroes on Union</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/heroesOnUnion2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/heroesOnUnion2026.png" alt="Heroes on Union">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 14th, 2026 - 10am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/1pa3dT3evyY3MjTY8" target="_blank">St. Kateri Tekakwitha Parish School</a></h5>
+                <p>3rd Annual Veteran Vendor Event. Perfect time for Holiday shopping. Shop small businesses, support local Veterans, pictures with Santa.
+                </p>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!--
 
          <div class="col-12 mb-5">
