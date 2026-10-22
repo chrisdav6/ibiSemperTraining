@@ -452,6 +452,28 @@
 
         <div class="col-12 mb-5">
           <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="https://empirestateplaza.ny.gov/event/healthy-living-expo-2026" target="_blank">Empire State Healthy Living Expo</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="https://empirestateplaza.ny.gov/event/healthy-living-expo-2026" target="_blank">
+                  <img class="img-fluid" src="/public/img/healthyLivingExpo2026.png" alt="Empire State Healthy Living Expo">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 4th, 2026 - 10am to 2pm - <a class="link text-dark" href="https://maps.app.goo.gl/D775wQNhsQCQvtd28" target="_blank">Empire State Plaza Concourse</a></h5>
+                <p>Stay fit as a fiddle this Fall season! FREE flu shots<strong>*</strong> and blood pressure screenings with a registered nurse, courtesy of Adirondack Health and Wellness. No appointment necessary, just walk in and get your health checked! Plus vendors, information booths, and a farmers market full of fresh produce aimed at helping you live your healthiest life.
+                </p>
+                <p><strong>*with proof of insurance</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--
+
+         <div class="col-12 mb-5">
+          <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://www.adirondackchamber.org/events/details/6th-annual-veteran-first-responder-suicide-awareness-prevention-walk-4951" target="_blank">Veteran & First Responder Suicide Prevention Walk</a></h4>
             <div class="row">
               <div class="col-lg-3 col-md-4 mb-4">
@@ -524,7 +546,6 @@
           </div>
         </div>
 
-        <!--
         <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://tcvalleycats.com/sports/bsb/2025-26/releases/2026PromotionsNights" target="_blank">ValleyCats Tunnel2Towers Fundraiser</a></h4>
