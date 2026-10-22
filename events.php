@@ -1301,6 +1301,12 @@
       <div class="row mb-5">
 
         <div class="col-12 mb-5">
+          <h4>No Events Scheduled - Please check back later.</h4>
+        </div>
+
+        <!-- 
+
+        <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://nyssuicidepreventionconference.org" target="_blank">2026 NYS Suicide Prevention Conference</a></h4>
             <div class="row">
@@ -1316,8 +1322,7 @@
             </div>
           </div>
         </div>
-
-        <!-- 
+        
       <div class="col-12 mb-5">
           <div class="longFundraiser">
             <h4><a class="text-dark fund-link" href="https://servicedogs4vets.org/conference" target="_blank">National Service Dog for Veterans Conference</a></h4>
