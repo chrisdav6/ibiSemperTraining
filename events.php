@@ -470,6 +470,25 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/FirstResponderHealth2026.pdf" target="_blank">First Responder Health & Wellness Resource Expo</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/FirstResponderHealth2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/FirstResponderHealth2026.png" alt="First Responder Health & Wellness Resource Expo">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 8th, 2026 - 10am to 3pm - <a class="link text-dark" href="https://maps.app.goo.gl/E5aH2sZoUY394XZm8" target="_blank">Albany Capital Center</a></h5>
+                <p>This one-day event is dedicated to promoting the physical, mental, emotional, financial, and social well-being of first responders and their families from across NY State.
+                </p>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!--
 
          <div class="col-12 mb-5">
