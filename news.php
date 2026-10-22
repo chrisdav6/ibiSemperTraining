@@ -39,6 +39,13 @@
 
   <div id="news" class="secondary-content mt-4 mb-2">
 
+    <div class="container">
+      <a class="newsItem" href="https://www.timesunion.com/news/article/duty-calls-new-ptsd-service-dog-training-site-open-22482667.php" target="_blank">
+        <span>October 2026</span>Duty Calls: Ibi Semper’s service dog training site Grand Opening!
+        <p>Ibi Semper Training founder Sonya Ward celebrates the grand opening of their new training facility in Colonie.</p>
+      </a>
+    </div>
+
     <div id="largeNews" class="secondary-content mb-5 mt-5">
       <div class="container">
         <div class="largeNewsItem">
