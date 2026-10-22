@@ -508,6 +508,25 @@
           </div>
         </div>
 
+        <div class="col-12 mb-5">
+          <div class="longFundraiser">
+            <h4><a class="text-dark fund-link" href="/public/pdf/ISOSLD2026.pdf" target="_blank">Veteran & First Responder Suicide Survivor Day</a></h4>
+            <div class="row">
+              <div class="col-lg-3 col-md-4 mb-4">
+                <a href="/public/pdf/ISOSLD2026.pdf" target="_blank">
+                  <img class="img-fluid" src="/public/img/ISOSLD2026.png" alt="Veteran & First Responder Suicide Survivor Day">
+                </a>
+              </div>
+              <div class="col-lg-9 col-md-8">
+                <h5>November 21st, 2026 - 1pm to 4pm - <a class="link text-dark" href="https://maps.app.goo.gl/QeeWbgA5Hju7GsmU8" target="_blank">Albany County Veteran's Bureau</a></h5>
+                <p>Open to Veterans, members of the Military, First Responders and their loved ones. Pre-registration is encouraged at <a class="link text-dark" href="https://vetsalbany.isosld.afsp.org" target="_blank">vetsalbany.isosld.afsp.org</a>. Every year the American Foundation for Suicide Prevention supports hundreds Survivor Day events, in which suicide loss survivors come together to find connection, understanding and hope through their shared experience. While each event is unique and offers various programming, all feature an AFSP-produced documentary that offers a message of growth, resilience and connection.
+                </p>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!--
 
          <div class="col-12 mb-5">
