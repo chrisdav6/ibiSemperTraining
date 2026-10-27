@@ -38,6 +38,12 @@
   <div id="applications" class="secondary-content mt-4 mb-5">
     <div class="container">
 
+      <div>
+        <p>A service dog is a highly trained dog that is assisting a single person with a diagnosed disability to perform specific tasks to mitigate, alert and provide support for symptoms or behaviors. A service dog is legally not considered a pet, but medical equipment and has access to areas the general public is allowed. It is protected by federal, civil nationwide law through the American with Disability Act (ADA) law. They are considered working animals (not pets), and the public should generally not pet or distract them while they are working.</p>
+
+        <p>A therapy dog provides psychological or physiological comfort, stress relief, and emotional support to groups of people. Therapy dogs visits public and institutional environments like hospitals, schools, nursing homes, and disaster relief sites as part of a volunteer team. Focuses on calm, friendly temperaments, basic obedience, and passing a certification test through organizations like the <a class="link text-dark" href='https://www.therapydogs.com/service-dog-vs-therapy-dog/' target='_blank'>Alliance of Therapy Dogs</a>. They are legally classified as pets and <strong>do not</strong> have ADA public access rights; they may only enter facilities by explicit invitation. </p>
+      </div>
+
       <div class='application-container'>
         <h3>Forms</h3>
         <a href="therapyDogApplicationForm.php">IST Therapy Dog Application</a>
