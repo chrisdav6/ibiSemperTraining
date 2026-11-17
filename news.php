@@ -39,6 +39,13 @@
 
   <div id="news" class="secondary-content mt-4 mb-2">
 
+  <div class="container">
+      <a class="newsItem" href="https://capitalregionchamber.com/news/local-nonprofit-celebrates-grand-opening-expands-support-for-veterans-and-first-responders" target="_blank">
+        <span>November 2026</span>Local Nonprofit Celebrates Grand Opening, Expands Support for Veterans and First Responders!
+        <p>The community turned out in force to celebrate the grand opening of Ibi Semper</p>
+      </a>
+    </div>
+
     <div class="container">
       <a class="newsItem" href="https://www.timesunion.com/news/article/duty-calls-new-ptsd-service-dog-training-site-open-22482667.php" target="_blank">
         <span>October 2026</span>Duty Calls: Ibi Semper’s service dog training site Grand Opening!
