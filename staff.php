@@ -52,7 +52,7 @@
 
       <div class="staffMember">
         <div class="staffImage">
-          <img class="img-fluid" src="./public/img/shelley.png" alt="Shelly Picture">
+          <img class="img-fluid" src="./public/img/shelley2026.png" alt="Shelly Picture">
         </div>
         <div class="staffContent">
           <h3>Shelley Dame - Board Member</h3>
